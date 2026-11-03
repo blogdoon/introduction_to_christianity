@@ -1,6 +1,6 @@
 /* One runnable check for the non-trivial logic in app.js. */
 const assert = require("assert");
-const { schedule, norm, buildItems, buildPlan, buildIcs, reflow, chunkText } = require("./app.js");
+const { schedule, norm, buildItems, buildPlan, buildIcs, reflow, chunkText, voiceScore } = require("./app.js");
 
 // text normalization: punctuation and case must not matter in the practice quiz
 assert.strictEqual(norm("  Cor-Dare!  "), "cor dare");
@@ -64,5 +64,13 @@ const chunks = chunkText(longText, 80);
 assert.ok(chunks.every((c) => c.length <= 80), "every chunk within cap");
 assert.strictEqual(chunks.join(" "), longText, "no text lost or reordered");
 assert.strictEqual(chunkText("One.", 280).length, 1);
+
+// voice picking: Edge/Azure neural voices must outrank generic and robotic ones
+const edgeAria = { name: "Microsoft Aria Online (Natural) - English (United States)", lang: "en-US" };
+const google = { name: "Google US English", lang: "en-US" };
+const espeak = { name: "espeak-ng", lang: "en" };
+assert.ok(voiceScore(edgeAria) > voiceScore(google), "neural voices beat generic ones");
+assert.ok(voiceScore(google) > voiceScore(espeak), "generic voices beat espeak");
+assert.ok(voiceScore({ name: "Microsoft Guy Online (Natural)", lang: "en-US" }) > voiceScore({ name: "Microsoft David Desktop", lang: "en-US" }), "natural beats non-natural Microsoft");
 
 console.log("check.js: all assertions passed");

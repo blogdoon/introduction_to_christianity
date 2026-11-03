@@ -331,7 +331,7 @@
       listen.addEventListener("click", (e) => {
         e.stopPropagation();
         stopReading();
-        speechSynthesis.speak(new SpeechSynthesisUtterance(c.title + ". " + c.idea));
+        speechSynthesis.speak(utteranceFor(c.title + ". " + c.idea));
       });
       foot.append(listen);
     }
@@ -569,7 +569,49 @@
   function speak(text) {
     if (!(typeof window !== "undefined" && window.speechSynthesis)) return;
     stopReading();
-    speechSynthesis.speak(new SpeechSynthesisUtterance(text));
+    speechSynthesis.speak(utteranceFor(text));
+  }
+
+  /* ── Voices: prefer the best neural voice. In Edge these are the
+        Microsoft "Online (Natural)" voices — the Azure/edge-tts set. ── */
+  let voices = [];
+
+  function voiceScore(v) {
+    const n = v.name;
+    let s = 0;
+    if (/natural/i.test(n)) s += 40;
+    if (/microsoft/i.test(n)) s += 20;
+    if (/aria|jenny|guy|mia|sonia|libby|xiaoxiao|nanook|wav/i.test(n)) s += 10;
+    if (/en[-_]/i.test(v.lang)) s += 5;
+    if (/espeak|robot|festival/i.test(n)) s -= 20;
+    return s;
+  }
+
+  function bestVoice() {
+    const saved = state.voice && voices.find((v) => v.name === state.voice);
+    if (saved) return saved;
+    return voices.slice().sort((a, b) => voiceScore(b) - voiceScore(a))[0] || null;
+  }
+
+  function utteranceFor(text) {
+    const u = new SpeechSynthesisUtterance(text);
+    const v = bestVoice();
+    if (v) { u.voice = v; u.lang = v.lang; }
+    return u;
+  }
+
+  function loadVoices() {
+    if (typeof window === "undefined" || !window.speechSynthesis) return;
+    voices = speechSynthesis.getVoices();
+    renderVoiceSelect();
+  }
+
+  function renderVoiceSelect() {
+    const sel = typeof document !== "undefined" && document.getElementById("reader-voice");
+    if (!sel || !voices.length) return;
+    sel.innerHTML = '<option value="">Best available voice</option>' + voices.map((v) =>
+      '<option value="' + esc(v.name) + '"' + (state.voice === v.name ? " selected" : "") + ">" +
+      esc(v.name) + " — " + esc(v.lang) + "</option>").join("");
   }
 
   function renderGlossary() {
@@ -718,7 +760,7 @@
     speaking = { page: n };
     if (btn) { btn.textContent = "Stop"; btn.classList.add("reader__read--on"); }
     chunks.forEach((c, i) => {
-      const u = new SpeechSynthesisUtterance(c);
+      const u = utteranceFor(c);
       if (i === chunks.length - 1) u.onend = () => stopReading();
       speechSynthesis.speak(u);
     });
@@ -853,6 +895,14 @@
       $("#reader-pages").className = "reader-pages reader-pages--" + readerSize;
     });
 
+    // voices: populate now and again when the browser finishes registering them
+    loadVoices();
+    if (window.speechSynthesis) window.speechSynthesis.onvoiceschanged = loadVoices;
+    $("#reader-voice").addEventListener("change", (e) => {
+      state.voice = e.target.value;
+      save();
+    });
+
     $("#reset-progress").addEventListener("click", () => {
       if (!confirm("Erase your review history in this browser? Notes are kept.")) return;
       state.items = {}; state.days = [];
@@ -866,5 +916,5 @@
   if (typeof document !== "undefined" && document.readyState !== "loading") init();
   else if (typeof document !== "undefined") document.addEventListener("DOMContentLoaded", init);
 
-  if (typeof module !== "undefined") module.exports = { schedule, norm, isDue, gradeable, buildItems, buildPlan, buildIcs, reflow, chunkText, ARTICLES, CONCEPTS };
+  if (typeof module !== "undefined") module.exports = { schedule, norm, isDue, gradeable, buildItems, buildPlan, buildIcs, reflow, chunkText, voiceScore, ARTICLES, CONCEPTS };
 })();

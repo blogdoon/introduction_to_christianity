@@ -474,6 +474,11 @@ a { color: inherit; }
   text-transform: uppercase; color: var(--gold); margin: 0;
 }
 .reader__read--on { background: var(--gold); border-color: var(--gold); color: #fff; }
+.reader__voice {
+  font-family: var(--sans); font-size: .82rem; color: var(--ink-soft);
+  border: 1px solid var(--line); border-radius: 8px; background: var(--card);
+  padding: .6rem .85rem; min-height: 42px; max-width: 14rem;
+}
 .reader-page h4 { font-family: var(--serif); font-size: 1.35rem; margin: 1.55rem 0 .85rem; }
 .reader-page p { font-family: var(--serif); font-size: 1.22rem; line-height: 1.8; margin: 0 0 1.15rem; }
 .reader-pages--0 .reader-page p { font-size: 1.05rem; }
