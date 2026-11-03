@@ -657,13 +657,14 @@
     const pages = window.BOOK_PAGES || [];
     const words = new Set();
     pages.forEach((p) => (p.toLowerCase().match(/[a-zà-ÿ'-]+/g) || []).forEach((w) => words.add(w)));
-    const canSpeak = typeof window !== "undefined" && window.speechSynthesis;
+    const canSpeak = typeof window !== "undefined" && "speechSynthesis" in window;
     $("#reader-pages").innerHTML = pages.map((text, i) => {
       const paras = text.split(/\n\s*\n/).map((b) => reflow(b, words)).filter(Boolean);
       return '<section class="reader-page" id="page-' + (i + 1) + '">' +
         '<div class="reader-page__head">' +
         '<p class="reader-page__label">PDF page ' + (i + 1) + "</p>" +
-        (canSpeak ? '<button class="btn btn--ghost btn--small reader__read" data-read="' + (i + 1) + '">Read aloud</button>' : "") +
+        '<button class="btn btn--ghost btn--small reader__read" data-read="' + (i + 1) + '"' +
+        (canSpeak ? "" : ' title="Text-to-speech is not available in this browser"') + ">Read aloud</button>" +
         "</div>" +
         paras.map((par) => (isHeading(par) ? "<h4>" + esc(par) + "</h4>" : "<p>" + esc(par) + "</p>")).join("") +
         "</section>";
@@ -699,7 +700,14 @@
   }
 
   function readPage(n) {
-    if (!(typeof window !== "undefined" && window.speechSynthesis)) return;
+    const btn = document.querySelector('.reader__read[data-read="' + n + '"]');
+    if (!(typeof window !== "undefined" && window.speechSynthesis)) {
+      if (btn) {
+        btn.textContent = "No TTS in this browser";
+        setTimeout(() => { btn.textContent = "Read aloud"; }, 2500);
+      }
+      return;
+    }
     if (speaking && speaking.page === n) return stopReading();
     stopReading();
     const section = document.getElementById("page-" + n);
@@ -708,7 +716,6 @@
     const chunks = chunkText(text);
     if (!chunks.length) return;
     speaking = { page: n };
-    const btn = document.querySelector('.reader__read[data-read="' + n + '"]');
     if (btn) { btn.textContent = "Stop"; btn.classList.add("reader__read--on"); }
     chunks.forEach((c, i) => {
       const u = new SpeechSynthesisUtterance(c);
@@ -738,7 +745,7 @@
   function ensureBook(then) {
     if (bookLoaded) return then();
     const s = document.createElement("script");
-    s.src = "src/book.js";
+    s.src = "src/book.js?v=2";
     s.onload = () => { bookLoaded = true; $("#search-hint").textContent = "Searching all 272 pages in your browser — nothing is sent anywhere."; then(); };
     s.onerror = () => { $("#search-hint").textContent = "Could not load the book text (src/book.js)."; };
     document.head.append(s);
