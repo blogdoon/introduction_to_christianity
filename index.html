@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Introduction to Christianity — A Study Companion to Ratzinger's Book</title>
+<meta name="description" content="Learn Ratzinger's Introduction to Christianity and never forget it: the Creed as a map, one big idea per chapter, spaced review, misreading alerts, argument maps, glossary, and the whole book searchable.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="nav">
+  <a class="nav__brand" href="#top">
+    <span class="nav__mark" aria-hidden="true">†</span>
+    <span>Introduction&nbsp;to&nbsp;Christianity</span>
+  </a>
+  <nav class="nav__links" aria-label="Sections">
+    <a href="#creed">Creed</a>
+    <a href="#ideas">Ideas</a>
+    <a href="#review">Review</a>
+    <a href="#practice">Practice</a>
+    <a href="#method">Method</a>
+    <a href="#concepts">Concepts</a>
+    <a href="#glossary">Terms</a>
+    <a href="#thinkers">Thinkers</a>
+    <a href="#sources">Sources</a>
+    <a href="#plan">Plan</a>
+    <a href="#search">Search</a>
+  </nav>
+  <div class="nav__progress" title="Ideas learned">
+    <svg viewBox="0 0 36 36" aria-hidden="true"><circle class="ring-bg" cx="18" cy="18" r="15.5"/><circle id="ring" class="ring-fg" cx="18" cy="18" r="15.5"/></svg>
+    <span id="ring-label">0%</span>
+  </div>
+</header>
+
+<!-- ───────────────────────────── HERO ───────────────────────────── -->
+<section class="hero" id="top">
+  <div class="hero__inner">
+    <div class="hero__text">
+      <p class="eyebrow eyebrow--gold">Joseph Cardinal Ratzinger · Ignatius Press · 272 pages</p>
+      <h1>Introduction<br>to <em>Christianity</em></h1>
+      <p class="hero__deck">Ratzinger's masterwork, learned the way memory actually works: the
+        Apostles' Creed as your map, one big idea per chapter, active recall, and a
+        review schedule that brings each idea back the day before you'd forget it.</p>
+      <div class="hero__cta">
+        <a class="btn btn--gold" href="#creed">Open the Creed map</a>
+        <a class="btn btn--ghost" href="#review">Start today's review</a>
+      </div>
+      <dl class="hero__stats">
+        <div><dt id="stat-cards">—</dt><dd>big ideas</dd></div>
+        <div><dt id="stat-questions">—</dt><dd>recall questions</dd></div>
+        <div><dt id="stat-quotes">—</dt><dd>quotable lines</dd></div>
+        <div><dt id="stat-terms">—</dt><dd>terms &amp; thinkers</dd></div>
+      </dl>
+    </div>
+    <figure class="hero__cover">
+      <img src="src/cover.jpg" alt="Cover of Introduction to Christianity: a diptych of the Adoration of the Magi and the Crucifixion">
+      <figcaption>Two panels, one book: the Magi come to the cradle — and to the Cross.</figcaption>
+    </figure>
+  </div>
+</section>
+
+<!-- ───────────────────────────── CREED MAP ───────────────────────────── -->
+<section class="section" id="creed">
+  <header class="section__head">
+    <p class="eyebrow">01 — The map</p>
+    <h2>The Creed is the table of contents</h2>
+    <p class="lede">Ratzinger walks through the whole faith by walking through the Apostles'
+      Creed. So the Creed is your progress bar: every article is a cluster of ideas.
+      Click an article to open its deep-dive and the ideas behind it.</p>
+  </header>
+  <ol class="creed" id="creed-list"></ol>
+</section>
+
+<!-- ───────────────────────────── BIG IDEAS ───────────────────────────── -->
+<section class="section section--tinted" id="ideas">
+  <header class="section__head">
+    <p class="eyebrow">02 — The ideas</p>
+    <h2>One big idea per chapter</h2>
+    <p class="lede">Each card holds the single sentence worth keeping, the question to carry
+      into the reading, Ratzinger's twist, the misreading he fights, how he argues, and his
+      own words. Tap a card to open it.</p>
+  </header>
+  <div class="filters" id="idea-filters" role="group" aria-label="Filter ideas"></div>
+  <div class="cards" id="idea-cards"></div>
+</section>
+
+<!-- ───────────────────────────── REVIEW ───────────────────────────── -->
+<section class="section" id="review">
+  <header class="section__head">
+    <p class="eyebrow">03 — The memory</p>
+    <h2>Spaced review</h2>
+    <p class="lede">Every idea, every recall question and every fill-the-blank sentence is its
+      own scheduled item. Answer from memory, then grade yourself — hard items come back
+      soon, easy ones fade into the distance.</p>
+  </header>
+  <div class="review">
+    <div class="review__side">
+      <div class="stat-box"><span class="stat-box__num" id="due-count">0</span><span class="stat-box__label">due today</span></div>
+      <div class="stat-box"><span class="stat-box__num" id="streak-count">0</span><span class="stat-box__label">day streak</span></div>
+      <div class="stat-box"><span class="stat-box__num" id="mastered-count">0</span><span class="stat-box__label">items with long intervals</span></div>
+      <button class="btn btn--ghost btn--small" id="cram-btn">Cram everything</button>
+      <button class="btn btn--ghost btn--small" id="reset-progress">Reset progress</button>
+      <div class="leech-box" id="leech-box" hidden>
+        <p class="card__label">Leeches — keep failing these</p>
+        <ul id="leech-list"></ul>
+      </div>
+    </div>
+    <div class="review__stage" id="review-stage" aria-live="polite"></div>
+  </div>
+</section>
+
+<!-- ───────────────────────────── PRACTICE ───────────────────────────── -->
+<section class="section section--tinted" id="practice">
+  <header class="section__head">
+    <p class="eyebrow">04 — The recall</p>
+    <h2>Practice: fill the blank</h2>
+    <p class="lede">Sentences straight from Ratzinger, one key phrase removed. Retrieval — not
+      rereading — is what makes a memory permanent.</p>
+  </header>
+  <div class="practice" id="practice-stage" aria-live="polite"></div>
+</section>
+
+<!-- ───────────────────────────── METHOD ───────────────────────────── -->
+<section class="section" id="method">
+  <header class="section__head">
+    <p class="eyebrow">05 — The method</p>
+    <h2>How Ratzinger argues: the art of both/and</h2>
+    <p class="lede">Nearly every chapter performs the same move: two camps, each half-right,
+      and the Creed's third position holding both. Learn the move and you can read anything
+      he wrote. Each idea card carries its own argument map.</p>
+  </header>
+  <div class="trainer" id="trainer" aria-live="polite"></div>
+</section>
+
+<!-- ───────────────────────────── CONCEPTS ───────────────────────────── -->
+<section class="section section--tinted" id="concepts">
+  <header class="section__head">
+    <p class="eyebrow">06 — The architecture</p>
+    <h2>Five distinctions that hold the book up</h2>
+    <p class="lede">Ratzinger argues through pairs. Learn the pairs and the whole book snaps
+      into place. Click one side to see the ideas that turn on it.</p>
+  </header>
+  <div class="concepts" id="concept-list"></div>
+  <div class="cards cards--compact" id="concept-cards"></div>
+</section>
+
+<!-- ───────────────────────────── GLOSSARY ───────────────────────────── -->
+<section class="section" id="glossary">
+  <header class="section__head">
+    <p class="eyebrow">07 — The vocabulary</p>
+    <h2>Terms that carry the nuance</h2>
+    <p class="lede">Ratzinger's precision lives in borrowed words — Latin, Greek, Hebrew,
+      German. Learn these and the fine distinctions stop slipping away.</p>
+    <div class="term-of-day" id="term-of-day"></div>
+  </header>
+  <div class="glossary" id="glossary-list"></div>
+</section>
+
+<!-- ───────────────────────────── THINKERS ───────────────────────────── -->
+<section class="section section--tinted" id="thinkers">
+  <header class="section__head">
+    <p class="eyebrow">08 — The conversation</p>
+    <h2>The thinkers he argues with</h2>
+    <p class="lede">The book is quietly positioned in a great dialogue — allies whose language
+      he borrows, foils whose claims he answers. Know the conversation and the book's every
+      sentence snaps into focus.</p>
+  </header>
+  <div class="thinkers" id="thinker-list"></div>
+</section>
+
+<!-- ───────────────────────────── SOURCES ───────────────────────────── -->
+<section class="section section--tinted" id="sources">
+  <header class="section__head">
+    <p class="eyebrow">09 — The sources</p>
+    <h2>His own corrections &amp; his Scripture</h2>
+    <p class="lede">The prefaces are Ratzinger's errata on his own book; the Bible is the
+      ground he builds on. Both are the shortest route to the nuances he most wanted
+      understood.</p>
+  </header>
+  <div class="sources-grid">
+    <div>
+      <h3 class="sources__title">Author's corrections</h3>
+      <div class="timeline" id="correction-list"></div>
+    </div>
+    <div>
+      <h3 class="sources__title">Scripture thread</h3>
+      <div class="scripture" id="scripture-list"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ───────────────────────────── QUOTES ───────────────────────────── -->
+<section class="quotes" id="quotes">
+  <div class="quotes__inner">
+    <p class="eyebrow eyebrow--gold">In his own words</p>
+    <blockquote id="quote-text">—</blockquote>
+    <p class="quotes__cite" id="quote-cite">—</p>
+    <div class="quotes__nav">
+      <button class="btn btn--ghost btn--small" id="quote-prev" aria-label="Previous quote">←</button>
+      <button class="btn btn--ghost btn--small" id="quote-next" aria-label="Next quote">→</button>
+    </div>
+  </div>
+</section>
+
+<!-- ───────────────────────────── PLAN ───────────────────────────── -->
+<section class="section" id="plan">
+  <header class="section__head">
+    <p class="eyebrow">10 — The plan</p>
+    <h2>Eight weeks through the book</h2>
+    <p class="lede">Fifty ideas, one a day, with the page ranges to read alongside.
+      Export it to your calendar, print it, or keep your notes here — everything stays in
+      your browser.</p>
+  </header>
+  <div class="plan__actions">
+    <button class="btn btn--gold" id="plan-ics">Export calendar (.ics)</button>
+    <button class="btn btn--ghost" id="plan-print">Print study plan</button>
+    <button class="btn btn--ghost" id="notes-export">Export my notes (.md)</button>
+  </div>
+  <div class="plan" id="plan-list"></div>
+</section>
+
+<!-- ───────────────────────────── SEARCH ───────────────────────────── -->
+<section class="section section--tinted" id="search">
+  <header class="section__head">
+    <p class="eyebrow">11 — The book itself</p>
+    <h2>Search all 272 pages</h2>
+    <p class="lede">Ask the book. Results come back with page numbers, so you can settle the
+      question by going to the source.</p>
+  </header>
+  <div class="search">
+    <input type="search" id="search-input" placeholder="e.g. burning bush, logos, descended into hell…" aria-label="Search the book">
+    <p class="search__hint" id="search-hint">The full text loads in your browser — nothing is sent anywhere.</p>
+    <div id="search-results"></div>
+  </div>
+</section>
+
+<footer class="footer">
+  <p>A study companion for <em>Introduction to Christianity</em> by Joseph Cardinal Ratzinger
+     (J. R. Foster & Michael J. Miller, Ignatius Press). Quotes and page references are from
+     that edition, provided for personal study.</p>
+  <p class="footer__small">Progress, notes and schedule are stored in your browser only.</p>
+</footer>
+
+<script src="src/content.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

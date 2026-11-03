@@ -1,0 +1,542 @@
+{
+  "part": "one",
+  "partTitle": "Part One: God",
+  "creedLine": "I believe in God, the Father almighty, creator of heaven and earth.",
+  "cards": [
+    {
+      "id": "p1-1",
+      "order": 1,
+      "section": "Part One I.1",
+      "title": "The scope of the question",
+      "pages": [
+        71,
+        76
+      ],
+      "idea": "Behind monotheism, polytheism, and atheism lies one shared conviction: the absolute is one; they differ only in how man must deal with it.",
+      "before": "If atheism rejects God, can it really share a hidden assumption with belief in God?",
+      "after": "Monotheism, polytheism, and atheism all confess the unity of the absolute; they differ only in how man must deal with it — and both human poverty and fullness point to God.",
+      "why": "Ratzinger treats atheism not as religion’s opposite but as another form of the struggle for God — even Marxist matter acquires absoluteness and so recalls the idea of God.",
+      "quote": "For all three—this could be demonstrated—are in the last analysis convinced of the unity and oneness of the absolute.",
+      "quotePage": 76,
+      "cloze": [
+        {
+          "pre": "Both the ",
+          "blank": "poverty of human existence and its fullness",
+          "post": " point to God."
+        },
+        {
+          "pre": "It would be more accurate to say that ",
+          "blank": "God the Savior, God the Redeemer appears earlier than God the Creator",
+          "post": ", and even this clarification must be qualified by the reminder that the formula is not to be taken in the sense of a temporal succession, for which there is no kind of evidence."
+        },
+        {
+          "pre": "Thus all three paths are convinced of the unity and uniqueness of the absolute; where they differ is only in their notions of ",
+          "blank": "the manner in which man has to deal with the absolute",
+          "post": " or, alternatively, of how the absolute behaves toward him."
+        }
+      ],
+      "recall": "Explain why Ratzinger thinks monotheism, polytheism, and atheism share a common conviction — and what actually separates them.",
+      "tags": [
+        "God of the philosophers",
+        "faith and reason"
+      ]
+    },
+    {
+      "id": "p1-2",
+      "order": 2,
+      "section": "Part One I.2",
+      "title": "The profession of faith in the one God",
+      "pages": [
+        77,
+        80
+      ],
+      "idea": "Professing “one God” is no theory but an existential No to deified power, love, and bread — a decision that shatters every political claim to absoluteness.",
+      "before": "What does saying “I believe in God” actually refuse — and why might that be a political act?",
+      "after": "Israel’s “Yahweh is an only God” renounces the gods of bread, love, and power; the Creed inherits this as an existential decision that breaks every political claim to totality.",
+      "why": "Ratzinger insists the Creed’s first line is a declaration of war on absolutized power, sex, and property — which is why confessing one God changed public life and still protects freedom.",
+      "quote": "the three main forms of polytheism are the worship of bread, the worship of love, and the idolization of power",
+      "quotePage": 78,
+      "cloze": [
+        {
+          "pre": "It is a profession in the fullest sense of this word, that is, it is not the registration of one view alongside others but ",
+          "blank": "an existential decision",
+          "post": "."
+        },
+        {
+          "pre": "The unity, finality, and indivisibility of the love between man and woman can in the last analysis only be made a reality and understood in the light of ",
+          "blank": "belief in the unity and indivisibility of the love of God",
+          "post": "."
+        },
+        {
+          "pre": "When he eludes God, the gods put out their hands to grasp him; ",
+          "blank": "he can only be liberated by allowing himself to be liberated",
+          "post": " and by ceasing to try to rely on himself."
+        }
+      ],
+      "recall": "Why does Ratzinger call “There is only one God” a statement of decisive political importance?",
+      "tags": [
+        "Creed and dogma",
+        "being a Christian today"
+      ]
+    },
+    {
+      "id": "p1-3",
+      "order": 3,
+      "section": "Part One II.1",
+      "title": "The problem of the story of the burning bush",
+      "pages": [
+        81,
+        84
+      ],
+      "idea": "God’s name “I AM” is no definition but self-revelation: a God who names himself is relation, not Platonic substance; the Greek translation already married faith to ontology.",
+      "before": "When God answers Moses “I AM WHO I AM”, is he revealing his name — or refusing to give one?",
+      "after": "Ex 3 gives “Yahweh” meaning by tracing it to “I am”, a theological etymology; the Greek “I am he that is” then identifies the biblical God with philosophical Being.",
+      "why": "Ratzinger sides with critics like Brunner: the translators wedded belief to ontology, though Platonic Being is never named and never names itself.",
+      "quote": "The scandal of the name, of the God who names himself, is resolved in the wider context of ontological thinking; belief is wedded to ontology.",
+      "quotePage": 83,
+      "cloze": [
+        {
+          "pre": "It is a matter, not of inquiring into the original linguistic sense, but of ",
+          "blank": "giving a meaning here and now",
+          "post": "."
+        },
+        {
+          "pre": "But the question is: ",
+          "blank": "Could one have ever given the Platonic “Being” a name",
+          "post": " and referred to it by this name as a kind of individual?"
+        },
+        {
+          "pre": "The name, Brunner says, is here replaced by the concept, and ",
+          "blank": "the not-to-be-defined is replaced by a definition",
+          "post": "."
+        }
+      ],
+      "recall": "Why is it significant that in Exodus God can be named only because he names himself?",
+      "tags": [
+        "the name of God",
+        "God of the philosophers"
+      ]
+    },
+    {
+      "id": "p1-4",
+      "order": 4,
+      "section": "Part One II.2",
+      "title": "The God of the fathers",
+      "pages": [
+        85,
+        87
+      ],
+      "idea": "The God of Abraham is a numen personale, not a local deity: personal, bound to no place, above singular and plural, the God of promise and hope.",
+      "before": "Does finding God depend on finding the right holy place — or the right kind of relationship?",
+      "after": "The patriarchs chose El: a numen personale met on the I–You plane, not a numen locale bound to shrines — the highest God, the God of promise.",
+      "why": "Ratzinger reads the strange plural “Elohim” as a first faint pointer toward the Trinity: God is One, yet beyond our categories of number.",
+      "quote": "He is not the god of a place but the god of men: the God of Abraham, Isaac, and Jacob.",
+      "quotePage": 86,
+      "cloze": [
+        {
+          "pre": "In contrast to the heathen tendency toward the numen locale, ",
+          "blank": "the locally defined and limited deity",
+          "post": ", the “God of our fathers” expresses a completely different approach."
+        },
+        {
+          "pre": "God is seen on ",
+          "blank": "the plane of I and You",
+          "post": ", not on the plane of the spatial."
+        },
+        {
+          "pre": "He is one, but as the exceeding great, entirely Other, ",
+          "blank": "he himself transcends the bounds of singular and plural",
+          "post": "; he lies beyond them."
+        }
+      ],
+      "recall": "What is the difference between a numen locale and a numen personale, and why does it matter for Israel’s faith?",
+      "tags": [
+        "the name of God",
+        "Trinity"
+      ]
+    },
+    {
+      "id": "p1-5",
+      "order": 5,
+      "section": "Part One II.3",
+      "title": "Yahweh, the “God of our Fathers”, and the God of Jesus Christ",
+      "pages": [
+        88,
+        91
+      ],
+      "idea": "Yahweh’s “I AM” both refuses a name and promises presence — “I am here for you” — until John’s Gospel makes Jesus himself the name of God.",
+      "before": "When God says “I AM WHO I AM”, what is he actually telling Moses about himself?",
+      "after": "Read with Judges 13 and Genesis 32, Ex 3 cancels the name into mystery yet promises presence: “I am here for you” — a Being-for that Deutero-Isaiah and John carry to Christ.",
+      "why": "Ratzinger holds both halves together: the name is negative theology and helpful proximity at once, and in Christ the name becomes a person.",
+      "quote": "The name, a sign of acquaintance, becomes the cipher for the perpetually unknown and unnamed quality of God.",
+      "quotePage": 89,
+      "cloze": [
+        {
+          "pre": "This really looks like ",
+          "blank": "a rebuff",
+          "post": "; it seems much more like a refusal to give a name than the announcement of a name."
+        },
+        {
+          "pre": "“I am” is as much as to say “I am here”, ",
+          "blank": "“I am here for you”",
+          "post": "; God’s presence for Israel is emphasized; his Being is expounded, not as Being in itself, but as a Being-for."
+        },
+        {
+          "pre": "The God who “is” is at the same time he who is with us; he is not just God in himself; rather, ",
+          "blank": "he is our God, the “God of our fathers”",
+          "post": "."
+        }
+      ],
+      "recall": "How can “I AM WHO I AM” be at once a refusal of a name and a promise of presence?",
+      "tags": [
+        "the name of God",
+        "Incarnation"
+      ]
+    },
+    {
+      "id": "p1-6",
+      "order": 6,
+      "section": "Part One II.4",
+      "title": "The idea of the name",
+      "pages": [
+        92,
+        93
+      ],
+      "idea": "A concept grasps what a thing is; a name makes it invocable — so God’s self-naming is self-giving relation, fulfilled in Christ, God permanently among us.",
+      "before": "What can a name do that a definition of God can never do?",
+      "after": "A concept seeks a thing’s nature in itself; a name makes it invocable and enters relation — so God’s self-naming is self-giving, fulfilled when the name becomes flesh in Christ.",
+      "why": "Ratzinger flips the philosopher’s aim: God names himself not to reveal his essence but to hand himself over into coexistence with us.",
+      "quote": "When God names himself after the self-understanding of faith, he is not so much expressing his inner nature as making himself nameable",
+      "quotePage": 93,
+      "cloze": [
+        {
+          "pre": "The name, on the other hand, does not ask after the nature of the thing as it exists independently of me; it is concerned to make the thing ",
+          "blank": "nameable, that is, “invocable”, to establish a relation to it",
+          "post": "."
+        },
+        {
+          "pre": "When God names himself after the self-understanding of faith, he is not so much ",
+          "blank": "expressing his inner nature as making himself nameable",
+          "post": "; he is handing himself over to men in such a way that he can be called upon by them."
+        },
+        {
+          "pre": "Only the name makes him nameable; through the name the other enters into the structure, so to speak, of my fellow humanity; ",
+          "blank": "through the name I can call him",
+          "post": "."
+        }
+      ],
+      "recall": "Why does Ratzinger say God’s name establishes relation rather than delivering information?",
+      "tags": [
+        "the name of God",
+        "Incarnation"
+      ]
+    },
+    {
+      "id": "p1-7",
+      "order": 7,
+      "section": "Part One II.5",
+      "title": "The two sides of the biblical concept of God",
+      "pages": [
+        94,
+        95
+      ],
+      "idea": "Biblical faith holds two sides together: God is intimate person and infinite Being — the hidden One is the near One, who belongs to all.",
+      "before": "Must we choose between a personal God close to us and an infinite God beyond everything?",
+      "after": "Biblical faith holds proximity and transcendence together: Being accepted as person, person as Being itself; Israel therefore has no god of its own, only the God of all.",
+      "why": "Ratzinger calls this conjunction the paradox of biblical faith: “I do not have God until I no longer have any god of my own.”",
+      "quote": "Being is accepted as a person, and the person accepted as Being itself",
+      "quotePage": 95,
+      "cloze": [
+        {
+          "pre": "I do not have God until I no longer have ",
+          "blank": "any god of my own",
+          "post": " but only trust the God who is just as much the next man’s God as mine, because we both belong to him."
+        },
+        {
+          "pre": "It is always a matter of the God of men, ",
+          "blank": "the God with a face, the personal God",
+          "post": "; on him were focused continuity, the choice and the decision of the faith of the patriarchs, from which a long yet straight road leads to the God of Jesus Christ."
+        },
+        {
+          "pre": "On the other side is the fact that this proximity, this accessibility, is ",
+          "blank": "the free gift of the One who stands above space and time",
+          "post": ", bound to nothing and binding everything to himself."
+        }
+      ],
+      "recall": "Explain the “two sides” of the biblical concept of God and what is lost if either side is dropped.",
+      "tags": [
+        "the name of God",
+        "God of the philosophers"
+      ]
+    },
+    {
+      "id": "p1-8",
+      "order": 8,
+      "section": "Part One III.1",
+      "title": "The decision of the early Church in favor of philosophy",
+      "pages": [
+        96,
+        99
+      ],
+      "idea": "The early Church chose the philosophers’ God over the gods of religion — truth over custom, logos over myth — and faith without reason repeats antiquity’s collapse.",
+      "before": "Was Christianity’s adoption of Greek philosophy a betrayal of the Bible — or its fulfillment?",
+      "after": "Against the gods of custom the early Church professed only “Being itself”: the God of the philosophers; choosing logos over myth meant the definitive demythologization of world and religion.",
+      "why": "This fateful choice made Christians look like atheists, and Ratzinger warns that fideism and “interpreted Christianity” repeat antiquity’s losing divorce of reason and piety.",
+      "quote": "The choice thus made meant opting for the logos as against any kind of myth",
+      "quotePage": 97,
+      "cloze": [
+        {
+          "pre": "For all the differences between them, both movements coincide in their ",
+          "blank": "striving toward the logos",
+          "post": "."
+        },
+        {
+          "pre": "That no success was achieved in uniting the two, that reason and piety moved farther and farther apart, and the God of faith and the God of the philosophers were separated from each other, meant ",
+          "blank": "the inner collapse of the ancient religion",
+          "post": "."
+        },
+        {
+          "pre": "The Christian position, as opposed to this situation, is put emphatically by Tertullian when he says with splendid boldness: ",
+          "blank": "“Christ called himself truth, not custom.”",
+          "post": ""
+        }
+      ],
+      "recall": "Why did the early Church’s decision look like atheism to its neighbors, and what was at stake in it?",
+      "tags": [
+        "logos vs myth",
+        "God of the philosophers",
+        "faith and reason"
+      ]
+    },
+    {
+      "id": "p1-9",
+      "order": 9,
+      "section": "Part One III.2",
+      "title": "The transformation of the God of the philosophers",
+      "pages": [
+        100,
+        102
+      ],
+      "idea": "Professing the philosophers’ God transforms him: pure thought turns out to be creative love — Being as relation — the God with a heart who seeks the lost.",
+      "before": "Is the philosophers’ God — eternal, unchangeable thought — really the God to whom Christians pray?",
+      "after": "Professing him transforms him: the God of faith is not unfeeling geometry but agape, who seeks, rejoices, and has a heart; philosophy is transcended on relationship and love.",
+      "why": "The identification works both ways: the God of the philosophers is “quite different from what the philosophers had thought him to be”, yet does not cease to be what they discovered.",
+      "quote": "the God of the philosophers is quite different from what the philosophers had thought him to be",
+      "quotePage": 101,
+      "cloze": [
+        {
+          "pre": "This parable, in which Jesus depicts and justifies his activity and his task as the emissary of God, involves not only the relations between God and man but also ",
+          "blank": "the question of who God himself is",
+          "post": "."
+        },
+        {
+          "pre": "He is not the unfeeling geometry of the universe, neutral justice standing above things undisturbed by a heart and its emotions; ",
+          "blank": "he has a heart",
+          "post": "; he stands there like a person who loves, with all the capriciousness of someone who loves."
+        },
+        {
+          "pre": "The boundless spirit who bears in himself the totality of Being reaches beyond the “greatest”, so that to him it is small, and ",
+          "blank": "he reaches into the smallest",
+          "post": ", because to him nothing is too small."
+        }
+      ],
+      "recall": "How does Christian faith transform the “God of the philosophers” without contradicting what philosophy found?",
+      "tags": [
+        "God of the philosophers",
+        "faith and reason"
+      ]
+    },
+    {
+      "id": "p1-10",
+      "order": 10,
+      "section": "Part One III.3",
+      "title": "The reflection of the question in the text of the Creed",
+      "pages": [
+        103,
+        105
+      ],
+      "idea": "By calling God both “Father” and “Almighty” the Creed holds absolute power and absolute love together — and almightiness is defined only from crib and Cross.",
+      "before": "How can the same God be Pantokrator, Lord of all powers, and a Father close to us?",
+      "after": "The Creed joins “Father” and “Almighty”: family love and cosmic power; true almightiness appears only in the crib and Cross, where God renounces power and wins through love.",
+      "why": "Ratzinger reads “Father” as the hinge to the second article: without the Son, “almighty” stays a pagan power-concept; the highest power is calm willingness to renounce all power.",
+      "quote": "The highest power is demonstrated as the calm willingness completely to renounce all power",
+      "quotePage": 104,
+      "cloze": [
+        {
+          "pre": "By calling God simultaneously “Father” and “Almighty”, the Creed has joined together ",
+          "blank": "a family concept and the concept of cosmic power",
+          "post": " in the description of the one God."
+        },
+        {
+          "pre": "It thereby expresses accurately the whole point of the Christian image of God: ",
+          "blank": "the tension between absolute power and absolute love",
+          "post": ", absolute distance and absolute proximity, between absolute Being and a direct affinity with the most human side of humanity, the interplay of maximum and minimum of which we spoke just now."
+        },
+        {
+          "pre": "It is only here, where the God who is recognized as Lord of all has voluntarily chosen ",
+          "blank": "the final degree of powerlessness",
+          "post": " by delivering himself up to his weakest creature, that the Christian concept of the almightiness of God can be truly formulated."
+        }
+      ],
+      "recall": "Why can God’s almightiness, according to Ratzinger, only be truly formulated from the crib and the Cross?",
+      "tags": [
+        "Creed and dogma",
+        "Cross"
+      ]
+    },
+    {
+      "id": "p1-11",
+      "order": 11,
+      "section": "Part One IV.1",
+      "title": "The primacy of the logos",
+      "pages": [
+        106,
+        110
+      ],
+      "idea": "Faith in God means betting that logos — idea, freedom, love — comes first: all being is being-thought, released into freedom by creative freedom.",
+      "before": "Is the universe’s meaning a chance by-product of matter — or is matter built on thought?",
+      "after": "“Credo in Deum” affirms objective mind proceeds from subjective mind: things are the being-thought of a creative freedom that releases them into freedom — beyond materialism and idealism alike.",
+      "why": "Ratzinger outbids idealism: creation’s model is not the craftsman but creative mind, and its mark is freedom — one could call Christianity a philosophy of freedom.",
+      "quote": "Christian belief in God means that things are the being-thought of a creative consciousness, of a creative freedom",
+      "quotePage": 110,
+      "cloze": [
+        {
+          "pre": "Saying “I believe that God exists” also implies opting for the view that the logos—that is, the idea, freedom, love—",
+          "blank": "stands not merely at the end but also at the beginning",
+          "post": ", that it is the originating and encompassing power of all being."
+        },
+        {
+          "pre": "This decision in favor of the intellectual structure of the kind of being that emerges from meaning and understanding includes ",
+          "blank": "the belief in creation",
+          "post": "."
+        },
+        {
+          "pre": "To say “Credo in Deum—I believe in God” expresses the conviction that ",
+          "blank": "objective mind is the product of subjective mind",
+          "post": " and can only exist at all as the declension of it, that, in other words, being-thought (as we find it present in the structure of the world) is not possible without thinking."
+        }
+      ],
+      "recall": "What does it mean that being is “being-thought”, and how does Christian belief go beyond idealism?",
+      "tags": [
+        "creation",
+        "logos vs myth",
+        "God of the philosophers"
+      ]
+    },
+    {
+      "id": "p1-12",
+      "order": 12,
+      "section": "Part One IV.2",
+      "title": "The personal God",
+      "pages": [
+        111,
+        113
+      ],
+      "idea": "If the logos is person — freedom and creative love — the particular outranks the universal and freedom outranks necessity, leading monotheism beyond itself toward Trinity.",
+      "before": "If God is a person rather than anonymous thought, what changes about the world — and about us?",
+      "after": "A personal logos means primacy of the particular and of freedom: persons are supreme, the world is love’s arena and incalculable — and this logic compels faith in the triune God.",
+      "why": "Ratzinger argues Christian faith is more than idealism: because plurality has its own ultimate right, “mere oneness” cannot be the last word about God.",
+      "quote": "the person, the unique and unrepeatable, is at the same time the ultimate and highest thing",
+      "quotePage": 112,
+      "cloze": [
+        {
+          "pre": "The highest is ",
+          "blank": "not the most universal but, precisely, the particular",
+          "post": ", and the Christian faith is thus above all also the option for man as the irreducible, infinity-oriented being."
+        },
+        {
+          "pre": "",
+          "blank": "Incalculability is an implication of freedom",
+          "post": "; the world can never—if this is the position—be completely reduced to mathematical logic."
+        },
+        {
+          "pre": "The internal logic of the Christian belief in God compels us to ",
+          "blank": "go beyond mere monotheism",
+          "post": " and leads to the belief in the triune God, who must now, in conclusion, be discussed."
+        }
+      ],
+      "recall": "Why does the personal nature of God lead Ratzinger from monotheism toward the Trinity?",
+      "tags": [
+        "Trinity",
+        "God of the philosophers"
+      ]
+    },
+    {
+      "id": "p1-13",
+      "order": 13,
+      "section": "Part One V.1",
+      "title": "Belief in the Triune God: a start at understanding",
+      "pages": [
+        114,
+        124
+      ],
+      "idea": "Trinity arose from historical encounter with God as Father, Son, and Spirit — not speculation: God is as he shows himself; every simplification ends in a dead end.",
+      "before": "Is the doctrine of the Trinity a philosophical puzzle — or the record of something that happened?",
+      "after": "Trinity grew from three historical encounters — Father, Son, Spirit — under the rule “God is as he shows himself”; Subordinationism and Monarchianism both destroy the whole.",
+      "why": "Ratzinger treats dogma as a “frontier notice”: each trinitarian formula was once condemned and is usable only as baffled, negative theology — and faith is an experiment without mere observers.",
+      "quote": "God is as he shows himself; God does not show himself in a way in which he is not.",
+      "quotePage": 116,
+      "cloze": [
+        {
+          "pre": "The doctrine of the Trinity did not arise out of speculation about God, out of an attempt by philosophical thinking to figure out what the fount of all being was like; ",
+          "blank": "it developed out of the effort to digest historical experiences",
+          "post": "."
+        },
+        {
+          "pre": "It is ",
+          "blank": "a frontier notice",
+          "post": ", a discouraging gesture pointing over to unchartable territory."
+        },
+        {
+          "pre": "Even the reality “God” can only impinge on the vision of him who enters into the experiment with God—",
+          "blank": "the experiment that we call faith",
+          "post": "."
+        }
+      ],
+      "recall": "Why does Ratzinger call the doctrine of the Trinity “negative theology”, and where do Subordinationism and Monarchianism go wrong?",
+      "tags": [
+        "Trinity",
+        "Creed and dogma",
+        "faith and reason"
+      ]
+    },
+    {
+      "id": "p1-14",
+      "order": 14,
+      "section": "Part One V.2",
+      "title": "Belief in the Triune God: positive significance",
+      "pages": [
+        125,
+        134
+      ],
+      "idea": "Trinity says relation is as primordial as substance: God is love’s relatedness, so personhood is being-from-and-for — and love’s unity exceeds the atom’s.",
+      "before": "What if relationship, not isolated substance, is the most basic form of reality?",
+      "after": "Three theses: plurality is grounded in God; person implies relation; the relative is absolute. In God only substance and relation — so pure relation is purest unity, and Christian existence is being “from” and “for”.",
+      "why": "Augustine’s “In God there are no accidents, only substance and relation” hides a revolution: relation joins substance as a primordial mode of being.",
+      "quote": "“In God there are no accidents, only substance and relation.”",
+      "quotePage": 129,
+      "cloze": [
+        {
+          "pre": "The multi-unity that grows in love is ",
+          "blank": "a more radical, truer unity",
+          "post": " than the unity of the “atom”."
+        },
+        {
+          "pre": "Person is ",
+          "blank": "the pure relation of being related",
+          "post": ", nothing else."
+        },
+        {
+          "pre": "To John, “Son” means being from another; thus, with this word he defines the being of this man as ",
+          "blank": "being from another and for others",
+          "post": ", as a being that is completely open on both sides, knows no reserved area of the mere “I”."
+        }
+      ],
+      "recall": "How does the primacy of relation change both what God is and what a human person is?",
+      "tags": [
+        "Trinity",
+        "subjective faith"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "part": "two",
+  "partTitle": "Part Two: Jesus Christ",
+  "creedLine": "who was conceived by the power of the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died, and was buried, descended into hell, rose again from the dead, ascended into heaven and is seated at the right hand of the Father, will come again to judge the living and the dead.",
+  "cards": [
+    {
+      "id": "p2b-1",
+      "order": 1,
+      "section": "Excursus",
+      "title": "Christian structures: the individual and the whole",
+      "pages": [171, 190],
+      "idea": "Christianity exists for the whole of history, yet because it wants the whole it stakes everything on the one individual, Jesus; its six structures all coalesce in love.",
+      "before": "If God can save each soul directly, why does Christianity need Church, sacrament, history—any \"whole\"—at all?",
+      "after": "Because man is never a mere individual but lives inside mankind, history, and cosmos, Christianity serves the whole—and precisely therefore depends on the single individual, Jesus Christ, in whom the whole is saved.",
+      "why": "Ratzinger inverts the usual objection: far from dissolving the person into collectivity, aiming at the whole makes one individual the scandalous salvation of the world—and the six structural laws of Christian existence sum up to one principle, love.",
+      "quote": "The individual is the salvation of the whole, and the whole receives its salvation only from the individual",
+      "quotePage": 176,
+      "cloze": [
+        {
+          "pre": "But precisely at this point we must also add the further statement: Christian faith is not based on the atomized individual but comes from the knowledge that there is no such thing as ",
+          "blank": "the mere individual",
+          "post": ", that, on the contrary, man is himself only when he is fitted into the whole: into mankind, into history, into the cosmos, as is right and proper for a being who is \u201cspirit in body\u201d."
+        },
+        {
+          "pre": "Because Christian faith demands the individual but wants him for ",
+          "blank": "the whole",
+          "post": " and not for himself, the real basic law of Christian existence is expressed in the preposition \u201cfor\u201d: this is the final conclusion that necessarily emerges from what we have said so far."
+        },
+        {
+          "pre": "Such a center does exist, and I think we can say, after all that we have said and without any danger of using a mere sentimental phrase, that the six principles finally coalesce into ",
+          "blank": "the one principle of love",
+          "post": "."
+        }
+      ],
+      "recall": "Why does Ratzinger think Christianity must insist on the individual precisely because it aims at the whole—and what does that have to do with Jesus Christ?",
+      "tags": ["being a Christian today", "Church", "Cross"]
+    },
+    {
+      "id": "p2b-2",
+      "order": 2,
+      "section": "Part Two II.1",
+      "title": "Conceived by the power of the Holy Spirit and born of the Virgin Mary",
+      "pages": [191, 197],
+      "idea": "The Virgin Birth means salvation is pure gift—God's new creation, not from man's resources; Jesus' Divine Sonship is ontological (in God's eternity), not biological.",
+      "before": "Is the virgin birth only a discarded myth about divine fatherhood—or does it claim something else entirely?",
+      "after": "It is first and last theology of grace: salvation comes as God's new creation, sheer gift. Jesus' Divine Sonship is an ontological fact in God's eternity, not a matter of human paternity.",
+      "why": "Ratzinger concedes half the rationalist objection: the birth narrative never grounded Christ's divinity (that rests on the Abba-Son dialogue)—yet it is not myth but the Old Testament's barren-mother theology of grace reaching its goal in Mary.",
+      "quote": "the Divine Sonship of which faith speaks is not a biological but an ontological fact",
+      "quotePage": 193,
+      "cloze": [
+        {
+          "pre": "So what is to happen here to Mary is ",
+          "blank": "new creation",
+          "post": ": the God who called forth being out of nothing makes a new beginning amid humanity: his Word becomes flesh."
+        },
+        {
+          "pre": "According to the faith of the Church, the Divine Sonship of Jesus does not rest on the fact that ",
+          "blank": "Jesus had no human father",
+          "post": "; the doctrine of Jesus\u2019 divinity would not be affected if Jesus had been the product of a normal human marriage."
+        },
+        {
+          "pre": "The Virgin Birth is not a lesson in asceticism, nor does it belong directly to the doctrine of Jesus\u2019 Divine Sonship; it is first and last ",
+          "blank": "theology of grace",
+          "post": ", a proclamation of how salvation comes to us: in the simplicity of acceptance, as the voluntary gift of the love that redeems the world."
+        }
+      ],
+      "recall": "In Ratzinger's reading, what does the Virgin Birth actually assert—and what does it deliberately not assert about Jesus' Divine Sonship?",
+      "tags": ["Incarnation", "Creed and dogma", "logos vs myth"]
+    },
+    {
+      "id": "p2b-3",
+      "order": 3,
+      "section": "Part Two II.2",
+      "title": "Suffered under Pontius Pilate, was crucified, died, and was buried",
+      "pages": [197, 206],
+      "idea": "The Cross is not appeasement of an offended God but God's own descent to reconcile the world—self-giving love as the one true sacrifice that reveals God and man.",
+      "before": "Must the Cross mean a God whose righteousness demands a human sacrifice—can Christian faith survive that picture?",
+      "after": "No: in the Bible the Cross is the reverse—God reconciling the world to himself from above, the self-giving love that is the one true worship, which reveals who God is and who man is.",
+      "why": "Ratzinger keeps both directions—God's descent and Christ's offering to the Father—by reading Hebrews: the profane execution of a criminal was the world's single cosmic liturgy, in which Christ took all sacrificial offerings from man's hands and put himself in their place.",
+      "quote": "God does not wait until the guilty come to be reconciled; he goes to meet them and reconciles them.",
+      "quotePage": 199,
+      "cloze": [
+        {
+          "pre": "It is not man who goes to God with a compensatory gift, but ",
+          "blank": "God who comes to man",
+          "post": ", in order to give to him."
+        },
+        {
+          "pre": "In the Bible the Cross does not appear as part of ",
+          "blank": "a mechanism of injured right",
+          "post": "; on the contrary, in the Bible the Cross is quite the reverse: it is the expression of the radical nature of the love that gives itself completely, of the process in which one is what one does and does what one is; it is the expression of a life that is completely being for others."
+        },
+        {
+          "pre": "It is not pain as such that counts but ",
+          "blank": "the breadth of the love",
+          "post": " that spans existence so completely that it unites the distant and the near, bringing God-forsaken man into relation with God."
+        }
+      ],
+      "recall": "Why is the Cross \"a movement from above to below\", and how does that change what Christian worship and sacrifice mean?",
+      "tags": ["Cross", "Incarnation", "Creed and dogma"]
+    },
+    {
+      "id": "p2b-4",
+      "order": 4,
+      "section": "Part Two II.3",
+      "title": "Descended into hell",
+      "pages": [206, 212],
+      "idea": "\"Descended into hell\" means Christ entered death's absolute loneliness, where no voice reaches; because love now dwells in death, death is no longer hell—only self-enclosure is.",
+      "before": "Is \"descended into hell\" a mythological leftover about a place of torment beneath the earth—or could it be the most modern article of the Creed?",
+      "after": "It is about solidarity in death, not geography: Christ went through the gate of our final loneliness and abandonment, so that now there is life in the midst of death and death is hell no longer.",
+      "why": "Ratzinger reads the article through Holy Saturday: our age knows God's silence and absence (\"God is dead and we have killed him\"), and the descent means God is present even in God-forsakenness—the heart of the Passion is not pain but radical loneliness.",
+      "quote": "Christ strode through the gate of our final loneliness, that in his Passion he went down into the abyss of our abandonment",
+      "quotePage": 212,
+      "cloze": [
+        {
+          "pre": "But in the last analysis what comes to light here is simply ",
+          "blank": "the abyss of loneliness of man in general",
+          "post": ", of man who is alone in his innermost being."
+        },
+        {
+          "pre": "\u201cDescended into hell\u201d; how true this is of our time, ",
+          "blank": "the descent of God into muteness",
+          "post": ", into the dark silence of the absent."
+        },
+        {
+          "pre": "Now only ",
+          "blank": "deliberate self-enclosure",
+          "post": " is hell or, as the Bible calls it, the second death (Rev 20:14, for example)."
+        }
+      ],
+      "recall": "What does \"hell\" mean in this article, and how does Christ's descent change the meaning of death?",
+      "tags": ["Cross", "eschatology", "Creed and dogma"]
+    },
+    {
+      "id": "p2b-5",
+      "order": 5,
+      "section": "Part Two II.4",
+      "title": "Rose again from the dead",
+      "pages": [212, 218],
+      "idea": "Resurrection is love proving stronger than death: the risen life is zoe—definitive, new, beyond biological laws—and because he loves all, his rising is the ground of our immortality.",
+      "before": "Is the resurrection a metaphor for \"living on in influence\", or does it claim something happened to the man Jesus?",
+      "after": "It claims love really broke through death: Jesus rose to definitive life (zoe, not bios)—really he himself lives—and since his love embraces all, his Resurrection is our life.",
+      "why": "Ratzinger treats risen life as a new form beyond biology, yet meets it in the Gospels' strange appearances: the crucified one is recognized and unrecognizable, touched yet untouchable, encountered in word and sacrament—not resuscitated into old earthly life.",
+      "quote": "it is zoe, new, different, definitive life; life that has stepped beyond the mortal realm of bios and history",
+      "quotePage": 216,
+      "cloze": [
+        {
+          "pre": "The two formulas meet in the fact that Jesus\u2019 total love for men, which leads him to the Cross, is perfected in totally passing beyond to the Father and therein becomes ",
+          "blank": "stronger than death",
+          "post": ", because in this it is at the same time total \u201cbeing held\u201d by him."
+        },
+        {
+          "pre": "He rose again to ",
+          "blank": "definitive life",
+          "post": ", which is no longer governed by chemical and biological laws and therefore stands outside the possibility of death, in the eternity conferred by love."
+        },
+        {
+          "pre": "He who had been transposed into the other world of God showed himself powerful enough to make it palpably clear that he himself stood in their presence again, that in him ",
+          "blank": "the power of love",
+          "post": " had really proved itself stronger than the power of death."
+        }
+      ],
+      "recall": "Why does Ratzinger say the risen life is zoe rather than bios, and how does that shape what the resurrection narratives describe?",
+      "tags": ["resurrection", "eschatology", "Cross"]
+    },
+    {
+      "id": "p2b-6",
+      "order": 6,
+      "section": "Part Two II.5",
+      "title": "He ascended into heaven and is seated at the right hand of the Father",
+      "pages": [218, 224],
+      "idea": "Ascension means Christ's being with God: heaven is the contact of man with God, so in him God has time for the world and is near to every human.",
+      "before": "Must belief in the ascension mean a three-story universe with Jesus floating upward—and what could \"seated at the right hand of the Father\" mean today?",
+      "after": "No: heaven is not a place above the world but the contact of man with God, realized in Christ; because he is with God, God has time for the world and Christ is near to all.",
+      "why": "Ratzinger turns a supposedly mythological image into the most practical of doctrines: the Ascension is what makes prayer possible—Jesus is \"the throne of grace\" one can approach at any time, and in him eternity touches every present.",
+      "quote": "Heaven is to be defined as the contact of the being \u201cman\u201d with the being \u201cGod\u201d",
+      "quotePage": 221,
+      "cloze": [
+        {
+          "pre": "\u201cHeaven\u201d is by nature ",
+          "blank": "what one has not made oneself and cannot make oneself",
+          "post": "; in Scholastic language it was said to be, as grace, a donum indebitum et superadditum naturae (an unowed gift added over and above nature)."
+        },
+        {
+          "pre": "But eternity is not the very ancient, which existed before time began, but ",
+          "blank": "the entirely other",
+          "post": ", which is related to every passing age as its today and is really contemporary with it; it is not itself barred off into a \u201cbefore\u201d and \u201cafter\u201d; it is much rather the power of the present in all time."
+        },
+        {
+          "pre": "Apart from the Son, ",
+          "blank": "God has no time for the world",
+          "post": ", but in him he has all time."
+        }
+      ],
+      "recall": "How does Ratzinger redefine \"heaven\" and the Ascension so that the doctrine answers the question of whether God can respond to prayer?",
+      "tags": ["eschatology", "Incarnation", "resurrection"]
+    },
+    {
+      "id": "p2b-7",
+      "order": 7,
+      "section": "Part Two II.6",
+      "title": "He will come again to judge the living and the dead",
+      "pages": [224, 231],
+      "idea": "Judgment means the world's outcome rests on free responsibility, not blind fate; yet the judge is Jesus our brother, so justice is preserved to perfect love and hope.",
+      "before": "If salvation is sheer grace, why does the Creed end with judgment \"by works\"—and is the last judge a stranger or a friend?",
+      "after": "Because the future is built on freedom and responsibility, not neutral drift; and the judge is the crucified brother who has suffered, so over judgment glows the dawn of hope.",
+      "why": "Against both pious terror (Dies irae) and cheap universalism, Ratzinger holds justice and mercy together: judgment keeps life serious and preserves justice, which love must exceed but never destroy—and Jesus' being the judge already tinges judgment with hope.",
+      "quote": "True love is excess of justice, excess that goes farther than justice, but never destruction of justice",
+      "quotePage": 229,
+      "cloze": [
+        {
+          "pre": "That is why the second coming of the Lord is not only salvation, not only ",
+          "blank": "the omega that sets everything right",
+          "post": ", but also judgment."
+        },
+        {
+          "pre": "It is not ",
+          "blank": "a stranger who judges us",
+          "post": " but he whom we know in faith."
+        },
+        {
+          "pre": "There can only be responsibility where there is ",
+          "blank": "someone to be responsible to",
+          "post": ", someone to put the questions."
+        }
+      ],
+      "recall": "Why must the final judgment be \"by works\" if salvation is grace—and why is it good news that Jesus is the judge?",
+      "tags": ["eschatology", "Creed and dogma", "being a Christian today"]
+    },
+    {
+      "id": "p2b-8",
+      "order": 8,
+      "section": "Part Two II",
+      "title": "Why the Creed tells a story: the whole christological article",
+      "pages": [191, 231],
+      "idea": "The Creed narrates Christ's whole path—origin, Cross, death, risen life, glory, return—because faith confesses an event, not an idea: God's story with us, one movement of love.",
+      "before": "Why does the Creed tell a story—\"suffered…buried…rose…ascended…will come\"—instead of stating timeless truths about Christ?",
+      "after": "Because faith hangs on an event: each article interprets something that happened, and together they trace one movement of divine love, from the Father into the depths of death and on to glory and judgment.",
+      "why": "Ratzinger shows the sequence is no mythological itinerary but the \"total range of human existence\"—divinity descending, humanity taken into God—so history, not abstraction, is the medium of revelation, and each article is a stage of the one self-giving of God.",
+      "quote": "They are the interpretation of an event; if this event is removed, they become empty talk",
+      "quotePage": 196,
+      "cloze": [
+        {
+          "pre": "It should not really be necessary to point out that all these statements have meaning only on the assumption that ",
+          "blank": "the happening whose meaning they seek to elucidate",
+          "post": " really took place."
+        },
+        {
+          "pre": "On the contrary, the two tenets, together with faith in the historical Jesus, express ",
+          "blank": "the total range of human existence",
+          "post": ", which certainly spans three metaphysical dimensions if not three cosmic stories."
+        },
+        {
+          "pre": "Thus over the judgment glows ",
+          "blank": "the dawn of hope",
+          "post": "; it is not only the day of wrath but also the second coming of our Lord."
+        }
+      ],
+      "recall": "Why does the Creed narrate Christ's story rather than state abstract truths, and what holds the six articles together as one message?",
+      "tags": ["Creed and dogma", "Incarnation", "eschatology"]
+    }
+  ]
+}

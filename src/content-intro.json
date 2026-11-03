@@ -1,0 +1,470 @@
+{
+  "part": "intro",
+  "partTitle": "Introduction: “I Believe—Amen”",
+  "creedLine": "I believe in God, the Father almighty, creator of heaven and earth.",
+  "cards": [
+    {
+      "id": "intro-1",
+      "order": 1,
+      "section": "Preface",
+      "title": "1968 and 1989",
+      "pages": [
+        11,
+        24
+      ],
+      "idea": "After 1989 Christianity must find its voice: a privatized God “with nothing to do” leaves the world defenseless before technology and the loss of moral ground.",
+      "before": "Marxism collapsed in 1989 — why did the Christian message fail to step forward as the epoch-making alternative, and what does that failure reveal about how Christians had been living?",
+      "after": "Because believers had quietly lived etsi Deus non daretur, leaving God in the private realm with nothing to do. Only a faith that brings God into the public arena as judge, limit, and goal can speak to the new millennium.",
+      "why": "Ratzinger indicts not secularism but Christians: liberation theology’s God with nothing to do merely dramatized ordinary believers’ practical atheism. Yet the post-1989 hunger for religion shows the question of God cannot be suppressed.",
+      "quote": "God had nothing to do.",
+      "quotePage": 14,
+      "cloze": [
+        {
+          "pre": "But the faith would really have come out of the ghetto only if it had brought its most distinctive feature with it into the public arena: ",
+          "blank": "the God who judges and suffers",
+          "post": ", the God who sets limits and standards for us; the God from whom we come and to whom we are going."
+        },
+        {
+          "pre": "Yet God is ",
+          "blank": "“practical”",
+          "post": " and not just some theoretical conclusion of a consoling world view that one may adhere to or simply disregard."
+        },
+        {
+          "pre": "But we ought to wonder whether God might not in fact be the genuine reality, ",
+          "blank": "the basic prerequisite for any “realism”",
+          "post": ", so that, without him, nothing is safe."
+        }
+      ],
+      "recall": "Why does Ratzinger think the post-1989 rediscovery of religion still distorts Christianity, and what would a faith that has really “come out of the ghetto” look like in public life?",
+      "tags": [
+        "history and modernity",
+        "being a Christian today",
+        "the name of God"
+      ]
+    },
+    {
+      "id": "intro-2",
+      "order": 2,
+      "section": "Introduction I.1",
+      "title": "Doubt and belief — man’s situation before the question of God",
+      "pages": [
+        29,
+        34
+      ],
+      "idea": "Believer and unbeliever both live in doubt: faith is never secure, unbelief never closes the question — “perhaps it is true” haunts both alike.",
+      "before": "When you picture someone who has lost faith, do you imagine a person at peace with a settled conclusion — or one who still hears the Rabbi’s “perhaps it is true”?",
+      "after": "Both are threatened: the believer by the plunge into unbelief, the unbeliever by the doubt that belief may after all be true. Doubt is the one avenue of communication between them.",
+      "why": "Ratzinger rejects the cozy clown-and-burning-village analogy: the problem is not outdated language but a shared abyss. It is only when belief is rejected that its “unrejectability” becomes evident.",
+      "quote": "It is not until belief is rejected that its unrejectability becomes evident.",
+      "quotePage": 33,
+      "cloze": [
+        {
+          "pre": "Fastened to the cross—with the cross ",
+          "blank": "fastened to nothing",
+          "post": ", drifting over the abyss."
+        },
+        {
+          "pre": "Anyone who makes up his mind to evade the uncertainty of belief will have to experience ",
+          "blank": "the uncertainty of unbelief",
+          "post": ", which can never finally eliminate for certain the possibility that belief may after all be the truth."
+        },
+        {
+          "pre": "Just as the believer knows himself to be constantly threatened by unbelief, which he must experience as a continual temptation, so for the unbeliever faith remains ",
+          "blank": "a temptation and a threat",
+          "post": " to his apparently permanently closed world."
+        }
+      ],
+      "recall": "Explain in your own words why Ratzinger says that believer and unbeliever “share, each in his own way, doubt and belief”.",
+      "tags": [
+        "being a Christian today",
+        "subjective faith"
+      ]
+    },
+    {
+      "id": "intro-3",
+      "order": 3,
+      "section": "Introduction I.2",
+      "title": "The origin of belief — an attempt at a definition of belief",
+      "pages": [
+        34,
+        38
+      ],
+      "idea": "Belief is not inference but conversion: a second access to reality that trusts the unseen as the truly real — a leap, never demonstrable, renewed daily.",
+      "before": "Is believing mainly a matter of weighing evidence, or of the whole person turning around? What changes if “credo” names a basic behavior toward reality rather than an opinion?",
+      "after": "Credo is a fundamental option: the decision that the unseen is the truly real that supports all the rest of reality. Faith is conversion, an about-turn only he who turns about can receive.",
+      "why": "It is not self-evident that Christianity’s core word is credo: the Old Testament called itself “law”, Roman religion meant “rites”. Christianity stakes everything on belief — and belief is essentially an adventurous leap.",
+      "quote": "Belief has always had something of an adventurous break or leap about it",
+      "quotePage": 38,
+      "cloze": [
+        {
+          "pre": "But in this area of things that can be seen and grasped, the area that determines the living space of man, God ",
+          "blank": "does not occur and will never occur",
+          "post": ", however much the area may be extended."
+        },
+        {
+          "pre": "It signifies the deliberate view that what cannot be seen, what can in no wise move into the field of vision, is not unreal; that, on the contrary, what cannot be seen in fact represents ",
+          "blank": "true reality",
+          "post": ", the element that supports and makes possible all the rest of reality."
+        },
+        {
+          "pre": "Man’s natural inclination draws him to ",
+          "blank": "the visible",
+          "post": ", to what he can take in his hand and hold as his own."
+        }
+      ],
+      "recall": "Why can faith never be “demonstrated”, and why does that not make it irrational or merely private?",
+      "tags": [
+        "subjective faith",
+        "faith and reason"
+      ]
+    },
+    {
+      "id": "intro-4",
+      "order": 4,
+      "section": "Introduction I.3",
+      "title": "The dilemma of belief in the world of today",
+      "pages": [
+        38,
+        41
+      ],
+      "idea": "Modern unbelief hides the real scandal: faith seems to bind us to the past, yet beneath it lies Christianity’s positivism — God committed to one man, one moment.",
+      "before": "If the Gospel were safely timeless — a general wisdom about the Eternal — would believing be easier? What is actually lost when the “then” is dissolved into the “now”?",
+      "after": "The deepest offense is not antiquity but God’s self-commitment to history: the eternal entered one figure, one hour, so near that we can kill him. Interpretations that remove this offense are dishonest.",
+      "why": "Ratzinger calls this Christianity’s “ineradicable positivity”: revelation makes God touchable — and therefore killable. Modernizing revisions that avoid scandal trade the truth for a “viable proposition”.",
+      "quote": "God has come so near to us that we can kill him",
+      "quotePage": 40,
+      "cloze": [
+        {
+          "pre": "Belief appears no longer as the bold but challenging leap out of the apparent all of our visible world and into the apparent void of the invisible and intangible; it looks much more like ",
+          "blank": "a demand to bind oneself to yesterday",
+          "post": " and to affirm it as eternally valid."
+        },
+        {
+          "pre": "The very thing that at first seems to bring God quite close to us, so that we can touch him as a fellow man, follow his footsteps and measure them precisely, also becomes in a very profound sense ",
+          "blank": "the precondition for the “death of God”",
+          "post": ", which henceforth puts an ineradicable stamp on the course of history and the human relationship with God."
+        },
+        {
+          "pre": "An “interpreted” Christianity of this kind that has lost all contact with reality implies ",
+          "blank": "a lack of sincerity",
+          "post": " in dealing with the questions of the non-Christian, whose “perhaps not” should worry us as seriously as we want the Christian “perhaps” to worry him."
+        }
+      ],
+      "recall": "What does Ratzinger mean by the “positivism” of Christianity, and why is a timeless or inoffensive version of the Gospel a kind of dishonesty?",
+      "tags": [
+        "history and modernity",
+        "Incarnation",
+        "being a Christian today"
+      ]
+    },
+    {
+      "id": "intro-5",
+      "order": 5,
+      "section": "Introduction I.4",
+      "title": "The boundary of the modern understanding of reality",
+      "pages": [
+        41,
+        49
+      ],
+      "idea": "Modern reason trusts only the made and the makable: Vico’s verum quia factum, then Marx’s faciendum. Belief stands on neither plane — truth is received, not manufactured.",
+      "before": "What counts as “real” for modern man: what can be measured and repeated, or what can be made to work? Where would belief fit into either scheme?",
+      "after": "Ratzinger traces two stages: truth reduced to what we have made (history), then to what we can make (technique). Belonging neither to know nor to make, belief lives in the relation stand–understand.",
+      "why": "Theology’s two rescue attempts — faith as history, then political theology as praxis — each smuggled faith onto the modern plane. Belief instead concerns basic decisions that no man can avoid making.",
+      "quote": "all that we can truly know is what we have made ourselves",
+      "quotePage": 43,
+      "cloze": [
+        {
+          "pre": "For the ancient world and the Middle Ages, being itself is true, in other words, ",
+          "blank": "apprehensible",
+          "post": ", because God, pure intellect, made it, and he made it by thinking it."
+        },
+        {
+          "pre": "It comes to ",
+          "blank": "the primacy of the “makable” over the “made”",
+          "post": ", for in fact what can man do with what has merely existed in the past?"
+        },
+        {
+          "pre": "For when he says this, he is not primarily enunciating ",
+          "blank": "a program for changing the world",
+          "post": " or simply attaching himself to a chain of historical events."
+        }
+      ],
+      "recall": "Summarize the two stages of the modern revolution in truth (factum, faciendum) and explain why belief cannot be placed on either plane.",
+      "tags": [
+        "history and modernity",
+        "faith and reason"
+      ]
+    },
+    {
+      "id": "intro-6",
+      "order": 6,
+      "section": "Introduction I.5",
+      "title": "Faith as standing firm and understanding",
+      "pages": [
+        49,
+        53
+      ],
+      "idea": "Faith is standing firm on received ground: entrusting oneself to meaning one cannot make. Believing is literally taking a stand — and understanding grows only out of it.",
+      "before": "When you “believe” someone, are you less rational than when you verify a fact — or are you exercising a different, irreducible kind of reason?",
+      "after": "Belief is not incomplete knowledge but entrusting oneself to what was not made by us and yet upholds all our making. Meaning cannot be manufactured; it can only be received.",
+      "why": "From Isaiah 7:9 — “If you do not believe, then you do not abide” — Ratzinger draws the ‘mn (amen) root: truth, firm ground, trust. Believing is standing; only on that stand can understanding follow.",
+      "quote": "Meaning that is self-made is in the last analysis no meaning.",
+      "quotePage": 52,
+      "cloze": [
+        {
+          "pre": "Faith is thereby defined as ",
+          "blank": "taking up a position",
+          "post": ", as taking a stand trustfully on the ground of the word of God."
+        },
+        {
+          "pre": "Essentially, it is ",
+          "blank": "entrusting oneself",
+          "post": " to that which has not been made by oneself and never could be made and which precisely in this way supports and makes possible all our making."
+        },
+        {
+          "pre": "To try to manufacture it in this way, that is, out of the provable knowledge of what can be made, would resemble ",
+          "blank": "Baron Munchhausen’s absurd attempt",
+          "post": " to pull himself up out of the bog by his own hair."
+        }
+      ],
+      "recall": "Explain the play on words Ratzinger finds in Isaiah 7:9 and the “amen” root, and why believing is a kind of standing rather than a kind of knowing.",
+      "tags": [
+        "faith and reason",
+        "subjective faith"
+      ]
+    },
+    {
+      "id": "intro-7",
+      "order": 7,
+      "section": "Introduction I.6",
+      "title": "The rationality of faith",
+      "pages": [
+        53,
+        56
+      ],
+      "idea": "Faith’s “Amen” is no blind surrender: it entrusts itself to truth itself — the only ground man can stand on; understanding grows only out of belief.",
+      "before": "Is “Amen” a rational act or a leap in the dark? What does calculating knowledge give up in order to succeed — and what does faith refuse to give up?",
+      "after": "Amen means trusting a ground one did not make — a movement toward logos, meaning, truth. Calculating knowledge renounces the quest for truth itself; faith alone keeps meaning, ground, and truth indivisible.",
+      "why": "Ratzinger reverses the cliché: it is practical knowledge that is positivist and truth-renouncing, while faith is the quest for truth itself. Mystery is not an excuse for failed reason but the ground that comprehends us.",
+      "quote": "Truth is the only ground suitable for man to stand upon.",
+      "quotePage": 54,
+      "cloze": [
+        {
+          "pre": "Thus “Amen” simply says once again in its own way what belief means: the trustful placing of myself on ",
+          "blank": "a ground that upholds me",
+          "post": ", not because I have made it and checked it by my own calculations but, rather, precisely because I have not made it and cannot check it."
+        },
+        {
+          "pre": "On the contrary, it is ",
+          "blank": "a movement toward the logos, the ratio",
+          "post": ", toward meaning and so toward truth itself, for in the final analysis the ground on which man takes his stand cannot possibly be anything else but the truth revealing itself."
+        },
+        {
+          "pre": "It achieves its successes precisely by ",
+          "blank": "renouncing the quest for truth itself",
+          "post": " and by directing its attention to the “rightness”, the “soundness” of the system whose hypothetical design must prove itself in the functioning of the experiment."
+        }
+      ],
+      "recall": "Why does Ratzinger say the “Amen” of faith is rational rather than blind, and what does calculating knowledge sacrifice that faith will not?",
+      "tags": [
+        "faith and reason",
+        "God of the philosophers"
+      ]
+    },
+    {
+      "id": "intro-8",
+      "order": 8,
+      "section": "Introduction I.7",
+      "title": "“I believe in you”",
+      "pages": [
+        56,
+        57
+      ],
+      "idea": "Christian faith’s center is not “something” but “you”: in Jesus the meaning of the world is a person who knows and loves me — believing, trusting, loving are one.",
+      "before": "Could faith in “something” — a spiritual ground of the world — ever be enough? What changes when its object is not an idea but a person who addresses you?",
+      "after": "In Jesus faith finds a “you” that upholds me: objective meaning that knows me and loves me. All the theses of the Creed are expressions of this one about-turn.",
+      "why": "Even this personal faith keeps the question “Are you really he?” — asked even by John the Baptist. Love itself demands reflection; the whole book revolves around this question.",
+      "quote": "its central formula is not “I believe in something”, but “I believe in you.”",
+      "quotePage": 56,
+      "cloze": [
+        {
+          "pre": "It is ",
+          "blank": "the encounter with the man Jesus",
+          "post": ", and in this encounter it experiences the meaning of the world as a person."
+        },
+        {
+          "pre": "Thus faith is the finding of a “you” that upholds me and amid all the unfulfilled—and in the last resort unfulfillable—hope of human encounters gives me ",
+          "blank": "the promise of an indestructible love",
+          "post": " that not only longs for eternity but also guarantees it."
+        },
+        {
+          "pre": "Thus in the last analysis believing, trusting, and loving are one, and all the theses around which belief revolves are only ",
+          "blank": "concrete expressions of the all-embracing about-turn",
+          "post": ", of the assertion “I believe in you”—of the discovery of God in the countenance of the man Jesus of Nazareth."
+        }
+      ],
+      "recall": "Why must faith’s object be a “you” rather than “something”, and why does love require the ever-repeated question “Are you really he?”",
+      "tags": [
+        "Incarnation",
+        "subjective faith",
+        "faith and reason"
+      ]
+    },
+    {
+      "id": "intro-9",
+      "order": 9,
+      "section": "Introduction II.1",
+      "title": "History and structure of the Apostles’ Creed",
+      "pages": [
+        58,
+        60
+      ],
+      "idea": "The Creed began as a three-question baptismal dialogue in Rome, shaped by history: Western and Eastern creeds differ — salvation-history versus cosmic-metaphysical emphasis.",
+      "before": "Did the twelve apostles really each contribute an article to the Creed? What does its actual origin — the baptismal dialogue of Rome — tell us about what a creed is for?",
+      "after": "The Creed grew from the triple baptismal question and answer, refined over centuries; the apostolic-authorship story is a later legend. The Roman form stresses salvation-history, the East’s the cosmos and creation.",
+      "why": "Ratzinger hides none of the text’s messy history — imperial politics, East–West tension — yet insists it faithfully echoes the ancient Church’s faith, which in its kernel echoes the New Testament.",
+      "quote": "the oldest form of the confession of faith takes the shape of a tripartite dialogue",
+      "quotePage": 58,
+      "cloze": [
+        {
+          "pre": "In the East this Roman symbol or creed remained unknown; it came as no small surprise to the Roman representatives at ",
+          "blank": "the ecumenical Council of Florence",
+          "post": " in the fifteenth century when they learned from the Greeks that the symbolum presumed to stem from the apostles was not employed by them."
+        },
+        {
+          "pre": "Very soon (probably still in the fifth century) this legend crystallized into the assumption that ",
+          "blank": "each of the twelve articles",
+          "post": " into which the whole was now divided had been contributed by one of the twelve apostles."
+        },
+        {
+          "pre": "The East, on the other hand, has always sought to see the Christian faith in a cosmic and metaphysical perspective, which is mirrored in professions of faith above all by the fact that ",
+          "blank": "Christology and belief in creation are related to each other",
+          "post": ", and thus the uniqueness of the Christian story and the everlasting, all-embracing nature of the creation come into close association."
+        }
+      ],
+      "recall": "How did the Apostles’ Creed actually take shape, and what do the differences between the Roman and Eastern creeds reveal about the faith they confess?",
+      "tags": [
+        "Creed and dogma",
+        "Church",
+        "creation"
+      ]
+    },
+    {
+      "id": "intro-10",
+      "order": 10,
+      "section": "Introduction II.2",
+      "title": "Limits and meaning of the text",
+      "pages": [
+        60,
+        61
+      ],
+      "idea": "The Creed’s checkered history — unity, East–West split, imperial politics — is itself part of believing: faith happens on the petty human scale and so must include forgiveness.",
+      "before": "If the Creed was tangled up with imperial politics and regional power games, can it still carry the Gospel — or is that tangle part of what faith honestly is?",
+      "after": "The text’s history shows belief entering the world mingled with every human circumstance — the leap happens on the petty scale of everything human. So faith must have to do with forgiving.",
+      "why": "Instead of excusing the muddles, Ratzinger reads them as instruction: man is “a divided being pitiful in his greatness” and needs forgiveness even in his best and purest moments.",
+      "quote": "faith has to do, and must have to do, with forgiving",
+      "quotePage": 61,
+      "cloze": [
+        {
+          "pre": "First, the Creed ",
+          "blank": "cuts right across all cleavages and tensions",
+          "post": " and expresses the common ground of belief in the triune God."
+        },
+        {
+          "pre": "Thus the fate of this text demonstrates how the answer to the call from Galilee mingles, at the moment of its entry into history, with ",
+          "blank": "all the human circumstances of man",
+          "post": ": with the special interests of one region, with the estrangement of those called to unity among themselves, with the tricks of the powers of this world."
+        },
+        {
+          "pre": "Something absolutely central becomes visible here, namely, that faith has to do, and must have to do, with forgiving; that it aims at leading man to recognize that he is a being that can only find himself in ",
+          "blank": "the reception and transmission of forgiveness",
+          "post": ", a being that needs forgiveness even in his best and purest moments."
+        }
+      ],
+      "recall": "Why does Ratzinger think the Creed’s entanglement with politics and division is not just a scandal to be explained away?",
+      "tags": [
+        "Creed and dogma",
+        "history and modernity",
+        "Church"
+      ]
+    },
+    {
+      "id": "intro-11",
+      "order": 11,
+      "section": "Introduction II.3",
+      "title": "Creed and dogma",
+      "pages": [
+        61,
+        63
+      ],
+      "idea": "Faith is not doctrine recited but conversion: the baptismal dialogue of renunciation and assent turns the whole person from the visible to the invisible — dogma serves this about-turn.",
+      "before": "Is “dogma” a list of propositions to be recited, or something that happens to a person? What were the first Christians actually doing when they said “Credo”?",
+      "after": "In baptism “I believe” answers “Do you believe?” after a triple renunciation: faith is a shift of the whole being, an about-turn one can render as “I hand myself over to”.",
+      "why": "Ratzinger prefers the original dialogue form even to the later “I” and “We” creeds: dogma grew from councils seeking right doctrine, but its birthplace is the conversion enacted in baptism.",
+      "quote": "The phrase “I believe” could here be literally translated by “I hand myself over to”, “I assent to”.",
+      "quotePage": 62,
+      "cloze": [
+        {
+          "pre": "This means that faith is located in ",
+          "blank": "the act of conversion",
+          "post": ", in the turn of one’s being from worship of the visible and practicable to trust in the invisible."
+        },
+        {
+          "pre": "In the procedure of the threefold renunciation and the threefold assent, linked as it is with ",
+          "blank": "the thrice-repeated death symbol of drowning",
+          "post": " and the thrice-repeated symbolization of resurrection to new life, the true nature of faith or belief is clearly illustrated: it is a conversion, an about-turn, a shift of being."
+        },
+        {
+          "pre": "This original form of the symbol, which consisted at first only of ",
+          "blank": "the two-in-oneness of question and answer",
+          "post": ", seems to me to be a very much more accurate expression of the structure of faith than the later simplified, collective “I”-form."
+        }
+      ],
+      "recall": "Why does Ratzinger think the baptismal question-and-answer form expresses the nature of faith better than a list of doctrines — and what is dogma really for?",
+      "tags": [
+        "Creed and dogma",
+        "subjective faith",
+        "Church"
+      ]
+    },
+    {
+      "id": "intro-12",
+      "order": 12,
+      "section": "Introduction II.4",
+      "title": "The Creed as expression of the structure of faith",
+      "pages": [
+        63,
+        70
+      ],
+      "idea": "Faith comes from hearing, lives in the “We”, and is a symbolum — a broken half completed only with others: Church and word belong to the thing itself.",
+      "before": "Could you have faith as a solitary individual, privately searching for the truth? What changes when you learn that “symbol” literally means a broken piece of a ring?",
+      "after": "Faith comes from hearing, not private reflection; its word precedes thought and binds a community. As symbolon each believer holds only half — Church and confession belong to faith, not to it as add-ons.",
+      "why": "Ratzinger follows Marius Victorinus: Christianity is not Platonism, an idea for solitary minds, but a way. The believers’ “We” is not for small minds; it is in a certain sense the matter itself.",
+      "quote": "Christian belief is not an idea but life",
+      "quotePage": 70,
+      "cloze": [
+        {
+          "pre": "On the contrary, it is characteristic of faith that it comes from hearing, that it is ",
+          "blank": "the reception of something that I have not thought out",
+          "post": ", so that in the last analysis thinking in the context of faith is always a thinking over of something previously heard and received."
+        },
+        {
+          "pre": "A symbolum is something that points to ",
+          "blank": "its complementary other half",
+          "post": " and thus creates mutual recognition and unity."
+        },
+        {
+          "pre": "It also means that every man holds the faith only as a symbolon, ",
+          "blank": "a broken, incomplete piece",
+          "post": " that can only attain unity and completeness when it is laid together with the others."
+        }
+      ],
+      "recall": "Explain the etymology of “symbolum” and why Ratzinger concludes that the Church and common confession belong to the nature of faith rather than being added to it.",
+      "tags": [
+        "Creed and dogma",
+        "Church",
+        "being a Christian today"
+      ]
+    }
+  ]
+}

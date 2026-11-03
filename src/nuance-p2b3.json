@@ -1,0 +1,251 @@
+{
+  "cards": [
+    {
+      "id": "p2b-1",
+      "misreading": {
+        "wrong": "God saves each soul directly and immediately; the individual alone is real, so Church, sacrament, and history are dispensable intermediaries.",
+        "right": "There is no mere individual: man is himself only within the whole\u2014mankind, history, cosmos\u2014so Christianity serves all, and therefore stakes everything on Jesus.",
+        "quote": "The individual is the salvation of the whole, and the whole receives its salvation only from the individual",
+        "page": 176
+      },
+      "argument": {
+        "tension": "God can save the mere individual directly; yet Christianity exists for history, community\u2014the whole\u2014and needs intermediaries.",
+        "move": "He denies the premise: no mere individual exists; since man lives within the whole, the whole's salvation must come through one individual.",
+        "payoff": "The scandal of Jesus as the world's savior becomes love's intrinsic logic, and the six structures of Christianity coalesce in love."
+      },
+      "rubric": [
+        "No mere individual exists; humans are inherently communal",
+        "Christianity serves all of history, not isolated souls",
+        "Therefore everything hangs on the one individual, Jesus"
+      ]
+    },
+    {
+      "id": "p2b-2",
+      "misreading": {
+        "wrong": "The Virgin Birth grounds Christ's divinity: God is literally his father, making Jesus a half-divine being like pagan savior-children.",
+        "right": "Divine Sonship is ontological, in God's eternity\u2014not biological; the virginal conception is the sign of salvation as God's new creation, sheer gift.",
+        "quote": "the Divine Sonship of which faith speaks is not a biological but an ontological fact",
+        "page": 193
+      },
+      "argument": {
+        "tension": "The birth narrative appears to ground Christ's divinity; yet the Church says his Sonship does not rest on it at all.",
+        "move": "He separates them: Sonship rests on the Abba-Son dialogue\u2014ontological in God's eternity; the birth narrative is Israel's barren-mother theology of grace.",
+        "payoff": "The Virgin Birth becomes a sign that salvation is pure gift\u2014new creation, not divine biology\u2014and Mary fulfills Israel's hope of grace."
+      },
+      "rubric": [
+        "Sonship is ontological, not biological",
+        "Virginal conception signifies salvation as sheer gift",
+        "New creation: God's Word amid barren humanity"
+      ]
+    },
+    {
+      "id": "p2b-3",
+      "misreading": {
+        "wrong": "The Cross appeases an angry God whose justice demands an infinite sacrifice: the Son's death pays the debt sinners owe.",
+        "right": "The Cross is movement from above: God reconciles the world to himself, giving himself\u2014love's self-offering, not a price paid to appease wrath.",
+        "quote": "God does not wait until the guilty come to be reconciled; he goes to meet them and reconciles them.",
+        "page": 199
+      },
+      "argument": {
+        "tension": "Scripture holds both God's descent to reconcile and Christ's offering to the Father; the payment picture distorts both directions.",
+        "move": "He reads Hebrews: Christ's profane execution was the world's one cosmic liturgy, replacing all sacrificial offerings with the self-gift of love.",
+        "payoff": "Worship becomes thanksgiving and receptivity; the Cross reveals who God is\u2014self-giving love\u2014and who man is\u2014needing grace."
+      },
+      "rubric": [
+        "Cross descends: God reconciles sinners first",
+        "Sacrifice is self-giving love, not destruction",
+        "Worship is Eucharist: receiving, not compensating God"
+      ]
+    },
+    {
+      "id": "p2b-4",
+      "misreading": {
+        "wrong": "The article describes a mythological underworld beneath the earth where souls are tortured\u2014the hell of popular imagination, now obsolete.",
+        "right": "'Hell' translates sheol, the state of the dead: Christ entered death's final loneliness, so now love dwells in death; only self-enclosure is hell.",
+        "quote": "Death is absolute loneliness. But the loneliness into which love can no longer advance is\u2014hell.",
+        "page": 211
+      },
+      "argument": {
+        "tension": "Death is the silent void where no voice reaches\u2014God seems absent; the article looks like discardable cosmological myth.",
+        "move": "Reading it through Holy Saturday and Christ's death cry, he finds God present in God-forsakenness: solidarity with the dead at the bottom.",
+        "payoff": "Death is hell no longer\u2014love dwells in it; only deliberate self-enclosure remains hell, the 'second death'."
+      },
+      "rubric": [
+        "Hell means final loneliness, not torture",
+        "Christ descends into death's abandonment with us",
+        "Only self-imposed enclosure remains hell"
+      ]
+    },
+    {
+      "id": "p2b-5",
+      "misreading": {
+        "wrong": "The resurrection means Jesus' corpse was revived and returned to ordinary earthly life\u2014a biological miracle that simply reverses death's process.",
+        "right": "He rose to definitive life\u2014zoe beyond bios\u2014a new mode of being, recognized only in appearances: the crucified one, touched yet untouchable.",
+        "quote": "it is zoe, new, different, definitive life; life that has stepped beyond the mortal realm of bios and history",
+        "page": 216
+      },
+      "argument": {
+        "tension": "Love demands indestructibility yet cannot grant it within mortal bios; the appearances describe one both recognized and unrecognizable.",
+        "move": "He reads the narratives' dialectic\u2014touching and not touching, same yet transformed\u2014as the very form of life beyond biological laws.",
+        "payoff": "Resurrection is love proven stronger than death; since his love embraces all, his rising is the ground of our immortality."
+      },
+      "rubric": [
+        "Risen life is zoe, a new mode",
+        "Not resuscitation: no return to bios",
+        "His love for all grounds our rising"
+      ]
+    },
+    {
+      "id": "p2b-6",
+      "misreading": {
+        "wrong": "The Ascension means Jesus flew up into the sky and left the world\u2014a three-story cosmos with 'up' as a real direction.",
+        "right": "Ascension is Christ's being with God; heaven is the contact of man with God\u2014so in him God has time and is near to all.",
+        "quote": "Heaven is to be defined as the contact of the being \u201cman\u201d with the being \u201cGod\u201d",
+        "page": 221
+      },
+      "argument": {
+        "tension": "Modern physics cancels 'above' and 'below', making ascent mythical; yet prayer needs a God who is present and responsive in time.",
+        "move": "He recasts ascent as the upper dimension of human existence\u2014contact with God\u2014so eternity is contemporary with every present.",
+        "payoff": "In Jesus, God has time for the world; he is the throne of grace one may approach at any time."
+      },
+      "rubric": [
+        "Heaven is God-human contact, not location",
+        "Being with God makes Christ universally near",
+        "The Ascension grounds the possibility of prayer"
+      ]
+    },
+    {
+      "id": "p2b-7",
+      "misreading": {
+        "wrong": "Final judgment is the opposite of love: a terrifying reckoning that cancels grace, reducing Christianity to fear and moral bookkeeping.",
+        "right": "Judgment preserves justice as love's excess\u2014and the judge is our brother Jesus, so over judgment glows the dawn of hope.",
+        "quote": "True love is excess of justice, excess that goes farther than justice, but never destruction of justice",
+        "page": 229
+      },
+      "argument": {
+        "tension": "Grace promises pure gift; judgment demands account of works\u2014the two cannot be dissolved into each other without loss.",
+        "move": "He holds them in paradox: freedom means responsibility before someone\u2014and that someone is the crucified brother who has suffered.",
+        "payoff": "Judgment keeps life serious and preserves justice; because Jesus is judge, the article tinges judgment with hope, not terror."
+      },
+      "rubric": [
+        "Freedom grounds responsibility; judgment protects it",
+        "Love exceeds justice but never destroys it",
+        "Our judge is the brother Jesus\u2014hope"
+      ]
+    },
+    {
+      "id": "p2b-8",
+      "misreading": {
+        "wrong": "The Creed is a list of timeless truths about Christ\u2014propositions to affirm\u2014rather than the narration and interpretation of events.",
+        "right": "The articles narrate and interpret one event\u2014God's path with us; faith hangs on the happening, and without the event the words are empty.",
+        "quote": "They are the interpretation of an event; if this event is removed, they become empty talk",
+        "page": 196
+      },
+      "argument": {
+        "tension": "Abstract doctrines look more modern than a story of descent, death, and glory; yet disembodied faith loses contact with reality.",
+        "move": "He shows the sequence\u2014conception, Cross, descent, rising, glory, return\u2014spans the total range of existence: divinity descending, humanity taken into God.",
+        "payoff": "History becomes revelation's medium; each article is one stage of God's single self-giving movement of love."
+      },
+      "rubric": [
+        "Each article interprets a real event",
+        "The sequence traces one movement of love",
+        "Faith confesses happenings, not abstractions"
+      ]
+    },
+    {
+      "id": "p3-1",
+      "misreading": {
+        "wrong": "The Creed's last articles\u2014Church, communion, forgiveness, resurrection\u2014are four separate beliefs loosely appended after the story of Christ.",
+        "right": "All are developments of one profession, 'I believe in Holy Spirit': God's saving power at work in history through baptism, Eucharist, transformation.",
+        "quote": "nothing more than developments of its basic profession, \u201cI believe in Holy Spirit.\u201d",
+        "page": 236
+      },
+      "argument": {
+        "tension": "The Spirit article seems third-Person doctrine; the following articles seem practical add-ons\u2014as if belief and practice pulled apart.",
+        "move": "He recovers the Greek text's salvation-historical sense: the Spirit is God's gift to history, and each later article concretizes his working.",
+        "payoff": "Salvation history and the Trinity interlock again: the Church appears sacramentally, as the Spirit's activity\u2014baptism, Eucharist, final transformation."
+      },
+      "rubric": [
+        "Last articles develop one belief: the Spirit",
+        "The Spirit is God's power in history",
+        "Each names his working: sacraments, transformation"
+      ]
+    },
+    {
+      "id": "p3-2",
+      "misreading": {
+        "wrong": "The Church is the community of the perfect; her holiness rests on members' virtue, and her scandals disprove her claim to it.",
+        "right": "Holiness is God's sanctifying power at work despite sinners\u2014grace's paradoxical shape; 'catholic' means visibly one around one Word and one bread.",
+        "quote": "that power of sanctification which God exerts in her in spite of human sinfulness",
+        "page": 241
+      },
+      "argument": {
+        "tension": "The Creed calls the Church holy and one; history shows failure and division\u2014the formula seems to deny plain experience.",
+        "move": "He turns the objection: true holiness is union and redeeming love\u2014God mixing with the dirt; holiness together with unholiness is grace's shape.",
+        "payoff": "The Church comforts rather than condemns\u2014word heard, sacrament celebrated, forbearance shared\u2014and catholicity demands visible oneness in a torn world."
+      },
+      "rubric": [
+        "Holiness is God's gift despite human sin",
+        "Catholicity: visible unity\u2014one Word, one bread",
+        "True holiness unites and redeems, not separates"
+      ]
+    },
+    {
+      "id": "p3-3",
+      "misreading": {
+        "wrong": "The immortal soul is what really survives; 'resurrection of the body' is a crude mythological add-on about physical corpses being reassembled.",
+        "right": "Biblical resurrection affirms the whole embodied person\u2014awakened by God's love, in fellowship\u2014and matter's future: not Greek soul-survival, nor restored physical bodies.",
+        "quote": "not by virtue of their own power, but because they are known and loved by God",
+        "page": 250
+      },
+      "argument": {
+        "tension": "Greek deathless-soul fits modern minds but abandons the body; literal resurrection of flesh offends modern physics\u2014both answers look impossible.",
+        "move": "He removes the Greek-biblical overlay: Paul teaches resurrection of persons in transformed form\u2014dialogic immortality, awakening by God's love.",
+        "payoff": "The whole person and matter have a future; fellowship persists, and 'soul' is re-grounded as being God's partner in dialogue."
+      },
+      "rubric": [
+        "Whole person rises, not separable soul",
+        "Awakening: held in being by God's love",
+        "Transformed person, not restored physical body"
+      ]
+    },
+    {
+      "id": "p3-4",
+      "misreading": {
+        "wrong": "The Holy Spirit is a vague feeling of religious enthusiasm\u2014a pious atmosphere\u2014not a distinct divine power whose coming reshapes faith and Church.",
+        "right": "The Spirit is the risen Christ's living presence\u2014love stronger than death\u2014who personalizes faith through forgiveness and gathers believers into one body.",
+        "quote": "the Holy Spirit as the power through which the risen Lord remains present in the history of the world",
+        "page": 235
+      },
+      "argument": {
+        "tension": "Spirit-teaching drifts into vague edification; Church-teaching turns institutional\u2014split apart, both lose their function in Christian consciousness.",
+        "move": "He holds them together: the Spirit is God's power in history; the Church is his sacramental activity\u2014forgiveness creating communion.",
+        "payoff": "Faith becomes personal and ecclesial at once: one bread, one body; the Spirit is love that overleaps death, transforming world to resurrection."
+      },
+      "rubric": [
+        "The Spirit is Christ's living presence in history",
+        "He personalizes: forgiveness creates communion",
+        "Spirit and Church inseparable\u2014word and sacrament"
+      ]
+    },
+    {
+      "id": "p3-5",
+      "misreading": {
+        "wrong": "Faith is a blind leap into the irrational\u2014believing what contradicts reason, a private feeling set against knowledge and evidence.",
+        "right": "Faith is stand-understand: entrusting myself to the ground I did not make\u2014the logos, truth itself\u2014where believing, trusting, and loving become one.",
+        "quote": "its central formula is not \u201cI believe in something\u201d, but \u201cI believe in you.\u201d",
+        "page": 56
+      },
+      "argument": {
+        "tension": "Practical knowledge makes and proves; meaning cannot be made or proven\u2014yet man cannot live without meaning.",
+        "move": "He distinguishes planes: belief stands on received ground; understanding grows only from belief\u2014so faith fulfills reason instead of canceling it.",
+        "payoff": "The Creed's 'I believe' and 'Amen' converge in 'I believe in you'\u2014the discovery of God in the face of Jesus."
+      },
+      "rubric": [
+        "Faith stands on ground not self-made",
+        "Believing, trusting, loving fuse in a You",
+        "Faith enables understanding; not irrational escape"
+      ]
+    }
+  ]
+}

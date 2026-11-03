@@ -1,0 +1,227 @@
+{
+  "part": "two",
+  "partTitle": "Part Two: Jesus Christ",
+  "creedLine": "I believe in Jesus Christ, his only Son, our Lord.",
+  "cards": [
+    {
+      "id": "p2a-1",
+      "order": 1,
+      "section": "Part Two I.A",
+      "title": "The problem of faith in Jesus today",
+      "pages": [137, 139],
+      "idea": "The Creed joins meaning to one historical man; historico-critical method can see Jesus but, confined to documents, can only with difficulty discover the Christ in him.",
+      "before": "Can one man, executed in Palestine and receding into the mists of the past, really be the decisive center of all history — and can historical method even reach him?",
+      "after": "The Creed's second article says yes: the logos has become flesh in one man. Yet historico-critical method, tied to documents and chance statements, sees the man Jesus but can only with difficulty find the Christ.",
+      "why": "Ratzinger parallels physics: positivism gains precision by renouncing being, so likewise historical science 'not only reveals but also conceals history' — the past cannot be reenacted, only its documents checked.",
+      "quote": "historical science in the narrowest sense of the term not only reveals but also conceals history",
+      "quotePage": 139,
+      "cloze": [
+        {"pre": "The historical man Jesus is the Son of God, and the Son of God is ", "blank": "the man Jesus", "post": "."},
+        {"pre": "It is quite often forgotten that ", "blank": "the full truth of history eludes documentary verification", "post": " just as much as the truth of being escapes the experimental approach."},
+        {"pre": "The automatic result is that it can see the man Jesus all right but can only with difficulty discover ", "blank": "the Christ in him", "post": ", which as a truth of history cannot simply be checked as right or wrong by reference to the documentary evidence."}
+      ],
+      "recall": "Why does Ratzinger think the historico-critical method, for all its precision, conceals as much of history as it reveals?",
+      "tags": ["Incarnation", "history and modernity"]
+    },
+    {
+      "id": "p2a-2",
+      "order": 2,
+      "section": "Part Two I.B.1",
+      "title": "The dilemma of modern theology: Jesus or Christ?",
+      "pages": [139, 142],
+      "idea": "Modern theology shuttles between a historically comprehensible Jesus and a kerygmatic Christ; both flights fail, for Jesus subsists only as the Christ and Christ only in the shape of Jesus.",
+      "before": "If scholars can verify only that Jesus existed, what remains for faith — the historical man or the message preached about him?",
+      "after": "Both flights fail: Harnack's plain Jesus proved a historian's mirage, and Bultmann's bare kerygma is an empty event. The way back to a mere Jesus is irrevocably barred.",
+      "why": "The century's zig-zag — from Christ to Jesus (Harnack), back to Christ (Bultmann), then to the 'death of God' Jesus — was wasted motion that nevertheless proves the two cannot exist without each other.",
+      "quote": "Jesus only subsists as the Christ and the Christ only subsists in the shape of Jesus",
+      "quotePage": 142,
+      "cloze": [
+        {"pre": "It is hardly surprising, after all we have said, that the more the barrier of historical science tends to divide faith and history, the more theology seeks to ", "blank": "escape in one way or the other from the dilemma of the simultaneous existence of both", "post": "."},
+        {"pre": "The dilemma of the two courses—on the one hand, that of transposing or reducing Christology to history and, on the other, that of escaping history completely and abandoning it as irrelevant to faith—could be quite accurately summarized in the two alternatives by which modern theology is vexed: ", "blank": "Jesus or Christ", "post": "?"},
+        {"pre": "Mere history creates no present; it only ", "blank": "confirms what happened in the past", "post": "."}
+      ],
+      "recall": "Why does Ratzinger think both the flight from Christ to a historical Jesus and the flight from Jesus to a bare kerygma fail?",
+      "tags": ["history and modernity", "being a Christian today"]
+    },
+    {
+      "id": "p2a-3",
+      "order": 3,
+      "section": "Part Two I.B.2",
+      "title": "The Creed's image of Christ",
+      "pages": [142, 145],
+      "idea": "In \"Jesus Christ\" name and title fuse: with Jesus, person and office cannot be separated — he is his word and his work, making faith personal, not a system.",
+      "before": "The Creed says 'Christ Jesus' with the title first — what happens to a person when title and name fuse into one?",
+      "after": "With Jesus, person and office are inseparable: there is no private 'I' behind his work. He is his word and his deed, so faith in him is personal faith, not acceptance of a system.",
+      "why": "Like 'Kaiser Wilhelm', 'Christ' is still a title yet almost a name — and here the fusion is no lapse of memory but faith's central insight: the identity of existence and mission.",
+      "quote": "The person is the office; the office is the person. The two are no longer separable.",
+      "quotePage": 143,
+      "cloze": [
+        {"pre": "For what faith really states is precisely that with Jesus it is not possible to ", "blank": "distinguish office and person", "post": "; with him, this differentiation simply becomes inapplicable."},
+        {"pre": "Here there is no “I” (as there is with all of us) that utters words; he has identified himself so closely with his word that “I” and word are indistinguishable: ", "blank": "he is word", "post": "."},
+        {"pre": "The person of Jesus is his teaching, and ", "blank": "his teaching is he himself", "post": "."}
+      ],
+      "recall": "What does the fused name-and-title 'Jesus Christ' imply about the relation between Jesus' person, his teaching, and his work?",
+      "tags": ["Creed and dogma", "subjective faith"]
+    },
+    {
+      "id": "p2a-4",
+      "order": 4,
+      "section": "Part Two I.B.3",
+      "title": "The point of departure of faith in Jesus: the Cross",
+      "pages": [145, 146],
+      "idea": "Faith was born at the Cross: Pilate's execution notice became the first profession of faith; the crucified criminal is the King, in whom word, work, and person are one.",
+      "before": "Jesus never called himself Messiah — so where and when did faith in Jesus as the Christ actually begin?",
+      "after": "At the Cross: Pilate's execution notice naming the executed 'King of the Jews' became the taproot of Christian faith. The crucified criminal is the Christ, and his crucifixion is his coronation.",
+      "why": "The 'death sentence of history' turns into the first 'profession of faith'; only from the Cross does the identity of person, word, and work become visible, after which his words are reread and John links both.",
+      "quote": "His crucifixion is his coronation; his kingship is his surrender of himself to men",
+      "quotePage": 145,
+      "cloze": [
+        {"pre": "Today we can establish with some certainty that the birthplace of the faith in Jesus as the Christ, that is, the birthplace of “Christ”-ian faith as a whole, ", "blank": "is the Cross", "post": "."},
+        {"pre": "This execution notice, ", "blank": "the death sentence of history", "post": ", became with paradoxical unity the “profession of faith”, the real starting point and taproot of the Christian faith, which holds Jesus to be the Christ: as the crucified criminal, this Jesus is the Christ, the King."},
+        {"pre": "Jesus is seen from the Cross, which speaks louder than any words: ", "blank": "he is the Christ", "post": "—no more need be said."}
+      ],
+      "recall": "Why is the Cross, rather than Jesus' preaching, the true starting point of faith in Jesus as the Christ?",
+      "tags": ["Cross", "Creed and dogma"]
+    },
+    {
+      "id": "p2a-5",
+      "order": 5,
+      "section": "Part Two I.B.4",
+      "title": "Jesus the Christ",
+      "pages": [146, 148],
+      "idea": "The hyphen between Jesus and Christ is also the hyphen between faith and love: to believe in Christ is to discover him in the least of men and serve them.",
+      "before": "Does firm faith in Christ as God's Son harden into a dogmatism that forgets love — or must love dissolve faith into mere sentiment?",
+      "after": "Neither: the hyphen joining Jesus to Christ also joins faith to love, so believing in him is entry into unconditional love and service of the man who needs me.",
+      "why": "Matthew 25 is no liberal escape from dogma but its logical consequence — and faith that is not love is not really Christian faith.",
+      "quote": "For this hyphen—let me repeat—is at the same time the hyphen between faith and love.",
+      "quotePage": 147,
+      "cloze": [
+        {"pre": "The hyphen between Jesus and Christ, the inseparability of person and work, the identity of one man with the act of sacrifice—these also signify ", "blank": "the hyphen between love and faith", "post": "."},
+        {"pre": "This corresponds with the picture sketched by Jesus in his great parable of the Last Judgment (Mt 25:31-46): the profession of faith in Christ demanded by the Lord when he sits in judgment is explained as ", "blank": "the discovery of Christ in the least of men", "post": ", in those who need my help."},
+        {"pre": "It is identity of logos (truth) and love and thus ", "blank": "makes love into the logos", "post": ", the truth of human existence."}
+      ],
+      "recall": "How does the parable of the Last Judgment (Mt 25) follow from the unity of person and work in Christ?",
+      "tags": ["being a Christian today", "Creed and dogma"]
+    },
+    {
+      "id": "p2a-6",
+      "order": 6,
+      "section": "Part Two I.C.1",
+      "title": "Christ true God and true man: the formulation of the question",
+      "pages": [148, 150],
+      "idea": "If Jesus' \"I\" is pure openness (word and son, entirely \"from\" and \"for\"), then he is God, who alone is love; and wholly for others he is the truest man.",
+      "before": "If Jesus is wholly 'for others', is he God or merely the perfect human being — must one choose between Christology and humanism?",
+      "after": "The dogma answers both questions Yes: an existence that is love itself is God's; the radical servant is the most human of men. Theology and anthropology coincide.",
+      "why": "The councils' triple Yes follows from the Creed itself: radical Christship presupposes Sonship, Sonship includes Godship — and only so is the statement logos-like rather than myth.",
+      "quote": "this existence not only has but is love—must it not then be identical with God, who alone is love?",
+      "quotePage": 148,
+      "cloze": [
+        {"pre": "But this now leads to a double consequence, in which the drama of faith in Christ (in the sense of a faith in Jesus as Christ, that is, as Messiah) and its necessary historical development into ", "blank": "the scandal of faith in the Son", "post": " (as faith in the true divinity of Jesus) come to light."},
+        {"pre": "In other words, developed christological dogma acknowledges that the radical Christship of Jesus presupposes the Sonship and that the Sonship includes the Godship; only if it is thus understood does it remain “logos-like”, that is, a rational statement; without this logical consistency, ", "blank": "one sinks into myth", "post": "."},
+        {"pre": "But it also acknowledges no less resolutely that in the radicality of his service Jesus is ", "blank": "the most human of men, the true man", "post": ", and it thus subscribes to the coincidence of theology and anthropology a correspondence in which ever since then the truly exciting part of Christ-ian faith has resided."}
+      ],
+      "recall": "How does the identity of person and work in Jesus lead to the twin affirmations of his true divinity and true humanity?",
+      "tags": ["Incarnation", "Creed and dogma", "logos vs myth"]
+    },
+    {
+      "id": "p2a-7",
+      "order": 7,
+      "section": "Part Two I.C.2",
+      "title": "A modern stock idea of the historical Jesus",
+      "pages": [150, 152],
+      "idea": "The modern stock story — prophetic teacher, failed death, resurrection belief, Hellenistic myth, Chalcedon — is itself a conglomeration of hypotheses, harder to believe than the God-become-man it dissolves.",
+      "before": "What if the Church's high Christology is just a chain of accidents — a failed prophet, a resurrection rumor, then Greek myth layered on top?",
+      "after": "The stock reconstruction is itself absurd: 'Son of God' and the Hellenistic 'divine man' have nothing to do with each other, so the myth-of-origins story dissolves on linguistic inspection.",
+      "why": "Ratzinger confesses that, quite apart from faith and simply from his acquaintance with history, he finds it easier to believe God became man than that such a conglomeration of hypotheses is the truth.",
+      "quote": "I find it preferable and easier to believe that God became man than that such a conglomeration of hypotheses represents the truth.",
+      "quotePage": 151,
+      "cloze": [
+        {"pre": "This historical Jesus is to be visualized as ", "blank": "a sort of prophetic teacher", "post": " who appeared on the scene in the eschato-logically overheated atmosphere of the late Judaism of his time and preached, in accordance with this eschatologically pregnant situation, the proximity of the Kingdom of God."},
+        {"pre": "For reasons that can no longer be properly established, Jesus was condemned to death and ", "blank": "died a failure", "post": "."},
+        {"pre": "The faith of the early Church then ", "blank": "advanced along these mythical lines", "post": " up to the final ratification of the whole in the dogma of Chalcedon, with its concept of the ontological Divine Sonship of Jesus."}
+      ],
+      "recall": "Summarize the modern stock idea of how the historical Jesus became the Christ of dogma, and give Ratzinger's chief objection to it.",
+      "tags": ["history and modernity", "logos vs myth"]
+    },
+    {
+      "id": "p2a-8",
+      "order": 8,
+      "section": "Part Two I.C.3",
+      "title": "The claim of christological dogma",
+      "pages": [152, 160],
+      "idea": "\"Son of God\" comes from Israel's demythologized king theology, fulfilled in the crucified servant; \"the Son\" from Jesus' Abba prayer — so Chalcedon expresses being as service, not myth.",
+      "before": "Is christological dogma simply Greek mythology — a 'divine man' imported from Hellenism and hardened into orthodoxy at Chalcedon?",
+      "after": "No: the 'divine man' appears nowhere in the New Testament. 'Son of God' descends from Israel's king theology of election and hope, fulfilled in the crucified servant; 'the Son' springs from Jesus' Abba prayer.",
+      "why": "Chalcedon's 'ontology' is more radically actualist than modern actualism: Jesus is his work — being that is pure service coincides with God and becomes the true man, the man of the future.",
+      "quote": "The king is son, not because he has been begotten by God, but because he has been chosen by God.",
+      "quotePage": 153,
+      "cloze": [
+        {"pre": "The concept of the divine man or God-man (θειος ἀνήϱ) ", "blank": "occurs nowhere in the New Testament", "post": "."},
+        {"pre": "It means that people know that ", "blank": "Israel’s royal hope is fulfilled in him who died on the Cross", "post": " and, to the eye of faith, rose again from the dead."},
+        {"pre": "These dogmas were intended to express nothing else than ", "blank": "this identity of service and being", "post": ", in which the whole content of the prayer relationship “Abba—Son” comes to light."}
+      ],
+      "recall": "Trace how the Old Testament title 'Son of God' was transformed — from begetting to election to hope — and where the first Christians saw it fulfilled.",
+      "tags": ["Creed and dogma", "logos vs myth"]
+    },
+    {
+      "id": "p2a-9",
+      "order": 9,
+      "section": "Part Two I.D.1",
+      "title": "Theology of the Incarnation and theology of the Cross",
+      "pages": [161, 162],
+      "idea": "Incarnation theology speaks of being, Cross theology of event; the polarities cannot be synthesized away, yet each fully thought out passes over into the other.",
+      "before": "Must Christians choose between a Greek theology of the Incarnation and a Reformation theology of the Cross — being or event?",
+      "after": "No neat synthesis is possible, but the polarities secretly converge: Christ's being is pure act, exodus from self, and the Cross's doing reaches down into being — each passes over into the other.",
+      "why": "The two forms must remain polarities that mutually correct each other; their hidden unity is that Christ's being is actualitas — being sent, serving — which is why Incarnation and Cross meet.",
+      "quote": "they must remain present as polarities that mutually correct each other and only by complementing each other point toward the whole",
+      "quotePage": 162,
+      "cloze": [
+        {"pre": "The former talks of “being” and centers around the fact that ", "blank": "here a man is God and that, accordingly, at the same time God is man", "post": "; this astounding fact is seen as the all-decisive one."},
+        {"pre": "The theology of the Cross, on the other hand, will have nothing to do with ontology of this kind; it speaks instead of the event; it follows the testimony of the early days, when people inquired, not yet about being, but about ", "blank": "the activity of God in the Cross and Resurrection", "post": ", an activity that conquered death and pointed to Jesus as the Lord and as the hope of humanity."},
+        {"pre": "So at this point a properly understood Christology of being and of the Incarnation ", "blank": "must pass over into the theology of the Cross and become one with it", "post": "; conversely, a theology of the Cross that gives its full measure must pass over into the Christology of the Son and of being."}
+      ],
+      "recall": "How does Ratzinger distinguish Incarnation theology from Cross theology, and why does he refuse to merge them into a single synthesis?",
+      "tags": ["Incarnation", "Cross"]
+    },
+    {
+      "id": "p2a-10",
+      "order": 10,
+      "section": "Part Two I.D.2",
+      "title": "Christology and the doctrine of redemption",
+      "pages": [162, 165],
+      "idea": "Christology (who Jesus is) and soteriology (what he does) only make sense together; Anselm's satisfaction theory, split from person, distorts the image of God.",
+      "before": "Did Christ have to die to pay an infinite debt to God's offended honor — and is that the God we can believe in?",
+      "after": "Anselm's satisfaction theory grasps the biblical 'for' and the call to live for others, yet its rigid legal logic distorts perspectives and can make the image of God appear in a sinister light.",
+      "why": "Redemption goes wrong when person and work are split; restored to unity, it is not a legal feat but being human — Christ as 'last Adam' taking humanity into God's future.",
+      "quote": "with him it is not a question—to use Gabriel Marcel’s terminology—of having humanity, but of being human",
+      "quotePage": 164,
+      "cloze": [
+        {"pre": "That the two questions parted company, that the person and his work were made the subjects of separate inquiries and treatises, ", "blank": "led to both problems becoming incomprehensible and insoluble", "post": "."},
+        {"pre": "It is based on ", "blank": "the so-called “satisfaction theory”", "post": ", which was developed by St. Anselm of Canterbury on the threshold of the Middle Ages and molded the Western consciousness more and more exclusively."},
+        {"pre": "But even if all this is admitted, it cannot be denied, on the other hand, that the perfectly logical divine-cum-human legal system erected by Anselm ", "blank": "distorts the perspectives", "post": " and with its rigid logic can make the image of God appear in a sinister light."}
+      ],
+      "recall": "What does Ratzinger find right and what does he find distorted in Anselm's satisfaction theory?",
+      "tags": ["Cross", "Incarnation"]
+    },
+    {
+      "id": "p2a-11",
+      "order": 11,
+      "section": "Part Two I.D.3",
+      "title": "Christ, the last man",
+      "pages": [165, 171],
+      "idea": "Christ is the exemplary man: by being wholly for others and open to God he gathers humanity into one, the man of its future — whose emblem is the Cross.",
+      "before": "What would the truly human human being look like — and could his existence matter for everyone, not just for himself?",
+      "after": "Christ is the 'last Adam': the man who has wholly moved out beyond himself into God, and so gathers humanity into one body. His open, pierced existence on the Cross is man's future.",
+      "why": "Man is most fully man when unlimited, one with the Infinite; and because Christ is 'Adam', his existence must draw all men in — so the future of man lies in 'being for', and its emblem is the Cross.",
+      "quote": "The future of man hangs on the Cross—the redemption of man is the Cross.",
+      "quotePage": 170,
+      "cloze": [
+        {"pre": "He only comes to himself by ", "blank": "moving away from himself", "post": "."},
+        {"pre": "Man’s full “hominization” ", "blank": "presupposes God’s becoming man", "post": "; only by this event is the Rubicon dividing the “animal” from the “logical” finally crossed for ever and the highest possible development accorded to the process that began when a creature of dust and earth looked out beyond itself and its environment and was able to address God as “You”."},
+        {"pre": "For—let me repeat—that man is most fully man, indeed ", "blank": "the true man, who is most unlimited", "post": ", who not only has contact with the infinite—the Infinite Being!—but is one with him: Jesus Christ."}
+      ],
+      "recall": "Explain what Ratzinger means by calling Christ 'the last man' and what follows from it for every person.",
+      "tags": ["eschatology", "Cross", "being a Christian today"]
+    }
+  ]
+}

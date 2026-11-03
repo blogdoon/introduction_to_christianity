@@ -1,0 +1,139 @@
+{
+  "words": [
+    {
+      "word": "I believe",
+      "article": 0,
+      "means": "Believing is entrusting the whole self to a personal ground that knows and loves me, standing on it, not merely accepting claims.",
+      "excludes": "Faith as opinion without evidence, assent to doctrines one does not live, or a program for making the world better.",
+      "quote": "in the last analysis believing, trusting, and loving are one",
+      "page": 57,
+      "cards": ["intro-6", "intro-8", "p3-5"]
+    },
+    {
+      "word": "the Father almighty",
+      "article": 0,
+      "means": "God is at once intimate Father and Pantokrator: family love and cosmic power held together; his might is revealed as crib and Cross.",
+      "excludes": "Almighty as arbitrary force crushing resistance, or Father as a distant first cause who cannot be addressed or loved.",
+      "quote": "calling God simultaneously “Father” and “Almighty”, the Creed has joined together a family concept and the concept of cosmic power",
+      "page": 104,
+      "cards": ["p1-10", "p1-12"]
+    },
+    {
+      "word": "creator of heaven and earth",
+      "article": 0,
+      "means": "Creation is thought and freedom: God gives what he thinks its own independent being, so reality rests on meaning and love, not blind necessity.",
+      "excludes": "God as craftsman shaping stubborn matter, the world as emanation or illusion, or a monistic ground that knows no freedom.",
+      "quote": "the model from which creation must be understood is not the craftsman but the creative mind",
+      "page": 110,
+      "cards": ["p1-9", "p1-11"]
+    },
+    {
+      "word": "his only Son",
+      "article": 1,
+      "means": "Sonship is ontological, not biological: Jesus is from God in his very being, the eternal Word whose life is the Abba dialogue.",
+      "excludes": "A good man adopted by God, or a physically begotten demigod of pagan myth; the virgin birth grounds no divinity.",
+      "quote": "the Divine Sonship of which faith speaks is not a biological but an ontological fact",
+      "page": 193,
+      "cards": ["p2a-8", "p2b-2"]
+    },
+    {
+      "word": "our Lord",
+      "article": 1,
+      "means": "Jesus is Lord precisely as servant-king: his rule is being-for-others to the Cross, a love that commands by giving itself.",
+      "excludes": "Lordship as domination, triumph, or the god-emperor's claim to absolute power over subjects.",
+      "quote": "As king he is a servant, and as the servant of God he is king.",
+      "page": 155,
+      "cards": ["p2a-8", "p2a-11"]
+    },
+    {
+      "word": "conceived by the power of the Holy Spirit, born of the Virgin Mary",
+      "article": 2,
+      "means": "His origin is new creation by the Spirit, not divine begetting: a sign of grace, of new birth given by God alone.",
+      "excludes": "God as biological father of a demigod, the pagan myth of the god-begotten hero, or Mary as a second Christology.",
+      "quote": "the conception of Jesus is new creation, not begetting by God",
+      "page": 193,
+      "cards": ["p2b-2"]
+    },
+    {
+      "word": "suffered under Pontius Pilate",
+      "article": 3,
+      "means": "Faith is anchored in a datable event under a named governor: God saves in real history, not in timeless myths.",
+      "excludes": "Christianity as timeless truths or archetypal myths easily detached from the awkward particularity of one man's execution.",
+      "quote": "it simply accepts the fact that to save us God became man",
+      "page": 59,
+      "cards": ["p2b-3", "p2b-8"]
+    },
+    {
+      "word": "descended into hell",
+      "article": 4,
+      "means": "Christ entered sheol, the dead's limbo of final loneliness and godforsakenness, so no depth of dying is beyond his reach.",
+      "excludes": "A mythological underworld of the damned beneath the cosmos, or an embarrassing legend that demythologization should quietly delete.",
+      "quote": "the word “hell” is only a wrong translation of sheol (in Greek, Hades)",
+      "page": 209,
+      "cards": ["p2b-4"]
+    },
+    {
+      "word": "rose again",
+      "article": 5,
+      "means": "God answered Jesus' self-giving love by holding him in life: love proved stronger than death, creating a new mode of life.",
+      "excludes": "Resuscitation to ordinary mortal life, the soul's natural survival, or a symbol of nature's returning spring.",
+      "quote": "It is the greater strength of love in face of death.",
+      "page": 212,
+      "cards": ["p2b-5"]
+    },
+    {
+      "word": "ascended",
+      "article": 6,
+      "means": "Christ's humanity is taken into God's very being: heaven is communion with God, the upper reach of existence, not a place.",
+      "excludes": "A bodily flight upward into a three-story cosmos, as though God dwelt physically above the clouds.",
+      "quote": "so that human existence can find its geometrical place, so to speak, inside God’s own being",
+      "page": 220,
+      "cards": ["p2b-6"]
+    },
+    {
+      "word": "judge the living and the dead",
+      "article": 7,
+      "means": "The judge is our crucified brother, whose test is love: whether we found him in the least of men.",
+      "excludes": "A terrifying day of reckoning before a strange, distant God before whom the Christian can only tremble.",
+      "quote": "the discovery of Christ in the least of men, in those who need my help",
+      "page": 147,
+      "cards": ["p2a-5", "p2b-7"]
+    },
+    {
+      "word": "the Holy Spirit",
+      "article": 8,
+      "means": "God's gift to history: the risen Lord's living presence, gathering believers into a new world, the Church's breath, not private fervor.",
+      "excludes": "The Spirit as only the third Person of abstruse speculation, or as vague feeling, interiority, and edification.",
+      "quote": "the power through which the risen Lord remains present in the history of the world",
+      "page": 235,
+      "cards": ["p3-1", "p3-4"]
+    },
+    {
+      "word": "the holy catholic Church",
+      "article": 9,
+      "means": "Catholic is wholeness: local churches stay Church only in visible unity, one in Word and Eucharist; holy is God's power sanctifying through sinful members.",
+      "excludes": "A spotless club of saints, or 'catholic' as one denomination's brand of bureaucratic uniformity over rival bodies.",
+      "quote": "they can only remain the Church by being open to one another",
+      "page": 244,
+      "cards": ["p3-2"]
+    },
+    {
+      "word": "the communion of saints, the forgiveness of sins",
+      "article": 10,
+      "means": "Both are the Spirit's sacramental work: communion is the eucharistic bond of one table reaching beyond death; forgiveness is baptism and penance.",
+      "excludes": "Communion as a club of the holy dead, forgiveness as cheap reassurance without conversion and sacramental rebirth.",
+      "quote": "the word sanctorum (of the holy ones) does not refer to persons but means the holy gifts",
+      "page": 236,
+      "cards": ["p3-1", "p3-4"]
+    },
+    {
+      "word": "the resurrection of the body, life everlasting",
+      "article": 11,
+      "means": "Not the soul's escape from the body but God awakening the whole person into the dialogue of love that outlasts death.",
+      "excludes": "The Greek promise: an immortal soul naturally outliving the body it is glad to shed.",
+      "quote": "not really as a supplement to a preceding and independent immortality of the soul",
+      "page": 246,
+      "cards": ["p3-3"]
+    }
+  ]
+}

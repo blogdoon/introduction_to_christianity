@@ -1,0 +1,167 @@
+{
+  "part": "three",
+  "partTitle": "Part Three: The Spirit and the Church",
+  "creedLine": "I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.",
+  "cards": [
+    {
+      "id": "p3-1",
+      "order": 1,
+      "section": "Part Three I",
+      "title": "The intrinsic unity of the last statements in the Creed",
+      "pages": [234, 238],
+      "idea": "The Creed\u2019s last articles \u2014 Church, communion, forgiveness, resurrection \u2014 develop one profession: \u201cI believe in Holy Spirit\u201d: God\u2019s saving power in history, where salvation history and the Trinity interlock.",
+      "before": "Are the Creed\u2019s last articles just a list tacked on after the Christ section, or one single movement? What holds them together?",
+      "after": "They are one movement: Church, communion of saints, forgiveness of sins, and resurrection all unfold the single profession \u201cI believe in Holy Spirit.\u201d Each names how the Spirit works in history \u2014 through baptism, Eucharist, and the final transformation of the world.",
+      "why": "Ratzinger recovers a lost unity: salvation history and the Trinity once interlocked, so the Spirit article speaks of \u201cGod facing outward\u201d \u2014 the risen Lord\u2019s power present in history \u2014 not merely a third Person in the Godhead.",
+      "quote": "nothing more than developments of its basic profession, \u201cI believe in Holy Spirit.\u201d",
+      "quotePage": 236,
+      "cloze": [
+        {
+          "pre": "In other words, the third section of the Creed refers in the first place, not to the Holy Spirit as the third Person in the Godhead, but to the Holy Spirit as ",
+          "blank": "God\u2019s gift to history",
+          "post": " in the community of those who believe in Christ."
+        },
+        {
+          "pre": "Both statements are to be understood as ",
+          "blank": "concretizations of the words about the Holy Spirit",
+          "post": ", as descriptions of the way in which this Spirit works in history."
+        },
+        {
+          "pre": "The concluding words of the Creed, too, the profession of faith in the \u201cresurrection of the body\u201d and \u201clife everlasting\u201d, are to be understood as ",
+          "blank": "the unfolding of faith in the Holy Spirit",
+          "post": " and his transforming power, whose final effect they depict."
+        }
+      ],
+      "recall": "In your own words, why do the Creed\u2019s last articles \u2014 Church, forgiveness, resurrection \u2014 count as developments of one statement about the Holy Spirit rather than four separate beliefs?",
+      "tags": ["Creed and dogma", "Trinity", "Church"]
+    },
+    {
+      "id": "p3-2",
+      "order": 2,
+      "section": "Part Three II.1",
+      "title": "The holy, catholic Church",
+      "pages": [239, 245],
+      "idea": "The Church is holy through God\u2019s power working in sinful members, not their virtue; catholicity is wholeness \u2014 visibly one local and universal church around one Word and one table.",
+      "before": "If the Church is full of scandal and split into rival bodies each claiming to be right, how can anyone honestly say \u201cI believe in the holy, catholic Church\u201d?",
+      "after": "\u201cHoly\u201d names God\u2019s sanctifying power at work in spite of human sinfulness \u2014 the Church is \u201cthe shape taken by grace in this world\u201d; \u201ccatholic\u201d names her visible unity: one faith, one bread, open to everyone everywhere.",
+      "why": "Ratzinger turns the objection into the answer: true holiness is \u201cnot separation, but union; not judgment, but redeeming love\u201d \u2014 God mixing with the dirt of the world to overcome it, which comforts rather than condemns, since all of us are borne up by Christ.",
+      "quote": "precisely in her paradoxical combination of holiness and unholiness the Church is in fact the shape taken by grace in this world",
+      "quotePage": 241,
+      "cloze": [
+        {
+          "pre": "The holiness of the Church consists in that ",
+          "blank": "power of sanctification",
+          "post": " which God exerts in her in spite of human sinfulness."
+        },
+        {
+          "pre": "He has drawn sin to himself, made it his lot, and so revealed what true \u201choliness\u201d is: not separation, but union; not judgment, but ",
+          "blank": "redeeming love",
+          "post": "."
+        },
+        {
+          "pre": "This unity is first and foremost the unity of Word and sacrament: the Church is one through ",
+          "blank": "the one Word and the one bread",
+          "post": "."
+        }
+      ],
+      "recall": "Explain in your own words why Ratzinger thinks the Church\u2019s sinfulness confirms rather than disproves her holiness \u2014 and what \u201ccatholic\u201d demands of local churches today.",
+      "tags": ["Church", "Creed and dogma", "being a Christian today"]
+    },
+    {
+      "id": "p3-3",
+      "order": 3,
+      "section": "Part Three II.2",
+      "title": "The resurrection of the body",
+      "pages": [245, 254],
+      "idea": "Resurrection affirms the whole person and the material world against mere survival of the soul: we live on not by our own power but because God knows and loves us.",
+      "before": "Is \u201cthe resurrection of the body\u201d an embarrassing myth for the modern mind, or does it say something about the material world that \u201cimmortality of the soul\u201d cannot?",
+      "after": "It is the Bible\u2019s total answer: the one, undivided, embodied person lives on \u2014 awakened by God\u2019s love, in fellowship with all \u2014 and matter itself has a future, shown in the risen Lord. It is neither the soul\u2019s automatic survival nor the return of physical bodies.",
+      "why": "Ratzinger takes on both sides at once: against Greek dualism he insists it is the whole man, not a separated soul, that rises; against naive materialism he reads Paul \u2014 \u201cthe resurrection of persons\u201d, not of physical bodies, in a transformed form.",
+      "quote": "they, they themselves, live on; not by virtue of their own power, but because they are known and loved by God",
+      "quotePage": 250,
+      "cloze": [
+        {
+          "pre": "First of all, the hope for the resurrection of the dead simply represents the basic form of the biblical hope for immortality; it appears in the New Testament not really as a supplement to a preceding and independent immortality of the soul but as ",
+          "blank": "the fundamental statement on the fate of man",
+          "post": "."
+        },
+        {
+          "pre": "Immortality as conceived by the Bible proceeds, not from the intrinsic power of what is in itself indestructible, but ",
+          "blank": "from being drawn into the dialogue with the Creator",
+          "post": "; that is why it must be called awakening."
+        },
+        {
+          "pre": "One thing at any rate may be fairly clear: both John (6:63) and Paul (1 Cor 15:50) state with all possible emphasis that the \u201cresurrection of the flesh\u201d, the \u201cresurrection of the body\u201d, is ",
+          "blank": "not a \u201cresurrection of physical bodies\u201d",
+          "post": "."
+        }
+      ],
+      "recall": "In your own words, explain the difference between the Greek idea of immortality and the biblical idea of resurrection \u2014 and why Ratzinger says the risen body is not a physical body.",
+      "tags": ["resurrection", "eschatology", "Creed and dogma"]
+    },
+    {
+      "id": "p3-4",
+      "order": 4,
+      "section": "Part Three",
+      "title": "Belief in the Holy Spirit",
+      "pages": [232, 254],
+      "idea": "The Spirit is the risen Christ\u2019s living presence in history, love stronger than death, who makes faith personal and gathers believers into the Church, transforming the world toward resurrection.",
+      "before": "Is the Holy Spirit just a pious atmosphere the Church invokes, or someone whose arrival actually changes the shape of faith and the shape of the Church?",
+      "after": "The Spirit is God\u2019s power in history, through whom the risen Lord stays present; faith in the Spirit and faith in the Church belong together from the start. He makes the gift personal \u2014 forgiveness creating fellowship \u2014 and ecclesial: one bread, one body.",
+      "why": "Ratzinger warns that when teaching about the Spirit and teaching about the Church split apart, both suffer: the Church becomes a worldly institution and the Spirit \u201chomeless\u201d. Held together, the Creed\u2019s last articles all follow, and the Spirit turns out to be love that overleaps death.",
+      "quote": "the Holy Spirit as the power through which the risen Lord remains present in the history of the world",
+      "quotePage": 235,
+      "cloze": [
+        {
+          "pre": "To summarize all this, we can now say that in our Creed the Church is understood ",
+          "blank": "in terms of the Holy Spirit",
+          "post": ", as the center of the Spirit\u2019s activity in the world."
+        },
+        {
+          "pre": "With this event, as we have seen, the frontier of bios, in other words, death, was crossed and a new continuum was opened up: the biological has been overtaken by the spirit, ",
+          "blank": "by love, which is stronger than death",
+          "post": "."
+        },
+        {
+          "pre": "Thus the \u201cobjective\u201d view (from the angle of the gift of God) ",
+          "blank": "brings the personal element into play of its own accord",
+          "post": ": the new being of forgiveness leads us into fellowship with those who live from forgiveness; forgiveness establishes communion; and communion with the Lord in the Eucharist leads necessarily to the communion of the converted, who all eat one and the same bread, to become in it \u201cone body\u201d (1 Cor 10:17) and, indeed, \u201cone single new man\u201d (cf. Eph 2:15)."
+        }
+      ],
+      "recall": "In your own words, how does the Holy Spirit make faith both personal and ecclesial \u2014 and why can the Church not be understood apart from him?",
+      "tags": ["Trinity", "Church", "subjective faith"]
+    },
+    {
+      "id": "p3-5",
+      "order": 5,
+      "section": "Conclusion",
+      "title": "What it means to say \u201cI believe\u201d today",
+      "pages": [49, 57],
+      "idea": "To believe is to take a trusting stand on ground I did not make: the Creed\u2019s \u201cI believe\u201d becomes \u201cI believe in you\u201d \u2014 believing, trusting, and loving become one.",
+      "before": "After 250 pages of argument, what is actually left of \u201cI believe\u201d \u2014 a list of opinions I defend, or something else entirely?",
+      "after": "Faith is stand-understand, not know-make: entrusting myself to a meaning I did not make and cannot prove, because it upholds me. The whole Creed culminates in a personal act \u2014 \u201cI believe in you\u201d \u2014 where believing, trusting, and loving fuse into one.",
+      "why": "Ratzinger\u2019s final twist: faith is not a deficit of knowledge but the human way of standing in reality. Its core is not \u201cI believe in something\u201d but trust in a You; the whole book, he says, circles one question \u2014 \u201cAre you really he?\u201d",
+      "quote": "its central formula is not \u201cI believe in something\u201d, but \u201cI believe in you.\u201d",
+      "quotePage": 56,
+      "cloze": [
+        {
+          "pre": "Faith is thereby defined as taking up a position, as ",
+          "blank": "taking a stand trustfully",
+          "post": " on the ground of the word of God."
+        },
+        {
+          "pre": "Meaning, that is, the ground on which our existence as a totality can stand and live, ",
+          "blank": "cannot be made but only received",
+          "post": "."
+        },
+        {
+          "pre": "Thus in the last analysis ",
+          "blank": "believing, trusting, and loving",
+          "post": " are one, and all the theses around which belief revolves are only concrete expressions of the all-embracing about-turn, of the assertion \u201cI believe in you\u201d\u2014of the discovery of God in the countenance of the man Jesus of Nazareth."
+        }
+      ],
+      "recall": "In your own words, explain why Ratzinger says faith is \u201cstanding firm\u201d rather than knowing \u2014 and what changes when \u201cI believe\u201d becomes \u201cI believe in you\u201d.",
+      "tags": ["subjective faith", "being a Christian today", "faith and reason"]
+    }
+  ]
+}

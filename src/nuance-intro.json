@@ -1,0 +1,232 @@
+{
+  "cards": [
+    {
+      "id": "intro-1",
+      "misreading": {
+        "wrong": "Christianity fell silent after 1989 because secular hostility silenced it: the problem is the modern world's refusal to listen to the Church's message.",
+        "right": "Ratzinger blames believers: having privatized God and lived etsi Deus non daretur, faith arrived in public with a God who had nothing to do.",
+        "quote": "God had nothing to do.",
+        "page": 14
+      },
+      "argument": {
+        "tension": "After 1989 the world hungered for an alternative, yet Christianity, long privatized, could not speak into the public arena.",
+        "move": "He indicts not secularism but believers' practical atheism, then asks what faith must bring with it out of the ghetto.",
+        "payoff": "Faith re-enters public life carrying its distinctive feature: God as judge, limit, standard, origin and goal of history."
+      },
+      "rubric": [
+        "Blames believers' privatized God, not secularism",
+        "Names etsi Deus non daretur as the drift",
+        "Public faith brings God as judge and goal"
+      ]
+    },
+    {
+      "id": "intro-2",
+      "misreading": {
+        "wrong": "Faith and unbelief are opposites: the believer is secure, the unbeliever has settled the question and lives at peace without God.",
+        "right": "Both live in doubt: the believer is threatened by unbelief, the unbeliever by the “perhaps” that belief may after all be true.",
+        "quote": "It is not until belief is rejected that its unrejectability becomes evident.",
+        "page": 33
+      },
+      "argument": {
+        "tension": "The believer faces the plunge into nothingness; the unbeliever faces the possibility that belief may still be the truth.",
+        "move": "He rejects the clown analogy: both sides share doubt and belief, so doubt becomes their avenue of communication.",
+        "payoff": "Neither side can close itself off; the terrible “perhaps” keeps both honest and open to each other."
+      },
+      "rubric": [
+        "Doubt threatens both believer and unbeliever",
+        "The “perhaps it is true” cannot be escaped",
+        "Doubt enables communication between both sides"
+      ]
+    },
+    {
+      "id": "intro-3",
+      "misreading": {
+        "wrong": "Believing means accepting unproven claims about the invisible, a private leap of feeling that reason cannot touch and need not justify.",
+        "right": "Credo is a fundamental mode of behavior toward reality: conversion to the conviction that the unseen is the truly real sustaining everything.",
+        "quote": "Belief has always had something of an adventurous break or leap about it",
+        "page": 38
+      },
+      "argument": {
+        "tension": "Man's eyes grasp only the visible, yet his existence cannot live on the visible alone; God never enters that field.",
+        "move": "He defines credo as conversion: a second access to reality that judges the visible by the unseen true reality.",
+        "payoff": "Faith becomes a daily about-turn, undemonstrable yet reasonable: a basic decision no human can avoid making."
+      },
+      "rubric": [
+        "Credo is conversion, not inference",
+        "The unseen is the truly real",
+        "Undemonstrable because only the turned receive it"
+      ]
+    },
+    {
+      "id": "intro-4",
+      "misreading": {
+        "wrong": "The obstacle to belief is outdated language: modernize the Gospel's wrapping and the message becomes credible again for today.",
+        "right": "The real scandal is God's self-commitment to history: the eternal became one man we can kill, and no reinterpretation may dissolve this offense.",
+        "quote": "God has come so near to us that we can kill him",
+        "page": 40
+      },
+      "argument": {
+        "tension": "Belief seems mere loyalty to yesterday, yet beneath that lies Christianity's positivism: God committed to one figure, one hour.",
+        "move": "He exposes the deeper offense behind the old-fashionedness, then calls inoffensive reinterpretations dishonest before the non-Christian's “perhaps not”.",
+        "payoff": "Honesty is restored: the Gospel may offend, but it stands on reality instead of dissolving into viable propositions."
+      },
+      "rubric": [
+        "Distinguishes secondary then-now scandal from positivism",
+        "Revelation makes God touchable and killable",
+        "Inoffensive interpretation betrays honesty"
+      ]
+    },
+    {
+      "id": "intro-5",
+      "misreading": {
+        "wrong": "Because truth is what we make, theology should present faith as history or as world-changing praxis to remain rational and relevant.",
+        "right": "Vico's factum and Marx's faciendum reduce truth to the made and makable; belief lives on neither plane but in stand-understand.",
+        "quote": "all that we can truly know is what we have made ourselves",
+        "page": 43
+      },
+      "argument": {
+        "tension": "The modern mind admits as real only the made and the makable, while faith concerns what was never made by us.",
+        "move": "He traces truth's reduction from being to factum to faciendum, then finds belief's place not in know-make but stand-understand.",
+        "payoff": "Faith escapes both rescue attempts: it is entrusting oneself to meaning that no making could produce."
+      },
+      "rubric": [
+        "Explains verum quia factum then faciendum",
+        "Belief is not know-make but stand-understand",
+        "Faith entrusts to meaning not made"
+      ]
+    },
+    {
+      "id": "intro-6",
+      "misreading": {
+        "wrong": "Faith is the opposite of reason: it believes where proof ends, so understanding must wait until knowledge catches up.",
+        "right": "Faith is standing firm on received ground; understanding grows from that standing, so believing and understanding are inseparable, not rivals.",
+        "quote": "Meaning that is self-made is in the last analysis no meaning.",
+        "page": 52
+      },
+      "argument": {
+        "tension": "Practical knowledge can make everything except meaning, yet man cannot live without meaning; making cannot ground itself.",
+        "move": "From Isaiah's 'mn root he draws faith as entrusting oneself, taking a stand; only from standing does understanding grow.",
+        "payoff": "Becomes clear that meaning is received not made; entrusting oneself to the unmade ground enables all human making."
+      },
+      "rubric": [
+        "Faith is taking a stand on received ground",
+        "Meaning is received, never self-manufactured",
+        "Believing and understanding are inseparable"
+      ]
+    },
+    {
+      "id": "intro-7",
+      "misreading": {
+        "wrong": "The “Amen” of faith is a blind leap beyond reason: mystery excuses contradictions, and faith thrives where argument fails.",
+        "right": "Amen is a movement toward logos and truth; it is practical knowledge that renounces truth, and mystery serves understanding, never failed reason.",
+        "quote": "Truth is the only ground suitable for man to stand upon.",
+        "page": 54
+      },
+      "argument": {
+        "tension": "Calculating knowledge succeeds by asking only what functions; faith insists on what things are in truth and meaning.",
+        "move": "He reverses the cliché: faith seeks logos and truth, while practical knowledge renounces truth; mystery grounds understanding instead of excusing failure.",
+        "payoff": "Meaning, ground and truth stay indivisible; theology becomes a rational task and faith escapes fideism."
+      },
+      "rubric": [
+        "Amen is movement toward logos, not surrender",
+        "Calculating knowledge renounces truth itself",
+        "Mystery grounds understanding, never excuses absurdity"
+      ]
+    },
+    {
+      "id": "intro-8",
+      "misreading": {
+        "wrong": "Believing in you is private sentiment: personal trust in Jesus replaces argument, so faith needs no reflection once the heart is moved.",
+        "right": "Christian faith's center is a “you”: in Jesus the world's meaning is a person who loves me, and love keeps asking “Are you really he?”",
+        "quote": "its central formula is not “I believe in something”, but “I believe in you.”",
+        "page": 56
+      },
+      "argument": {
+        "tension": "Faith in a spiritual ground of the world remains “something”; Christian faith finds the world's meaning as a person addressing me.",
+        "move": "He passes from the logos that upholds all things to the encounter with Jesus, where meaning becomes love that loves me.",
+        "payoff": "Believing, trusting, loving unite; every thesis of the Creed expresses this one about-turn, yet love keeps the question alive."
+      },
+      "rubric": [
+        "Faith's object is a “you”, not something",
+        "In Jesus meaning is present as love",
+        "Love itself demands asking “Are you he?”"
+      ]
+    },
+    {
+      "id": "intro-9",
+      "misreading": {
+        "wrong": "The twelve apostles each contributed an article to the Creed, so its authority rests on their personal authorship.",
+        "right": "The Creed grew from Rome's three-question baptismal dialogue; the apostolic-authorship story is a later legend, yet it faithfully echoes the ancient Church's faith.",
+        "quote": "the oldest form of the confession of faith takes the shape of a tripartite dialogue",
+        "page": 58
+      },
+      "argument": {
+        "tension": "The text bears all the marks of history — legend, regional rivalry, imperial politics — yet carries the ancient Church's faith.",
+        "move": "He narrates the Creed's real growth from baptism, then shows West's salvation-history and East's cosmic emphasis as complementary accents.",
+        "payoff": "Historical messiness becomes no obstacle: at decisive points the Creed is an accurate echo of the New Testament message."
+      },
+      "rubric": [
+        "Creed arose from baptismal question and answer",
+        "Apostolic article-authorship is later legend",
+        "East-West differences are emphasis, not contradiction"
+      ]
+    },
+    {
+      "id": "intro-10",
+      "misreading": {
+        "wrong": "The Creed's entanglement with politics and division is an embarrassment to be explained away before its teaching can be trusted.",
+        "right": "The muddle is instruction: faith's great leap happens on the petty human scale, so faith must involve forgiving and needing forgiveness.",
+        "quote": "faith has to do, and must have to do, with forgiving",
+        "page": 61
+      },
+      "argument": {
+        "tension": "The Creed unites all believers, yet its history shows division, regional interests and imperial manipulation woven into its very text.",
+        "move": "Instead of excusing the tangle he reads it: the leap occurs amid all-too-human circumstances, exposing man as a divided being.",
+        "payoff": "Believing is shown as inseparable from forgiving; man finds himself only in receiving and transmitting forgiveness."
+      },
+      "rubric": [
+        "Faith's leap occurs on the petty scale",
+        "The muddle reveals man's divided greatness",
+        "Faith necessarily entails forgiving"
+      ]
+    },
+    {
+      "id": "intro-11",
+      "misreading": {
+        "wrong": "Dogma is a fixed list of doctrines to be recited and obeyed; its authority lies in the precision of its propositions.",
+        "right": "Dogma serves the conversion enacted in baptism: “I believe” means “I hand myself over to” — the whole person's turn to the invisible.",
+        "quote": "The phrase “I believe” could here be literally translated by “I hand myself over to”, “I assent to”.",
+        "page": 62
+      },
+      "argument": {
+        "tension": "Dogma looks like recited doctrine, yet its birthplace is baptism's renunciation-and-assent, a shift of the whole being.",
+        "move": "He returns to the original dialogue form — question, renunciation, assent — showing councils sought right doctrine as right conversion.",
+        "payoff": "Dogma is relocated as the form of a conversion — about-turn of existence — not a fossilized catalogue of theories."
+      },
+      "rubric": [
+        "Faith is conversion, renunciation and assent",
+        "“I believe” means “I hand myself over”",
+        "Dogma serves the about-turn, not recitation"
+      ]
+    },
+    {
+      "id": "intro-12",
+      "misreading": {
+        "wrong": "The Creed is the Church's substitute for personal faith: real believing is one's own private search for truth.",
+        "right": "Faith comes from hearing, not private reflection; as symbolon each believer holds only a broken half, completed only with others.",
+        "quote": "Christian belief is not an idea but life",
+        "page": 70
+      },
+      "argument": {
+        "tension": "Philosophy thinks alone and then speaks; faith is spoken to from outside and must answer within a “We”.",
+        "move": "He unfolds “symbolon”: each holds a broken half, so word, common confession and Church belong to faith's own nature.",
+        "payoff": "Community and creed are not additions: Christianity is truth as a way, mind incarnate in the body of history."
+      },
+      "rubric": [
+        "Faith comes from hearing, not private thought",
+        "Symbolon: each believer holds only half",
+        "Church and confession belong to faith itself"
+      ]
+    }
+  ]
+}

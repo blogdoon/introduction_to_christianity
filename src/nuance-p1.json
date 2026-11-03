@@ -1,0 +1,270 @@
+{
+  "cards": [
+    {
+      "id": "p1-1",
+      "misreading": {
+        "wrong": "Ratzinger's \"deeper unity\" means monotheism, polytheism, and atheism are finally equivalent — dig deep enough and everything becomes one.",
+        "right": "All three confess the unity of the absolute, but they differ decisively over how man deals with it; decisions remain serious.",
+        "quote": "a unity that of course cannot be synonymous with identity",
+        "page": 76
+      },
+      "argument": {
+        "tension": "Three rival formulas — one God, many gods, no God — yet all three affirm the absolute's unity.",
+        "move": "Grant the shared conviction, deny identity, and relocate the difference: how man must deal with the absolute, or it with him.",
+        "payoff": "Atheism becomes a form of the God-question, yet no difference is flattened; both poverty and fullness still point Godward."
+      },
+      "rubric": [
+        "Unity of the absolute shared by all three",
+        "Difference lies in dealing with it",
+        "Poverty and fullness both point to God"
+      ]
+    },
+    {
+      "id": "p1-2",
+      "misreading": {
+        "wrong": "Saying \"one God\" is just arithmetic: monotheism means accepting that the gods number one, a single opinion among others.",
+        "right": "It is an existential renunciation of deified bread, love, and power — a declaration of war on every absolutized political claim.",
+        "quote": "it is not the registration of one view alongside others but an existential decision",
+        "page": 78
+      },
+      "argument": {
+        "tension": "Israel's \"Yahweh is an only God\" versus the surrounding worship of bread, love, and power — number against decision.",
+        "move": "Read the Shema as renunciation: the one God unmakes the gods of hunger, Eros, and domination, refusing every god of one's own.",
+        "payoff": "The first creed line shatters every political claim to totality and protects freedom by relativizing the collective before God."
+      },
+      "rubric": [
+        "Renunciation of bread, love, power idols",
+        "Existential decision, not registered opinion",
+        "Relativizes all political power absolutely"
+      ]
+    },
+    {
+      "id": "p1-3",
+      "misreading": {
+        "wrong": "\"I am who I am\" defines God's essence: God is simply the supreme being, a thing whose nature the name states.",
+        "right": "The name is self-revelation in relation, not definition; the Greek \"he that is\" marries faith to ontology but risks concept replacing name.",
+        "quote": "belief is wedded to ontology",
+        "page": 83
+      },
+      "argument": {
+        "tension": "The God who names himself, addressable as an individual, versus Platonic Being — unnamed, unnameable, grasped only by concept.",
+        "move": "Accept the translators' bridge to ontology, then read Exodus against it: only a God who names himself can be invoked.",
+        "payoff": "Faith and philosophy are wedded without collapse: the name survives the concept because relation outruns definition."
+      },
+      "rubric": [
+        "Greek translation joins faith and ontology",
+        "Risk: name replaced by concept",
+        "Only self-named God is invocable"
+      ]
+    },
+    {
+      "id": "p1-4",
+      "misreading": {
+        "wrong": "The patriarchs took over the surrounding El-cult: their God was the highest local deity, attached to holy places like other gods.",
+        "right": "They chose El as numen personale: God met on the I–You plane, bound to no place, the God of promise.",
+        "quote": "He is not the god of a place but the god of men: the God of Abraham, Isaac, and Jacob.",
+        "page": 86
+      },
+      "argument": {
+        "tension": "The numen locale confines the divine to holy spots and multiplies it; the God of the fathers is personal and boundless.",
+        "move": "Contrast numen personale with numen locale, then read the plural Elohim as hint that God transcends singular and plural.",
+        "payoff": "Relation replaces location: Israel's God is the God of all, of hope and irreversible promise — a faint pointer to Trinity."
+      },
+      "rubric": [
+        "Numen personale, not numen locale",
+        "Relation on I–You plane, not place",
+        "Elohim's plural hints beyond number"
+      ]
+    },
+    {
+      "id": "p1-5",
+      "misreading": {
+        "wrong": "\"I am who I am\" states God's essence in itself: it answers Moses' question with a definition of what God is.",
+        "right": "It works as rebuff and promise at once: the name dissolves into mystery yet says \"I am here for you\" — Being-for.",
+        "quote": "his Being is expounded, not as Being in itself",
+        "page": 89
+      },
+      "argument": {
+        "tension": "The answer looks like a refusal to name God, matching Judges 13 and Genesis 32 — yet Moses gets an answer.",
+        "move": "Hold both halves: negative theology cancels the name into mystery, while \"I am\" promises presence — then follow \"I am\" to Christ.",
+        "payoff": "Deutero-Isaiah's \"I am\" becomes John's Christology: Jesus himself is God's name, permanently invocable among us."
+      },
+      "rubric": [
+        "Rebuff: name dissolved into mystery",
+        "Promise: \"I am here for you\"",
+        "John: Christ is God's very name"
+      ]
+    },
+    {
+      "id": "p1-6",
+      "misreading": {
+        "wrong": "God's name reveals his inner nature the way a definition states a thing's essence to a detached observer.",
+        "right": "A concept grasps nature in itself; a name makes God invocable. Self-naming is self-giving — handing himself over into coexistence with us.",
+        "quote": "he is not so much expressing his inner nature as making himself nameable",
+        "page": 93
+      },
+      "argument": {
+        "tension": "The concept asks what a thing is apart from me; the name makes the other invocable, entering relation with me.",
+        "move": "Contrast concept and name, then show God's self-naming reaches its goal when the name becomes a person in Christ.",
+        "payoff": "Theology becomes invocation: the goal of the name is not information but callability — God permanently \"there\" for us."
+      },
+      "rubric": [
+        "Concept seeks essence; name establishes relation",
+        "Self-naming is self-giving, not defining",
+        "Fulfilled when the name becomes person"
+      ]
+    },
+    {
+      "id": "p1-7",
+      "misreading": {
+        "wrong": "Readers must choose: the near, personal God of the Bible, or the philosophers' remote infinite Being — the two sides conflict.",
+        "right": "Biblical faith holds both sides together: the hidden One is the near One; proximity is the free gift of timeless power.",
+        "quote": "only what is hidden is accepted as the One who is near",
+        "page": 95
+      },
+      "argument": {
+        "tension": "Personal, invocable self-bestowal versus timeless Being above space and bound to nothing — intimacy and infinity in one God.",
+        "move": "Refuse to split them: accept Being as person and person as Being itself — the conjunction, not either pole, is the faith.",
+        "payoff": "No god of one's own: Israel's God is the God of all, and possessing God means universal belonging."
+      },
+      "rubric": [
+        "Nearness: personal, invocable, self-bestowing",
+        "Transcendence: Being beyond space and time",
+        "Conjunction is the paradox, not choice"
+      ]
+    },
+    {
+      "id": "p1-8",
+      "misreading": {
+        "wrong": "The early Church betrayed the Bible by choosing Greek philosophy; authentic faith means leaving logos aside for pure piety and revelation.",
+        "right": "It continued the Bible's own movement: opting for logos over myth, truth over custom, purified faith from the gods and their deceit.",
+        "quote": "carried out its purification by deciding for the God of the philosophers and against the gods",
+        "page": 96
+      },
+      "argument": {
+        "tension": "The God of faith versus the God of the philosophers: did the Church sell Moses for Plato — or finish Moses' trajectory?",
+        "move": "Show the Bible itself already strove toward Being; the Church's decision took that thread and demythologized world and religion definitively.",
+        "payoff": "Reason and faith stay wedded; Christianity sides with truth against custom, escaping antiquity's collapse into beautiful but empty rite."
+      },
+      "rubric": [
+        "Continues Bible's striving toward Being",
+        "Logos over myth, truth over custom",
+        "Fideism would repeat antiquity's collapse"
+      ]
+    },
+    {
+      "id": "p1-9",
+      "misreading": {
+        "wrong": "A God with a heart who seeks and rejoices is naive anthropomorphism; true divinity is the philosophers' remote, unfeeling Being.",
+        "right": "The philosophers' God is transformed, not discarded: absolute thought proves to be creative love — a heart is no imperfection.",
+        "quote": "Absolute thought is a kind of love; it is not unfeeling idea, but creative, because it is love.",
+        "page": 103
+      },
+      "argument": {
+        "tension": "Pure thought circling in self-enclosed eternity versus the biblical God who seeks, waits, rejoices — geometry versus a heart.",
+        "move": "Identify faith's God with the philosophers', then transform the identification: thought turns out to be love, autarchy turns out to be relation.",
+        "payoff": "Philosophy is transcended at two points — relation and love — yet its discovery stands: the ground of being is agape."
+      },
+      "rubric": [
+        "Philosophers' God transformed, not abandoned",
+        "Absolute thought is really creative love",
+        "Relationship transcends self-enclosed autarchy"
+      ]
+    },
+    {
+      "id": "p1-10",
+      "misreading": {
+        "wrong": "Almighty means omnipotence as irresistible force: God's lordship is proved by controlling every event and crushing all resistance.",
+        "right": "The Creed joins \"Father\" to \"Almighty\": true almightiness appears only in crib and Cross, where God renounces power and wins through love.",
+        "quote": "only becomes clear from a Christian point of view in the crib and the Cross",
+        "page": 104
+      },
+      "argument": {
+        "tension": "Father names intimate family love; Almighty names cosmic lordship — Pantokrator's absolute power versus absolute proximity in one description.",
+        "move": "Harness the first article to the second: let Son and Cross define what almightiness means, reversing maximum and minimum.",
+        "payoff": "A new concept of power is born: strength as willingness to renounce all power, love stronger than violence."
+      },
+      "rubric": [
+        "Father and Almighty join love and power",
+        "Almightiness defined only from crib and Cross",
+        "Power perfected as renunciation of force"
+      ]
+    },
+    {
+      "id": "p1-11",
+      "misreading": {
+        "wrong": "Creation is a one-time fabrication: God crafted the world like a long-dead craftsman, then left it to run by itself.",
+        "right": "Creation is being-thought released into freedom by creative freedom: the model is creative mind, and freedom is being's structure.",
+        "quote": "the model from which creation must be understood is not the craftsman but the creative mind",
+        "page": 110
+      },
+      "argument": {
+        "tension": "Materialism makes meaning a chance by-product of matter; idealism dissolves things into one consciousness — neither yields free, real beings.",
+        "move": "Concede to idealism that all being is being-thought, then outbid it: things are released into their own independent freedom.",
+        "payoff": "Logos — idea, freedom, love — stands at the beginning; Christianity becomes a philosophy of freedom, not monism."
+      },
+      "rubric": [
+        "Logos: idea, freedom, love first",
+        "Being is being-thought set free",
+        "Creation model is creative mind"
+      ]
+    },
+    {
+      "id": "p1-12",
+      "misreading": {
+        "wrong": "Calling God \"personal\" is anthropomorphic: the ground of being must be impersonal necessity or anonymous thought, not freedom and love.",
+        "right": "A personal logos puts freedom, not necessity, at the ground of being; the particular is supreme, so plurality has its own right.",
+        "quote": "the supreme factor in the world is not cosmic necessity but freedom",
+        "page": 112
+      },
+      "argument": {
+        "tension": "Anonymous universal consciousness versus personal creative love — necessity versus freedom, the universal versus the irreducible particular.",
+        "move": "Take \"person\" seriously: thinking that knows and loves gives its thought freedom; hence particularity and freedom are primordial, not derived.",
+        "payoff": "Personhood without relation becomes unthinkable: oneness is not the final word, and monotheism's logic leads on to Trinity."
+      },
+      "rubric": [
+        "Personal logos: freedom, love ground being",
+        "Primacy of particular over universal",
+        "Plurality's own right leads to Trinity"
+      ]
+    },
+    {
+      "id": "p1-13",
+      "misreading": {
+        "wrong": "The Trinity means three divine personalities cooperating — or three masks God wears, roles played for our benefit in history.",
+        "right": "Trinity arose from historical encounter with Father, Son, and Spirit: the threeness is real — God is as he shows himself.",
+        "quote": "God is as he shows himself; God does not show himself in a way in which he is not.",
+        "page": 116
+      },
+      "argument": {
+        "tension": "God's threeness in encounter versus his oneness in himself: historical masks, or the reality of God's own life?",
+        "move": "Block both escapes — Subordinationism's minister-God, Monarchianism's masked roles — and remain with the mystery as negative theology.",
+        "payoff": "Worship and prayer are grounded: we meet God himself, and dogma stands as a frontier notice, not a definition."
+      },
+      "rubric": [
+        "Trinity from encounter, not speculation",
+        "God is as he shows himself",
+        "Subordinationism and Monarchianism destroy whole"
+      ]
+    },
+    {
+      "id": "p1-14",
+      "misreading": {
+        "wrong": "Three Persons must mean three divine subjects — three gods loosely united — or else relations merely tacked onto a solitary substance.",
+        "right": "Relation is as primordial as substance: the Persons are pure relatedness of word and love, and pure relation is purest unity.",
+        "quote": "Person is the pure relation of being related, nothing else.",
+        "page": 129
+      },
+      "argument": {
+        "tension": "Divine plurality versus divine unity: threeness must not multiply substances, yet oneness must not erase real relation and dialogue.",
+        "move": "Locate threeness in relation, not substance: dialogue, word, and love stand beside substance as equally primordial modes of being.",
+        "payoff": "Pure relation is purest unity — love's multi-unity surpasses the atom — and Christian existence becomes being \"from\" and \"for\"."
+      },
+      "rubric": [
+        "Threeness in relation, oneness in substance",
+        "Relation primordial, not an accident",
+        "Pure relation is purest unity, love"
+      ]
+    }
+  ]
+}
