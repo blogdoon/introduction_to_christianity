@@ -1,0 +1,142 @@
+{"thinkers": [
+  {
+    "id": "balthasar",
+    "name": "Hans Urs von Balthasar",
+    "tradition": "Theologian of glory, drama, and time; Ratzinger's closest ally",
+    "claim": "In Jesus eternity enters time: the Son who has time for God is where God has time for the world.",
+    "counter": "Ratzinger: eternity is not timelessness but dominion over time, the creatively supporting power of the present in every age.",
+    "quote": "Son, who has time, in the world, for God, is the point at which God has time for the world.",
+    "page": 224,
+    "cards": ["p2b-6"]
+  },
+  {
+    "id": "de-lubac",
+    "name": "Henri de Lubac",
+    "tradition": "Jesuit theologian; the Church's holiness and atheistic humanism's drama",
+    "claim": "The Church is holy not because her members are holy but because the Lord bestows holiness on her unmerited.",
+    "counter": "Ratzinger: holiness is not separation but union; Christ drew sin to himself, so the Church bears the lost within her.",
+    "quote": "a \u201choly Church\u201d that is holy because the Lord bestows holiness on her as a quite unmerited gift",
+    "page": 243,
+    "cards": ["p3-2"]
+  },
+  {
+    "id": "guardini",
+    "name": "Romano Guardini",
+    "tradition": "Catholic theologian of revelation; discernment of what is Christian",
+    "claim": "True humility lets God do what seems to us unfitting \u2014 to bow down in Christ \u2014 rather than contriving God for ourselves.",
+    "counter": "Ratzinger: bracketing Christ's divinity gains nothing; the fear that it alienates him hides distrust of God's astonishing nearness.",
+    "quote": "the higher form of humility consists in allowing God to do precisely what appears to us to be unfitting",
+    "page": 23,
+    "cards": ["intro-1", "p2a-6"]
+  },
+  {
+    "id": "augustine",
+    "name": "Augustine of Hippo",
+    "tradition": "Bishop of Hippo; Trinity as relation, faith seeking understanding",
+    "claim": "God is substance and relation: Father is relation to Son; person is pure relation, the exchange of word and love.",
+    "counter": "Ratzinger: relation is an equally valid primordial mode of reality; yet the early Augustine's \u201cGod and the soul\u201d program is unchristian.",
+    "quote": "In God there are no accidents, only substance and relation.",
+    "page": 129,
+    "cards": ["p1-13", "p1-14"]
+  },
+  {
+    "id": "anselm",
+    "name": "Anselm of Canterbury",
+    "tradition": "Medieval theologian; satisfaction theory of atonement, Cur Deus homo",
+    "claim": "Sin infinitely offends God; only the God-man can make infinite satisfaction, restoring by necessary reasons the violated order of justice.",
+    "counter": "Ratzinger: Anselm's rigid legal logic distorts perspectives and darkens God; the Cross is Christ's self-giving, not a payment God demands.",
+    "quote": "the perfectly logical divine-cum-human legal system erected by Anselm distorts the perspectives",
+    "page": 164,
+    "cards": ["p2a-10", "p2b-3"]
+  },
+  {
+    "id": "irenaeus",
+    "name": "Irenaeus of Lyon",
+    "tradition": "Early Church Father; Christ recapitulates humanity, restoring fallen Adam",
+    "claim": "Christ recapitulates humanity's whole history, gathering the creature \u201cAdam\u201d in himself and restoring in himself what the first Adam lost.",
+    "counter": "Ratzinger: the gathering takes the form of the Cross; the \u201cbody of Christ\u201d must draw to itself the whole of mankind.",
+    "quote": "So if Jesus is called \u201cAdam\u201d, this implies that he is intended to gather the whole creature \u201cAdam\u201d in himself.",
+    "page": 166,
+    "cards": ["p2a-11"]
+  },
+  {
+    "id": "bultmann",
+    "name": "Rudolf Bultmann",
+    "tradition": "New Testament scholar; kerygma theology and demythologizing",
+    "claim": "Only Jesus' bare existence matters; faith rests not on uncertain historical hypotheses but on the preached word that opens closed existence.",
+    "counter": "Ratzinger: an empty event is no easier to swallow than one filled with content; who Jesus is cannot be bypassed.",
+    "quote": "But is an empty event any easier to swallow than one filled with content?",
+    "page": 141,
+    "cards": ["p2a-2", "p2b-6"]
+  },
+  {
+    "id": "rahner",
+    "name": "Karl Rahner",
+    "tradition": "Jesuit theologian; Ratzinger's great creditor, but he resists transcendental method",
+    "claim": "The transcendental method grounds faith in the subject's self-experience, where God is already encountered as the horizon within.",
+    "counter": "With Baader and M\u00f6hler, Ratzinger: knowledge of God, like love, is never deduced from self-awareness but always comes \u201cfrom another\u201d.",
+    "quote": "human knowledge is only reality when it is being known, being brought to knowledge, and thus again \u201cfrom another\u201d",
+    "page": 173,
+    "cards": ["p2b-1"]
+  },
+  {
+    "id": "feuerbach",
+    "name": "Ludwig Feuerbach",
+    "tradition": "Philosopher of religion; God as man's projected essence",
+    "claim": "Religion is a wish-dream: man projects his own essence as God; maturity means shaking off the dream and facing reality.",
+    "counter": "Ratzinger: faith is no wish-fulfillment \u2014 Christianity's God comes so near that we can kill him and absents himself on Holy Saturday.",
+    "quote": "Have we not a duty to break with the dream and to face reality?",
+    "page": 40,
+    "cards": ["intro-4", "p2b-4"]
+  },
+  {
+    "id": "marx",
+    "name": "Karl Marx",
+    "tradition": "Philosopher of praxis; change the world rather than interpret it",
+    "claim": "Philosophy must stop interpreting the world and change it; truth lies in the makable future, not in received being.",
+    "counter": "Ratzinger: the Credo is not a program for changing the world; belief lives on neither the plane of fact nor makability.",
+    "quote": "So far philosophers have merely interpreted the world in various ways; it is necessary to change it.",
+    "page": 45,
+    "cards": ["intro-5", "p2b-1"]
+  },
+  {
+    "id": "nietzsche",
+    "name": "Friedrich Nietzsche",
+    "tradition": "Philosopher; death of God, the last man, revaluation of values",
+    "claim": "God is dead and we have killed him; the Christian God is overcome and man must become more than mere man.",
+    "counter": "Ratzinger: Nietzsche's cry is Holy Saturday, already confessed in the Creed; the image of God we formed had to die.",
+    "quote": "Holy Saturday is the day of the \u201cdeath of God\u201d, the day that expresses the unparalleled experience of our age",
+    "page": 207,
+    "cards": ["p2b-4", "p2a-11"]
+  },
+  {
+    "id": "hegel",
+    "name": "G. W. F. Hegel",
+    "tradition": "Idealist philosopher; God realized in the historical process",
+    "claim": "Read speculatively, the Trinity is the key to being: God comes to himself only in history's dialectical process.",
+    "counter": "Ratzinger: total logic dissolves into myth \u2014 a God born historically \u2014 and turns political: the apotheosis of the state.",
+    "quote": "The attempt at total logic ends in illogicality, in the self-dissolution of logic into myth.",
+    "page": 120,
+    "cards": ["p1-13", "intro-5"]
+  },
+  {
+    "id": "bloch",
+    "name": "Ernst Bloch",
+    "tradition": "Marxist philosopher of hope and utopia",
+    "claim": "Hope is praxis toward the future we make: the suffering proletariat redeems the world through class struggle, not grace.",
+    "counter": "Ratzinger: man comes to himself not through what he does but what he accepts; the Cross is a suffering-for, not struggle-against.",
+    "quote": "Here lies possibly the deepest division between the Christian principle of hope and its Marxist modification.",
+    "page": 187,
+    "cards": ["p2b-1"]
+  },
+  {
+    "id": "heidegger",
+    "name": "Martin Heidegger",
+    "tradition": "Phenomenologist of thinking and being; calculative versus reflective thought",
+    "claim": "Calculating thought and reflective thought are both legitimate and irreducible; today calculation's triumphs threaten man with thoughtlessness.",
+    "counter": "Ratzinger completes the pair: reflective thought needs a ground to stand on \u2014 the logos; understanding grows only out of belief.",
+    "quote": "calculating thought, which is concerned with \u201cmakability\u201d, and reflective thought, which is concerned with meaning",
+    "page": 51,
+    "cards": ["intro-5", "intro-6"]
+  }
+]}

@@ -136,11 +136,12 @@ def load_nuance_list(fname, key, lo, hi, required, quote_page=True):
     for it in items:
         where = f"{fname}:{it.get('id') or it.get('word') or it.get('ref')}"
         for f in required:
-            if not it.get(f):
+            if it.get(f) in (None, ""):
                 errors.append(f"{where} missing {f}")
-        if it.get("id") in ids:
+        key = it.get("id") or it.get("word") or it.get("ref")
+        if key in ids:
             errors.append(f"{where} duplicate id")
-        ids.add(it.get("id"))
+        ids.add(key)
         if quote_page:
             check_quote(f"{where} quote", it.get("quote", "x"), it.get("page", 0), it.get("page", 0), errors)
         for cid in it.get("cards", []):

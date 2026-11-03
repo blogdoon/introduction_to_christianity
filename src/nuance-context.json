@@ -1,0 +1,149 @@
+{
+  "corrections": [
+    {
+      "id": "guardini-humility",
+      "year": 2000,
+      "title": "Guardini's higher humility",
+      "what": "The fear that Christ's divinity makes him distant is backwards: only as true God is Jesus our contemporary. The higher humility lets God do what seems unfitting — bow down to us.",
+      "quote": "the higher form of humility consists in allowing God to do precisely what appears to us to be unfitting",
+      "page": 23,
+      "cards": ["p2a-2", "p2a-6", "p2a-8"]
+    },
+    {
+      "id": "divinization",
+      "year": 2000,
+      "title": "No divinizing of the world",
+      "what": "He heads off the pantheist misreading of the Trinity chapter: the world is created by the personal logos and is good — it shares the divine as gift, never as identity.",
+      "quote": "The world comes from reason, and this reason is a Person, is Love",
+      "page": 22,
+      "cards": ["p1-11", "p1-13", "p1-14"]
+    },
+    {
+      "id": "privatized-god",
+      "year": 2000,
+      "title": "The God with nothing to do",
+      "what": "The deeper problem is not militant atheism but the privatized God of a faith lived etsi Deus non daretur: when faith went public it left God unemployed in the private sphere.",
+      "quote": "to leave God as a God with nothing to do",
+      "page": 15,
+      "cards": ["intro-1"]
+    },
+    {
+      "id": "marxism-1989",
+      "year": 2000,
+      "title": "1968 and 1989 milestones",
+      "what": "1989 refutes Marxism's ethical promise — the guide to the future collapsed into ruined land and ruined souls — yet Christianity still failed to sound as the epoch-making alternative.",
+      "quote": "a sorry legacy of ruined land and ruined souls",
+      "page": 11,
+      "cards": ["intro-1"]
+    },
+    {
+      "id": "reception-1969",
+      "year": 1969,
+      "title": "Reception and reprint policy",
+      "what": "The book found unexpected readers across the East-West boundary and denominations; technical criticisms were answered elsewhere, and the 1969 reprint keeps the text unaltered apart from minor errors.",
+      "quote": "The book itself is being reprinted with the text unaltered; just a few minor errors have been corrected.",
+      "page": 27,
+      "cards": ["intro-1", "p3-2"]
+    },
+    {
+      "id": "clever-hans",
+      "year": 1968,
+      "title": "Gold traded for a whetstone",
+      "what": "The book refuses both errors of its moment: theology's stepwise watering-down of faith (gold traded to a whetstone) and mere restoration, which leaves the old formulas a dead lump of metal.",
+      "quote": "merely sticking to the precious metal of the fixed formulas of days gone by",
+      "page": 25,
+      "cards": ["intro-1", "intro-11"]
+    },
+    {
+      "id": "what-would-change",
+      "year": 2000,
+      "title": "What he would rewrite",
+      "what": "Thirty years on he would widen the interreligious context, but not the architecture: God and Christ at the center, narrative Christology, faith's place in the Church — the basic approach stands.",
+      "quote": "I believe that I was not mistaken as to the fundamental approach",
+      "page": 24,
+      "cards": ["p1-1", "p2b-8", "p3-2"]
+    }
+  ],
+  "scripture": [
+    {
+      "id": "ex3",
+      "ref": "Exodus 3:13-15",
+      "text": "Moses asks God's name; God answers \"I am who I am\" — the God of the fathers.",
+      "ratzinger": "Calls the burning bush the central Old Testament text on God: the revelation of the name to Moses lays the foundation for Israel's idea of God, the thread for all that follows.",
+      "page": 81,
+      "cards": ["p1-3", "p1-5"]
+    },
+    {
+      "id": "ex3-name",
+      "ref": "Exodus 3:14",
+      "text": "God's answer \"I am\" — a refusal of name that dissolves into mystery, yet promises \"I am here for you\".",
+      "ratzinger": "He reads the name both ways at once: gesture of repulse that \"dissolves the name into mystery\", and promise — \"I am\" means \"I am here for you\", God's being is Being-for.",
+      "page": 89,
+      "cards": ["p1-5", "p1-6"]
+    },
+    {
+      "id": "jn1",
+      "ref": "John 1:1-3, 14",
+      "text": "The eternal Word through whom all things were made became flesh — John's logos hymn.",
+      "ratzinger": "Ever since John's Prologue logos stands at Christianity's center: meaning that is Word, relationship, creative reason — guaranteeing the world's intelligibility and its goodness.",
+      "page": 22,
+      "cards": ["p1-11", "p1-14", "p2a-6"]
+    },
+    {
+      "id": "gen1-26",
+      "ref": "Genesis 1:26",
+      "text": "\"Let us make man\" — the plural in which the Fathers found a \"We\" in God.",
+      "ratzinger": "Scripture's grammar supplies the Trinity: in God dialogue, an \"I\" and \"You\". This forces the concept person — relation gains a new dignity beside substance.",
+      "page": 128,
+      "cards": ["p1-13", "p1-14"]
+    },
+    {
+      "id": "jn17",
+      "ref": "John 17:6, 26",
+      "text": "\"I have manifested your name to the men whom you gave me out of the world\"",
+      "ratzinger": "John 17 is the New Testament counterpart to the burning bush: Christ is the burning bush from which God's name issues; made known, that name draws believers into the love of Father and Son.",
+      "page": 92,
+      "cards": ["p1-6", "p1-14"]
+    },
+    {
+      "id": "phil2",
+      "ref": "Philippians 2:5-11",
+      "text": "Christ empties himself, taking the form of a servant, obedient to death on a cross.",
+      "ratzinger": "The hymn's fullest statement of son-as-servant: exinanivit — he \"emptied\" himself, surrendering existence-for-self into pure \"for\"; there the servant becomes the true ruler, lord of the cosmos.",
+      "page": 155,
+      "cards": ["p2a-8", "p2b-3"]
+    },
+    {
+      "id": "ps2",
+      "ref": "Psalm 2:7-8",
+      "text": "\"You are my son, today I have begotten you. Ask of me, and I will make the nations your heritage.\"",
+      "ratzinger": "The coronation oracle explains Cross and Resurrection: Son of God is Israel's royal theology of election and hope — kingship as standing for others — never Hellenistic myth.",
+      "page": 154,
+      "cards": ["p2a-8", "p2b-5"]
+    },
+    {
+      "id": "jn10",
+      "ref": "John 10:9",
+      "text": "The Good Shepherd says he is the door: whoever enters through him is saved.",
+      "ratzinger": "From the Good Shepherd discourse: Christ is the door between God and man — in him the Eternal One has time for the world, so the ascended Lord is near.",
+      "page": 223,
+      "cards": ["p2b-6"]
+    },
+    {
+      "id": "rev20",
+      "ref": "Revelation 20:14",
+      "text": "Death and Hades thrown into the lake of fire — the \"second death\".",
+      "ratzinger": "Since love now dwells in death, death itself is no longer hell; only deliberate self-enclosure — the second death — is. The descent redefines hell anthropologically.",
+      "page": 212,
+      "cards": ["p2b-4"]
+    },
+    {
+      "id": "lk15",
+      "ref": "Luke 15:1-10",
+      "text": "The shepherd searches for the one lost sheep; heaven rejoices more over one sinner who repents.",
+      "ratzinger": "Uses the lost sheep and drachma to transform the philosophical God: the Bible's God seeks, loves, and rejoices — the question of who God is is asked and answered here.",
+      "page": 101,
+      "cards": ["p1-9"]
+    }
+  ]
+}

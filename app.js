@@ -448,7 +448,7 @@
   }
 
   /* ── Practice (free-play cloze) ──────────────────────────────── */
-  function renderPractice() {
+  function renderPractice(focus) {
     const stage = $("#practice-stage");
     const c = cards[Math.floor(Math.random() * cards.length)];
     const cl = c.cloze[Math.floor(Math.random() * c.cloze.length)];
@@ -485,9 +485,9 @@
         : '<span class="no">Not quite —</span> the word is <b>“' + esc(cl.blank) + '”</b>.';
     };
     check.addEventListener("click", grade);
-    next.addEventListener("click", renderPractice);
+    next.addEventListener("click", () => renderPractice(true));
     input.addEventListener("keydown", (e) => { if (e.key === "Enter") grade(); });
-    input.focus();
+    if (focus) input.focus();
   }
 
   /* ── The method: both/and trainer ────────────────────────────── */
