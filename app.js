@@ -575,6 +575,7 @@
   /* ── Voices: prefer the best neural voice. In Edge these are the
         Microsoft "Online (Natural)" voices — the Azure/edge-tts set. ── */
   let voices = [];
+  let voicePolls = 0;
 
   function voiceScore(v) {
     const n = v.name;
@@ -604,14 +605,35 @@
     if (typeof window === "undefined" || !window.speechSynthesis) return;
     voices = speechSynthesis.getVoices();
     renderVoiceSelect();
+    // Chromium/Edge can keep returning [] for a while (or never fire voiceschanged)
+    if (!voices.length && voicePolls++ < 25) setTimeout(loadVoices, 200);
   }
 
   function renderVoiceSelect() {
     const sel = typeof document !== "undefined" && document.getElementById("reader-voice");
     if (!sel || !voices.length) return;
+    if (sel.options.length === voices.length + 1) return; // already populated
     sel.innerHTML = '<option value="">Best available voice</option>' + voices.map((v) =>
       '<option value="' + esc(v.name) + '"' + (state.voice === v.name ? " selected" : "") + ">" +
       esc(v.name) + " — " + esc(v.lang) + "</option>").join("");
+  }
+
+  /* Edge is known to hand back an empty voice list until the engine has been
+     woken once — prime it, then poll, then trust voiceschanged. */
+  function initVoices() {
+    if (typeof window === "undefined" || !window.speechSynthesis) return;
+    try {
+      const warm = new SpeechSynthesisUtterance(" ");
+      warm.volume = 0;
+      speechSynthesis.speak(warm);
+    } catch (e) {}
+    loadVoices();
+    window.speechSynthesis.onvoiceschanged = loadVoices;
+    const sel = document.getElementById("reader-voice");
+    if (sel) {
+      sel.addEventListener("change", (e) => { state.voice = e.target.value; save(); });
+      sel.addEventListener("pointerdown", () => { voicePolls = 0; loadVoices(); });
+    }
   }
 
   function renderGlossary() {
@@ -787,7 +809,7 @@
   function ensureBook(then) {
     if (bookLoaded) return then();
     const s = document.createElement("script");
-    s.src = "src/book.js?v=2";
+    s.src = "src/book.js?v=3";
     s.onload = () => { bookLoaded = true; $("#search-hint").textContent = "Searching all 272 pages in your browser — nothing is sent anywhere."; then(); };
     s.onerror = () => { $("#search-hint").textContent = "Could not load the book text (src/book.js)."; };
     document.head.append(s);
@@ -826,6 +848,7 @@
 
   /* ── Wire up ─────────────────────────────────────────────────── */
   function init() {
+    initVoices();
     $("#stat-cards").textContent = cards.length;
     $("#stat-questions").textContent = ITEMS.length;
     $("#stat-quotes").textContent = cards.length;
@@ -893,14 +916,6 @@
     $("#reader-lg").addEventListener("click", () => {
       readerSize = Math.min(2, readerSize + 1);
       $("#reader-pages").className = "reader-pages reader-pages--" + readerSize;
-    });
-
-    // voices: populate now and again when the browser finishes registering them
-    loadVoices();
-    if (window.speechSynthesis) window.speechSynthesis.onvoiceschanged = loadVoices;
-    $("#reader-voice").addEventListener("change", (e) => {
-      state.voice = e.target.value;
-      save();
     });
 
     $("#reset-progress").addEventListener("click", () => {
