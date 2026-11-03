@@ -1,6 +1,6 @@
 /* One runnable check for the non-trivial logic in app.js. */
 const assert = require("assert");
-const { schedule, norm, buildItems, buildPlan, buildIcs, reflow } = require("./app.js");
+const { schedule, norm, buildItems, buildPlan, buildIcs, reflow, chunkText } = require("./app.js");
 
 // text normalization: punctuation and case must not matter in the practice quiz
 assert.strictEqual(norm("  Cor-Dare!  "), "cor dare");
@@ -57,5 +57,12 @@ assert.strictEqual(reflow("understand-\ning of God", words), "understanding of G
 assert.strictEqual(reflow("self-\nenclosure is hell", words), "self-enclosure is hell");
 assert.strictEqual(reflow("all-\nembracing nature", words), "all-embracing nature");
 assert.strictEqual(reflow("the  God\nof Abraham", words), "the God of Abraham");
+
+// tts chunking: no chunk exceeds the cap, nothing is lost, sentence order kept
+const longText = Array.from({ length: 12 }, (_, i) => "Sentence number " + i + " keeps going for a while.").join(" ");
+const chunks = chunkText(longText, 80);
+assert.ok(chunks.every((c) => c.length <= 80), "every chunk within cap");
+assert.strictEqual(chunks.join(" "), longText, "no text lost or reordered");
+assert.strictEqual(chunkText("One.", 280).length, 1);
 
 console.log("check.js: all assertions passed");

@@ -175,6 +175,8 @@
       if (b) focusCard(b.getAttribute("data-goto"));
       const p = e.target.closest("[data-page]");
       if (p) focusPage(+p.getAttribute("data-page"));
+      const r = e.target.closest("[data-read]");
+      if (r) readPage(+r.getAttribute("data-read"));
     });
   }
 
@@ -328,7 +330,7 @@
       const listen = el("button", "btn btn--ghost btn--small card__listen", "Listen");
       listen.addEventListener("click", (e) => {
         e.stopPropagation();
-        speechSynthesis.cancel();
+        stopReading();
         speechSynthesis.speak(new SpeechSynthesisUtterance(c.title + ". " + c.idea));
       });
       foot.append(listen);
@@ -566,7 +568,7 @@
   /* ── Glossary ────────────────────────────────────────────────── */
   function speak(text) {
     if (!(typeof window !== "undefined" && window.speechSynthesis)) return;
-    speechSynthesis.cancel();
+    stopReading();
     speechSynthesis.speak(new SpeechSynthesisUtterance(text));
   }
 
@@ -655,15 +657,64 @@
     const pages = window.BOOK_PAGES || [];
     const words = new Set();
     pages.forEach((p) => (p.toLowerCase().match(/[a-zà-ÿ'-]+/g) || []).forEach((w) => words.add(w)));
+    const canSpeak = typeof window !== "undefined" && window.speechSynthesis;
     $("#reader-pages").innerHTML = pages.map((text, i) => {
       const paras = text.split(/\n\s*\n/).map((b) => reflow(b, words)).filter(Boolean);
       return '<section class="reader-page" id="page-' + (i + 1) + '">' +
+        '<div class="reader-page__head">' +
         '<p class="reader-page__label">PDF page ' + (i + 1) + "</p>" +
+        (canSpeak ? '<button class="btn btn--ghost btn--small reader__read" data-read="' + (i + 1) + '">Read aloud</button>' : "") +
+        "</div>" +
         paras.map((par) => (isHeading(par) ? "<h4>" + esc(par) + "</h4>" : "<p>" + esc(par) + "</p>")).join("") +
         "</section>";
     }).join("");
     $("#reader-toc").innerHTML = cards.map((c) =>
       '<button class="link-chip" data-page="' + c.pages[0] + '">' + esc(c.section) + " — " + esc(c.title) + "</button>").join(" ");
+  }
+
+  /* ── Page-by-page TTS (chunked so long pages don't stall) ────── */
+  let speaking = null;
+
+  function chunkText(text, max) {
+    max = max || 280;
+    const out = [];
+    let cur = "";
+    text.split(/(?<=[.!?…])\s+/).forEach((s) => {
+      if (cur && (cur + " " + s).length > max) { out.push(cur); cur = s; }
+      else cur = cur ? cur + " " + s : s;
+    });
+    if (cur) out.push(cur);
+    return out;
+  }
+
+  function stopReading() {
+    if (typeof window !== "undefined" && window.speechSynthesis) speechSynthesis.cancel();
+    if (speaking) {
+      document.querySelectorAll(".reader__read--on").forEach((b) => {
+        b.textContent = "Read aloud";
+        b.classList.remove("reader__read--on");
+      });
+      speaking = null;
+    }
+  }
+
+  function readPage(n) {
+    if (!(typeof window !== "undefined" && window.speechSynthesis)) return;
+    if (speaking && speaking.page === n) return stopReading();
+    stopReading();
+    const section = document.getElementById("page-" + n);
+    const text = Array.from(section.querySelectorAll("h4, p:not(.reader-page__label)"))
+      .map((el) => el.textContent).join(" ");
+    const chunks = chunkText(text);
+    if (!chunks.length) return;
+    speaking = { page: n };
+    const btn = document.querySelector('.reader__read[data-read="' + n + '"]');
+    if (btn) { btn.textContent = "Stop"; btn.classList.add("reader__read--on"); }
+    chunks.forEach((c, i) => {
+      const u = new SpeechSynthesisUtterance(c);
+      if (i === chunks.length - 1) u.onend = () => stopReading();
+      speechSynthesis.speak(u);
+    });
   }
 
   function ensureReader(then) {
@@ -808,5 +859,5 @@
   if (typeof document !== "undefined" && document.readyState !== "loading") init();
   else if (typeof document !== "undefined") document.addEventListener("DOMContentLoaded", init);
 
-  if (typeof module !== "undefined") module.exports = { schedule, norm, isDue, gradeable, buildItems, buildPlan, buildIcs, reflow, ARTICLES, CONCEPTS };
+  if (typeof module !== "undefined") module.exports = { schedule, norm, isDue, gradeable, buildItems, buildPlan, buildIcs, reflow, chunkText, ARTICLES, CONCEPTS };
 })();
