@@ -173,6 +173,8 @@
     document.addEventListener("click", (e) => {
       const b = e.target.closest("[data-goto]");
       if (b) focusCard(b.getAttribute("data-goto"));
+      const p = e.target.closest("[data-page]");
+      if (p) focusPage(+p.getAttribute("data-page"));
     });
   }
 
@@ -634,6 +636,52 @@
       "</div>").join("");
   }
 
+  /* ── Reader: the whole book, reflowed ────────────────────────── */
+  let readerBuilt = false;
+  let readerSize = 1;
+
+  /* Join hard-wrapped lines; keep a line-break hyphen only when the joined
+     word isn't attested elsewhere in the book. */
+  function reflow(block, words) {
+    return block
+      .replace(/(\w+)-\n(\w+)/g, (m, a, b) => (words && words.has((a + b).toLowerCase()) ? a + b : a + "-" + b))
+      .replace(/\s*\n\s*/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+  const isHeading = (t) => t.split(" ").length <= 10 && !/[.,;:!?]$/.test(t);
+
+  function buildReader() {
+    const pages = window.BOOK_PAGES || [];
+    const words = new Set();
+    pages.forEach((p) => (p.toLowerCase().match(/[a-zà-ÿ'-]+/g) || []).forEach((w) => words.add(w)));
+    $("#reader-pages").innerHTML = pages.map((text, i) => {
+      const paras = text.split(/\n\s*\n/).map((b) => reflow(b, words)).filter(Boolean);
+      return '<section class="reader-page" id="page-' + (i + 1) + '">' +
+        '<p class="reader-page__label">PDF page ' + (i + 1) + "</p>" +
+        paras.map((par) => (isHeading(par) ? "<h4>" + esc(par) + "</h4>" : "<p>" + esc(par) + "</p>")).join("") +
+        "</section>";
+    }).join("");
+    $("#reader-toc").innerHTML = cards.map((c) =>
+      '<button class="link-chip" data-page="' + c.pages[0] + '">' + esc(c.section) + " — " + esc(c.title) + "</button>").join(" ");
+  }
+
+  function ensureReader(then) {
+    ensureBook(() => {
+      if (!readerBuilt) { readerBuilt = true; buildReader(); }
+      if (then) then();
+    });
+  }
+
+  function focusPage(n) {
+    ensureReader(() => {
+      const node = document.getElementById("page-" + n);
+      if (node) node.scrollIntoView({ behavior: "smooth", block: "start" });
+      const toc = document.querySelector(".toc");
+      if (toc) toc.open = false;
+    });
+  }
+
   /* ── Search across the full text ─────────────────────────────── */
   let bookLoaded = false;
   function ensureBook(then) {
@@ -653,7 +701,7 @@
 
     cards.filter((c) => (c.title + " " + c.idea + " " + c.quote).toLowerCase().includes(needle)).slice(0, 4).forEach((c) => {
       out.insertAdjacentHTML("beforeend",
-        '<div class="result"><div class="result__head"><span class="result__page">Idea · p. ' + c.pages[0] + "</span>" +
+        '<div class="result"><div class="result__head"><button class="result__page" data-page="' + c.pages[0] + '">Idea · p. ' + c.pages[0] + "</button>" +
         '<span class="result__title">' + esc(c.title) + "</span></div>" +
         '<p class="result__snippet">' + esc(c.idea) + "</p></div>");
     });
@@ -669,7 +717,7 @@
       const snippet = (from > 0 ? "…" : "") + text.slice(from, to).replace(/\s+/g, " ") + (to < text.length ? "…" : "");
       const re = new RegExp(q.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "gi");
       out.insertAdjacentHTML("beforeend",
-        '<div class="result"><div class="result__head"><span class="result__page">PDF p. ' + (i + 1) + "</span>" +
+        '<div class="result"><div class="result__head"><button class="result__page" data-page="' + (i + 1) + '">PDF p. ' + (i + 1) + "</button>" +
         '<span class="result__title">From the book</span></div>' +
         '<p class="result__snippet">' + esc(snippet).replace(re, (m) => "<mark>" + m + "</mark>") + "</p></div>");
     });
@@ -724,6 +772,29 @@
       ensureBook(() => { t = setTimeout(() => runSearch(q), 160); });
     });
 
+    // reader: load the text when the section comes near
+    if (typeof IntersectionObserver !== "undefined") {
+      const io = new IntersectionObserver((entries) => {
+        if (entries.some((en) => en.isIntersecting)) { ensureReader(); io.disconnect(); }
+      }, { rootMargin: "800px" });
+      io.observe($("#reader"));
+    }
+    const jump = () => {
+      const n = +$("#reader-jump").value;
+      if (n < 1) return;
+      ensureReader(() => { if (n <= window.BOOK_PAGES.length) focusPage(n); });
+    };
+    $("#reader-go").addEventListener("click", jump);
+    $("#reader-jump").addEventListener("keydown", (e) => { if (e.key === "Enter") jump(); });
+    $("#reader-sm").addEventListener("click", () => {
+      readerSize = Math.max(0, readerSize - 1);
+      $("#reader-pages").className = "reader-pages reader-pages--" + readerSize;
+    });
+    $("#reader-lg").addEventListener("click", () => {
+      readerSize = Math.min(2, readerSize + 1);
+      $("#reader-pages").className = "reader-pages reader-pages--" + readerSize;
+    });
+
     $("#reset-progress").addEventListener("click", () => {
       if (!confirm("Erase your review history in this browser? Notes are kept.")) return;
       state.items = {}; state.days = [];
@@ -737,5 +808,5 @@
   if (typeof document !== "undefined" && document.readyState !== "loading") init();
   else if (typeof document !== "undefined") document.addEventListener("DOMContentLoaded", init);
 
-  if (typeof module !== "undefined") module.exports = { schedule, norm, isDue, gradeable, buildItems, buildPlan, buildIcs, ARTICLES, CONCEPTS };
+  if (typeof module !== "undefined") module.exports = { schedule, norm, isDue, gradeable, buildItems, buildPlan, buildIcs, reflow, ARTICLES, CONCEPTS };
 })();

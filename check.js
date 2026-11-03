@@ -1,6 +1,6 @@
 /* One runnable check for the non-trivial logic in app.js. */
 const assert = require("assert");
-const { schedule, norm, buildItems, buildPlan, buildIcs } = require("./app.js");
+const { schedule, norm, buildItems, buildPlan, buildIcs, reflow } = require("./app.js");
 
 // text normalization: punctuation and case must not matter in the practice quiz
 assert.strictEqual(norm("  Cor-Dare!  "), "cor dare");
@@ -50,5 +50,12 @@ assert.ok(ics.startsWith("BEGIN:VCALENDAR") && ics.trimEnd().endsWith("END:VCALE
 assert.strictEqual((ics.match(/BEGIN:VEVENT/g) || []).length, 13);
 assert.ok(ics.includes("SUMMARY:Read:"), "events carry the reading title");
 assert.ok(!/SUMMARY:.*[,;]/.test(ics.split("SUMMARY:")[1].split("\r\n")[0].replace(/\\[;,]/g, "")), "ics values are escaped");
+
+// reader reflow: line-break hyphens join only when the joined word is attested
+const words = new Set(["understanding", "self-enclosure"]);
+assert.strictEqual(reflow("understand-\ning of God", words), "understanding of God");
+assert.strictEqual(reflow("self-\nenclosure is hell", words), "self-enclosure is hell");
+assert.strictEqual(reflow("all-\nembracing nature", words), "all-embracing nature");
+assert.strictEqual(reflow("the  God\nof Abraham", words), "the God of Abraham");
 
 console.log("check.js: all assertions passed");

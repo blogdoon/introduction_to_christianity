@@ -61,7 +61,23 @@ window.SITE = {
     "the name of God"
    ],
    "article": 0,
-   "part": "intro"
+   "part": "intro",
+   "misreading": {
+    "wrong": "Christianity fell silent after 1989 because secular hostility silenced it: the problem is the modern world's refusal to listen to the Church's message.",
+    "right": "Ratzinger blames believers: having privatized God and lived etsi Deus non daretur, faith arrived in public with a God who had nothing to do.",
+    "quote": "God had nothing to do.",
+    "page": 14
+   },
+   "argument": {
+    "tension": "After 1989 the world hungered for an alternative, yet Christianity, long privatized, could not speak into the public arena.",
+    "move": "He indicts not secularism but believers' practical atheism, then asks what faith must bring with it out of the ghetto.",
+    "payoff": "Faith re-enters public life carrying its distinctive feature: God as judge, limit, standard, origin and goal of history."
+   },
+   "rubric": [
+    "Blames believers' privatized God, not secularism",
+    "Names etsi Deus non daretur as the drift",
+    "Public faith brings God as judge and goal"
+   ]
   },
   {
    "id": "intro-2",
@@ -101,7 +117,23 @@ window.SITE = {
     "subjective faith"
    ],
    "article": 0,
-   "part": "intro"
+   "part": "intro",
+   "misreading": {
+    "wrong": "Faith and unbelief are opposites: the believer is secure, the unbeliever has settled the question and lives at peace without God.",
+    "right": "Both live in doubt: the believer is threatened by unbelief, the unbeliever by the “perhaps” that belief may after all be true.",
+    "quote": "It is not until belief is rejected that its unrejectability becomes evident.",
+    "page": 33
+   },
+   "argument": {
+    "tension": "The believer faces the plunge into nothingness; the unbeliever faces the possibility that belief may still be the truth.",
+    "move": "He rejects the clown analogy: both sides share doubt and belief, so doubt becomes their avenue of communication.",
+    "payoff": "Neither side can close itself off; the terrible “perhaps” keeps both honest and open to each other."
+   },
+   "rubric": [
+    "Doubt threatens both believer and unbeliever",
+    "The “perhaps it is true” cannot be escaped",
+    "Doubt enables communication between both sides"
+   ]
   },
   {
    "id": "intro-3",
@@ -141,7 +173,23 @@ window.SITE = {
     "faith and reason"
    ],
    "article": 0,
-   "part": "intro"
+   "part": "intro",
+   "misreading": {
+    "wrong": "Believing means accepting unproven claims about the invisible, a private leap of feeling that reason cannot touch and need not justify.",
+    "right": "Credo is a fundamental mode of behavior toward reality: conversion to the conviction that the unseen is the truly real sustaining everything.",
+    "quote": "Belief has always had something of an adventurous break or leap about it",
+    "page": 38
+   },
+   "argument": {
+    "tension": "Man's eyes grasp only the visible, yet his existence cannot live on the visible alone; God never enters that field.",
+    "move": "He defines credo as conversion: a second access to reality that judges the visible by the unseen true reality.",
+    "payoff": "Faith becomes a daily about-turn, undemonstrable yet reasonable: a basic decision no human can avoid making."
+   },
+   "rubric": [
+    "Credo is conversion, not inference",
+    "The unseen is the truly real",
+    "Undemonstrable because only the turned receive it"
+   ]
   },
   {
    "id": "intro-4",
@@ -182,7 +230,23 @@ window.SITE = {
     "being a Christian today"
    ],
    "article": 0,
-   "part": "intro"
+   "part": "intro",
+   "misreading": {
+    "wrong": "The obstacle to belief is outdated language: modernize the Gospel's wrapping and the message becomes credible again for today.",
+    "right": "The real scandal is God's self-commitment to history: the eternal became one man we can kill, and no reinterpretation may dissolve this offense.",
+    "quote": "God has come so near to us that we can kill him",
+    "page": 40
+   },
+   "argument": {
+    "tension": "Belief seems mere loyalty to yesterday, yet beneath that lies Christianity's positivism: God committed to one figure, one hour.",
+    "move": "He exposes the deeper offense behind the old-fashionedness, then calls inoffensive reinterpretations dishonest before the non-Christian's “perhaps not”.",
+    "payoff": "Honesty is restored: the Gospel may offend, but it stands on reality instead of dissolving into viable propositions."
+   },
+   "rubric": [
+    "Distinguishes secondary then-now scandal from positivism",
+    "Revelation makes God touchable and killable",
+    "Inoffensive interpretation betrays honesty"
+   ]
   },
   {
    "id": "intro-5",
@@ -222,7 +286,23 @@ window.SITE = {
     "faith and reason"
    ],
    "article": 0,
-   "part": "intro"
+   "part": "intro",
+   "misreading": {
+    "wrong": "Because truth is what we make, theology should present faith as history or as world-changing praxis to remain rational and relevant.",
+    "right": "Vico's factum and Marx's faciendum reduce truth to the made and makable; belief lives on neither plane but in stand-understand.",
+    "quote": "all that we can truly know is what we have made ourselves",
+    "page": 43
+   },
+   "argument": {
+    "tension": "The modern mind admits as real only the made and the makable, while faith concerns what was never made by us.",
+    "move": "He traces truth's reduction from being to factum to faciendum, then finds belief's place not in know-make but stand-understand.",
+    "payoff": "Faith escapes both rescue attempts: it is entrusting oneself to meaning that no making could produce."
+   },
+   "rubric": [
+    "Explains verum quia factum then faciendum",
+    "Belief is not know-make but stand-understand",
+    "Faith entrusts to meaning not made"
+   ]
   },
   {
    "id": "intro-6",
@@ -262,7 +342,23 @@ window.SITE = {
     "subjective faith"
    ],
    "article": 0,
-   "part": "intro"
+   "part": "intro",
+   "misreading": {
+    "wrong": "Faith is the opposite of reason: it believes where proof ends, so understanding must wait until knowledge catches up.",
+    "right": "Faith is standing firm on received ground; understanding grows from that standing, so believing and understanding are inseparable, not rivals.",
+    "quote": "Meaning that is self-made is in the last analysis no meaning.",
+    "page": 52
+   },
+   "argument": {
+    "tension": "Practical knowledge can make everything except meaning, yet man cannot live without meaning; making cannot ground itself.",
+    "move": "From Isaiah's 'mn root he draws faith as entrusting oneself, taking a stand; only from standing does understanding grow.",
+    "payoff": "Becomes clear that meaning is received not made; entrusting oneself to the unmade ground enables all human making."
+   },
+   "rubric": [
+    "Faith is taking a stand on received ground",
+    "Meaning is received, never self-manufactured",
+    "Believing and understanding are inseparable"
+   ]
   },
   {
    "id": "intro-7",
@@ -302,7 +398,23 @@ window.SITE = {
     "God of the philosophers"
    ],
    "article": 0,
-   "part": "intro"
+   "part": "intro",
+   "misreading": {
+    "wrong": "The “Amen” of faith is a blind leap beyond reason: mystery excuses contradictions, and faith thrives where argument fails.",
+    "right": "Amen is a movement toward logos and truth; it is practical knowledge that renounces truth, and mystery serves understanding, never failed reason.",
+    "quote": "Truth is the only ground suitable for man to stand upon.",
+    "page": 54
+   },
+   "argument": {
+    "tension": "Calculating knowledge succeeds by asking only what functions; faith insists on what things are in truth and meaning.",
+    "move": "He reverses the cliché: faith seeks logos and truth, while practical knowledge renounces truth; mystery grounds understanding instead of excusing failure.",
+    "payoff": "Meaning, ground and truth stay indivisible; theology becomes a rational task and faith escapes fideism."
+   },
+   "rubric": [
+    "Amen is movement toward logos, not surrender",
+    "Calculating knowledge renounces truth itself",
+    "Mystery grounds understanding, never excuses absurdity"
+   ]
   },
   {
    "id": "intro-8",
@@ -343,7 +455,23 @@ window.SITE = {
     "faith and reason"
    ],
    "article": 0,
-   "part": "intro"
+   "part": "intro",
+   "misreading": {
+    "wrong": "Believing in you is private sentiment: personal trust in Jesus replaces argument, so faith needs no reflection once the heart is moved.",
+    "right": "Christian faith's center is a “you”: in Jesus the world's meaning is a person who loves me, and love keeps asking “Are you really he?”",
+    "quote": "its central formula is not “I believe in something”, but “I believe in you.”",
+    "page": 56
+   },
+   "argument": {
+    "tension": "Faith in a spiritual ground of the world remains “something”; Christian faith finds the world's meaning as a person addressing me.",
+    "move": "He passes from the logos that upholds all things to the encounter with Jesus, where meaning becomes love that loves me.",
+    "payoff": "Believing, trusting, loving unite; every thesis of the Creed expresses this one about-turn, yet love keeps the question alive."
+   },
+   "rubric": [
+    "Faith's object is a “you”, not something",
+    "In Jesus meaning is present as love",
+    "Love itself demands asking “Are you he?”"
+   ]
   },
   {
    "id": "intro-9",
@@ -384,7 +512,23 @@ window.SITE = {
     "creation"
    ],
    "article": 0,
-   "part": "intro"
+   "part": "intro",
+   "misreading": {
+    "wrong": "The twelve apostles each contributed an article to the Creed, so its authority rests on their personal authorship.",
+    "right": "The Creed grew from Rome's three-question baptismal dialogue; the apostolic-authorship story is a later legend, yet it faithfully echoes the ancient Church's faith.",
+    "quote": "the oldest form of the confession of faith takes the shape of a tripartite dialogue",
+    "page": 58
+   },
+   "argument": {
+    "tension": "The text bears all the marks of history — legend, regional rivalry, imperial politics — yet carries the ancient Church's faith.",
+    "move": "He narrates the Creed's real growth from baptism, then shows West's salvation-history and East's cosmic emphasis as complementary accents.",
+    "payoff": "Historical messiness becomes no obstacle: at decisive points the Creed is an accurate echo of the New Testament message."
+   },
+   "rubric": [
+    "Creed arose from baptismal question and answer",
+    "Apostolic article-authorship is later legend",
+    "East-West differences are emphasis, not contradiction"
+   ]
   },
   {
    "id": "intro-10",
@@ -425,7 +569,23 @@ window.SITE = {
     "Church"
    ],
    "article": 0,
-   "part": "intro"
+   "part": "intro",
+   "misreading": {
+    "wrong": "The Creed's entanglement with politics and division is an embarrassment to be explained away before its teaching can be trusted.",
+    "right": "The muddle is instruction: faith's great leap happens on the petty human scale, so faith must involve forgiving and needing forgiveness.",
+    "quote": "faith has to do, and must have to do, with forgiving",
+    "page": 61
+   },
+   "argument": {
+    "tension": "The Creed unites all believers, yet its history shows division, regional interests and imperial manipulation woven into its very text.",
+    "move": "Instead of excusing the tangle he reads it: the leap occurs amid all-too-human circumstances, exposing man as a divided being.",
+    "payoff": "Believing is shown as inseparable from forgiving; man finds himself only in receiving and transmitting forgiveness."
+   },
+   "rubric": [
+    "Faith's leap occurs on the petty scale",
+    "The muddle reveals man's divided greatness",
+    "Faith necessarily entails forgiving"
+   ]
   },
   {
    "id": "intro-11",
@@ -466,7 +626,23 @@ window.SITE = {
     "Church"
    ],
    "article": 0,
-   "part": "intro"
+   "part": "intro",
+   "misreading": {
+    "wrong": "Dogma is a fixed list of doctrines to be recited and obeyed; its authority lies in the precision of its propositions.",
+    "right": "Dogma serves the conversion enacted in baptism: “I believe” means “I hand myself over to” — the whole person's turn to the invisible.",
+    "quote": "The phrase “I believe” could here be literally translated by “I hand myself over to”, “I assent to”.",
+    "page": 62
+   },
+   "argument": {
+    "tension": "Dogma looks like recited doctrine, yet its birthplace is baptism's renunciation-and-assent, a shift of the whole being.",
+    "move": "He returns to the original dialogue form — question, renunciation, assent — showing councils sought right doctrine as right conversion.",
+    "payoff": "Dogma is relocated as the form of a conversion — about-turn of existence — not a fossilized catalogue of theories."
+   },
+   "rubric": [
+    "Faith is conversion, renunciation and assent",
+    "“I believe” means “I hand myself over”",
+    "Dogma serves the about-turn, not recitation"
+   ]
   },
   {
    "id": "intro-12",
@@ -507,7 +683,23 @@ window.SITE = {
     "being a Christian today"
    ],
    "article": 0,
-   "part": "intro"
+   "part": "intro",
+   "misreading": {
+    "wrong": "The Creed is the Church's substitute for personal faith: real believing is one's own private search for truth.",
+    "right": "Faith comes from hearing, not private reflection; as symbolon each believer holds only a broken half, completed only with others.",
+    "quote": "Christian belief is not an idea but life",
+    "page": 70
+   },
+   "argument": {
+    "tension": "Philosophy thinks alone and then speaks; faith is spoken to from outside and must answer within a “We”.",
+    "move": "He unfolds “symbolon”: each holds a broken half, so word, common confession and Church belong to faith's own nature.",
+    "payoff": "Community and creed are not additions: Christianity is truth as a way, mind incarnate in the body of history."
+   },
+   "rubric": [
+    "Faith comes from hearing, not private thought",
+    "Symbolon: each believer holds only half",
+    "Church and confession belong to faith itself"
+   ]
   },
   {
    "id": "p1-1",
@@ -547,7 +739,23 @@ window.SITE = {
     "faith and reason"
    ],
    "article": 0,
-   "part": "one"
+   "part": "one",
+   "misreading": {
+    "wrong": "Ratzinger's \"deeper unity\" means monotheism, polytheism, and atheism are finally equivalent — dig deep enough and everything becomes one.",
+    "right": "All three confess the unity of the absolute, but they differ decisively over how man deals with it; decisions remain serious.",
+    "quote": "a unity that of course cannot be synonymous with identity",
+    "page": 76
+   },
+   "argument": {
+    "tension": "Three rival formulas — one God, many gods, no God — yet all three affirm the absolute's unity.",
+    "move": "Grant the shared conviction, deny identity, and relocate the difference: how man must deal with the absolute, or it with him.",
+    "payoff": "Atheism becomes a form of the God-question, yet no difference is flattened; both poverty and fullness still point Godward."
+   },
+   "rubric": [
+    "Unity of the absolute shared by all three",
+    "Difference lies in dealing with it",
+    "Poverty and fullness both point to God"
+   ]
   },
   {
    "id": "p1-2",
@@ -587,7 +795,23 @@ window.SITE = {
     "being a Christian today"
    ],
    "article": 0,
-   "part": "one"
+   "part": "one",
+   "misreading": {
+    "wrong": "Saying \"one God\" is just arithmetic: monotheism means accepting that the gods number one, a single opinion among others.",
+    "right": "It is an existential renunciation of deified bread, love, and power — a declaration of war on every absolutized political claim.",
+    "quote": "it is not the registration of one view alongside others but an existential decision",
+    "page": 78
+   },
+   "argument": {
+    "tension": "Israel's \"Yahweh is an only God\" versus the surrounding worship of bread, love, and power — number against decision.",
+    "move": "Read the Shema as renunciation: the one God unmakes the gods of hunger, Eros, and domination, refusing every god of one's own.",
+    "payoff": "The first creed line shatters every political claim to totality and protects freedom by relativizing the collective before God."
+   },
+   "rubric": [
+    "Renunciation of bread, love, power idols",
+    "Existential decision, not registered opinion",
+    "Relativizes all political power absolutely"
+   ]
   },
   {
    "id": "p1-3",
@@ -627,7 +851,23 @@ window.SITE = {
     "God of the philosophers"
    ],
    "article": 0,
-   "part": "one"
+   "part": "one",
+   "misreading": {
+    "wrong": "\"I am who I am\" defines God's essence: God is simply the supreme being, a thing whose nature the name states.",
+    "right": "The name is self-revelation in relation, not definition; the Greek \"he that is\" marries faith to ontology but risks concept replacing name.",
+    "quote": "belief is wedded to ontology",
+    "page": 83
+   },
+   "argument": {
+    "tension": "The God who names himself, addressable as an individual, versus Platonic Being — unnamed, unnameable, grasped only by concept.",
+    "move": "Accept the translators' bridge to ontology, then read Exodus against it: only a God who names himself can be invoked.",
+    "payoff": "Faith and philosophy are wedded without collapse: the name survives the concept because relation outruns definition."
+   },
+   "rubric": [
+    "Greek translation joins faith and ontology",
+    "Risk: name replaced by concept",
+    "Only self-named God is invocable"
+   ]
   },
   {
    "id": "p1-4",
@@ -667,7 +907,23 @@ window.SITE = {
     "Trinity"
    ],
    "article": 0,
-   "part": "one"
+   "part": "one",
+   "misreading": {
+    "wrong": "The patriarchs took over the surrounding El-cult: their God was the highest local deity, attached to holy places like other gods.",
+    "right": "They chose El as numen personale: God met on the I–You plane, bound to no place, the God of promise.",
+    "quote": "He is not the god of a place but the god of men: the God of Abraham, Isaac, and Jacob.",
+    "page": 86
+   },
+   "argument": {
+    "tension": "The numen locale confines the divine to holy spots and multiplies it; the God of the fathers is personal and boundless.",
+    "move": "Contrast numen personale with numen locale, then read the plural Elohim as hint that God transcends singular and plural.",
+    "payoff": "Relation replaces location: Israel's God is the God of all, of hope and irreversible promise — a faint pointer to Trinity."
+   },
+   "rubric": [
+    "Numen personale, not numen locale",
+    "Relation on I–You plane, not place",
+    "Elohim's plural hints beyond number"
+   ]
   },
   {
    "id": "p1-5",
@@ -707,7 +963,23 @@ window.SITE = {
     "Incarnation"
    ],
    "article": 0,
-   "part": "one"
+   "part": "one",
+   "misreading": {
+    "wrong": "\"I am who I am\" states God's essence in itself: it answers Moses' question with a definition of what God is.",
+    "right": "It works as rebuff and promise at once: the name dissolves into mystery yet says \"I am here for you\" — Being-for.",
+    "quote": "his Being is expounded, not as Being in itself",
+    "page": 89
+   },
+   "argument": {
+    "tension": "The answer looks like a refusal to name God, matching Judges 13 and Genesis 32 — yet Moses gets an answer.",
+    "move": "Hold both halves: negative theology cancels the name into mystery, while \"I am\" promises presence — then follow \"I am\" to Christ.",
+    "payoff": "Deutero-Isaiah's \"I am\" becomes John's Christology: Jesus himself is God's name, permanently invocable among us."
+   },
+   "rubric": [
+    "Rebuff: name dissolved into mystery",
+    "Promise: \"I am here for you\"",
+    "John: Christ is God's very name"
+   ]
   },
   {
    "id": "p1-6",
@@ -747,7 +1019,23 @@ window.SITE = {
     "Incarnation"
    ],
    "article": 0,
-   "part": "one"
+   "part": "one",
+   "misreading": {
+    "wrong": "God's name reveals his inner nature the way a definition states a thing's essence to a detached observer.",
+    "right": "A concept grasps nature in itself; a name makes God invocable. Self-naming is self-giving — handing himself over into coexistence with us.",
+    "quote": "he is not so much expressing his inner nature as making himself nameable",
+    "page": 93
+   },
+   "argument": {
+    "tension": "The concept asks what a thing is apart from me; the name makes the other invocable, entering relation with me.",
+    "move": "Contrast concept and name, then show God's self-naming reaches its goal when the name becomes a person in Christ.",
+    "payoff": "Theology becomes invocation: the goal of the name is not information but callability — God permanently \"there\" for us."
+   },
+   "rubric": [
+    "Concept seeks essence; name establishes relation",
+    "Self-naming is self-giving, not defining",
+    "Fulfilled when the name becomes person"
+   ]
   },
   {
    "id": "p1-7",
@@ -787,7 +1075,23 @@ window.SITE = {
     "God of the philosophers"
    ],
    "article": 0,
-   "part": "one"
+   "part": "one",
+   "misreading": {
+    "wrong": "Readers must choose: the near, personal God of the Bible, or the philosophers' remote infinite Being — the two sides conflict.",
+    "right": "Biblical faith holds both sides together: the hidden One is the near One; proximity is the free gift of timeless power.",
+    "quote": "only what is hidden is accepted as the One who is near",
+    "page": 95
+   },
+   "argument": {
+    "tension": "Personal, invocable self-bestowal versus timeless Being above space and bound to nothing — intimacy and infinity in one God.",
+    "move": "Refuse to split them: accept Being as person and person as Being itself — the conjunction, not either pole, is the faith.",
+    "payoff": "No god of one's own: Israel's God is the God of all, and possessing God means universal belonging."
+   },
+   "rubric": [
+    "Nearness: personal, invocable, self-bestowing",
+    "Transcendence: Being beyond space and time",
+    "Conjunction is the paradox, not choice"
+   ]
   },
   {
    "id": "p1-8",
@@ -828,7 +1132,23 @@ window.SITE = {
     "faith and reason"
    ],
    "article": 0,
-   "part": "one"
+   "part": "one",
+   "misreading": {
+    "wrong": "The early Church betrayed the Bible by choosing Greek philosophy; authentic faith means leaving logos aside for pure piety and revelation.",
+    "right": "It continued the Bible's own movement: opting for logos over myth, truth over custom, purified faith from the gods and their deceit.",
+    "quote": "carried out its purification by deciding for the God of the philosophers and against the gods",
+    "page": 96
+   },
+   "argument": {
+    "tension": "The God of faith versus the God of the philosophers: did the Church sell Moses for Plato — or finish Moses' trajectory?",
+    "move": "Show the Bible itself already strove toward Being; the Church's decision took that thread and demythologized world and religion definitively.",
+    "payoff": "Reason and faith stay wedded; Christianity sides with truth against custom, escaping antiquity's collapse into beautiful but empty rite."
+   },
+   "rubric": [
+    "Continues Bible's striving toward Being",
+    "Logos over myth, truth over custom",
+    "Fideism would repeat antiquity's collapse"
+   ]
   },
   {
    "id": "p1-9",
@@ -868,7 +1188,23 @@ window.SITE = {
     "faith and reason"
    ],
    "article": 0,
-   "part": "one"
+   "part": "one",
+   "misreading": {
+    "wrong": "A God with a heart who seeks and rejoices is naive anthropomorphism; true divinity is the philosophers' remote, unfeeling Being.",
+    "right": "The philosophers' God is transformed, not discarded: absolute thought proves to be creative love — a heart is no imperfection.",
+    "quote": "Absolute thought is a kind of love; it is not unfeeling idea, but creative, because it is love.",
+    "page": 103
+   },
+   "argument": {
+    "tension": "Pure thought circling in self-enclosed eternity versus the biblical God who seeks, waits, rejoices — geometry versus a heart.",
+    "move": "Identify faith's God with the philosophers', then transform the identification: thought turns out to be love, autarchy turns out to be relation.",
+    "payoff": "Philosophy is transcended at two points — relation and love — yet its discovery stands: the ground of being is agape."
+   },
+   "rubric": [
+    "Philosophers' God transformed, not abandoned",
+    "Absolute thought is really creative love",
+    "Relationship transcends self-enclosed autarchy"
+   ]
   },
   {
    "id": "p1-10",
@@ -908,7 +1244,23 @@ window.SITE = {
     "Cross"
    ],
    "article": 0,
-   "part": "one"
+   "part": "one",
+   "misreading": {
+    "wrong": "Almighty means omnipotence as irresistible force: God's lordship is proved by controlling every event and crushing all resistance.",
+    "right": "The Creed joins \"Father\" to \"Almighty\": true almightiness appears only in crib and Cross, where God renounces power and wins through love.",
+    "quote": "only becomes clear from a Christian point of view in the crib and the Cross",
+    "page": 104
+   },
+   "argument": {
+    "tension": "Father names intimate family love; Almighty names cosmic lordship — Pantokrator's absolute power versus absolute proximity in one description.",
+    "move": "Harness the first article to the second: let Son and Cross define what almightiness means, reversing maximum and minimum.",
+    "payoff": "A new concept of power is born: strength as willingness to renounce all power, love stronger than violence."
+   },
+   "rubric": [
+    "Father and Almighty join love and power",
+    "Almightiness defined only from crib and Cross",
+    "Power perfected as renunciation of force"
+   ]
   },
   {
    "id": "p1-11",
@@ -949,7 +1301,23 @@ window.SITE = {
     "God of the philosophers"
    ],
    "article": 0,
-   "part": "one"
+   "part": "one",
+   "misreading": {
+    "wrong": "Creation is a one-time fabrication: God crafted the world like a long-dead craftsman, then left it to run by itself.",
+    "right": "Creation is being-thought released into freedom by creative freedom: the model is creative mind, and freedom is being's structure.",
+    "quote": "the model from which creation must be understood is not the craftsman but the creative mind",
+    "page": 110
+   },
+   "argument": {
+    "tension": "Materialism makes meaning a chance by-product of matter; idealism dissolves things into one consciousness — neither yields free, real beings.",
+    "move": "Concede to idealism that all being is being-thought, then outbid it: things are released into their own independent freedom.",
+    "payoff": "Logos — idea, freedom, love — stands at the beginning; Christianity becomes a philosophy of freedom, not monism."
+   },
+   "rubric": [
+    "Logos: idea, freedom, love first",
+    "Being is being-thought set free",
+    "Creation model is creative mind"
+   ]
   },
   {
    "id": "p1-12",
@@ -989,7 +1357,23 @@ window.SITE = {
     "God of the philosophers"
    ],
    "article": 0,
-   "part": "one"
+   "part": "one",
+   "misreading": {
+    "wrong": "Calling God \"personal\" is anthropomorphic: the ground of being must be impersonal necessity or anonymous thought, not freedom and love.",
+    "right": "A personal logos puts freedom, not necessity, at the ground of being; the particular is supreme, so plurality has its own right.",
+    "quote": "the supreme factor in the world is not cosmic necessity but freedom",
+    "page": 112
+   },
+   "argument": {
+    "tension": "Anonymous universal consciousness versus personal creative love — necessity versus freedom, the universal versus the irreducible particular.",
+    "move": "Take \"person\" seriously: thinking that knows and loves gives its thought freedom; hence particularity and freedom are primordial, not derived.",
+    "payoff": "Personhood without relation becomes unthinkable: oneness is not the final word, and monotheism's logic leads on to Trinity."
+   },
+   "rubric": [
+    "Personal logos: freedom, love ground being",
+    "Primacy of particular over universal",
+    "Plurality's own right leads to Trinity"
+   ]
   },
   {
    "id": "p1-13",
@@ -1030,7 +1414,23 @@ window.SITE = {
     "faith and reason"
    ],
    "article": 0,
-   "part": "one"
+   "part": "one",
+   "misreading": {
+    "wrong": "The Trinity means three divine personalities cooperating — or three masks God wears, roles played for our benefit in history.",
+    "right": "Trinity arose from historical encounter with Father, Son, and Spirit: the threeness is real — God is as he shows himself.",
+    "quote": "God is as he shows himself; God does not show himself in a way in which he is not.",
+    "page": 116
+   },
+   "argument": {
+    "tension": "God's threeness in encounter versus his oneness in himself: historical masks, or the reality of God's own life?",
+    "move": "Block both escapes — Subordinationism's minister-God, Monarchianism's masked roles — and remain with the mystery as negative theology.",
+    "payoff": "Worship and prayer are grounded: we meet God himself, and dogma stands as a frontier notice, not a definition."
+   },
+   "rubric": [
+    "Trinity from encounter, not speculation",
+    "God is as he shows himself",
+    "Subordinationism and Monarchianism destroy whole"
+   ]
   },
   {
    "id": "p1-14",
@@ -1070,7 +1470,23 @@ window.SITE = {
     "subjective faith"
    ],
    "article": 0,
-   "part": "one"
+   "part": "one",
+   "misreading": {
+    "wrong": "Three Persons must mean three divine subjects — three gods loosely united — or else relations merely tacked onto a solitary substance.",
+    "right": "Relation is as primordial as substance: the Persons are pure relatedness of word and love, and pure relation is purest unity.",
+    "quote": "Person is the pure relation of being related, nothing else.",
+    "page": 129
+   },
+   "argument": {
+    "tension": "Divine plurality versus divine unity: threeness must not multiply substances, yet oneness must not erase real relation and dialogue.",
+    "move": "Locate threeness in relation, not substance: dialogue, word, and love stand beside substance as equally primordial modes of being.",
+    "payoff": "Pure relation is purest unity — love's multi-unity surpasses the atom — and Christian existence becomes being \"from\" and \"for\"."
+   },
+   "rubric": [
+    "Threeness in relation, oneness in substance",
+    "Relation primordial, not an accident",
+    "Pure relation is purest unity, love"
+   ]
   },
   {
    "id": "p2a-1",
@@ -1110,7 +1526,23 @@ window.SITE = {
     "history and modernity"
    ],
    "article": 1,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "What history cannot document cannot be real; the Christ of faith is a pious overlay added to the merely human Jesus.",
+    "right": "The documentary method is the limit: it checks papers, not persons; the Christ belongs to the event, not to later belief.",
+    "quote": "the full truth of history eludes documentary verification just as much as the truth of being escapes the experimental approach",
+    "page": 139
+   },
+   "argument": {
+    "tension": "The Creed binds the meaning of all being to one executed man, yet critical history can check only documents, not depths.",
+    "move": "He parallels physics: methodical precision renounces being, so historical method likewise reveals the surface while concealing history's full truth.",
+    "payoff": "Not faith but positivism shrinks the past; the Christ can be a truth of history even when undocumentable."
+   },
+   "rubric": [
+    "Meaning bound to one man",
+    "method reveals yet conceals",
+    "limit lies in the method"
+   ]
   },
   {
    "id": "p2b-1",
@@ -1151,7 +1583,23 @@ window.SITE = {
     "Cross"
    ],
    "article": 1,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "God saves each soul directly and immediately; the individual alone is real, so Church, sacrament, and history are dispensable intermediaries.",
+    "right": "There is no mere individual: man is himself only within the whole—mankind, history, cosmos—so Christianity serves all, and therefore stakes everything on Jesus.",
+    "quote": "The individual is the salvation of the whole, and the whole receives its salvation only from the individual",
+    "page": 176
+   },
+   "argument": {
+    "tension": "God can save the mere individual directly; yet Christianity exists for history, community—the whole—and needs intermediaries.",
+    "move": "He denies the premise: no mere individual exists; since man lives within the whole, the whole's salvation must come through one individual.",
+    "payoff": "The scandal of Jesus as the world's savior becomes love's intrinsic logic, and the six structures of Christianity coalesce in love."
+   },
+   "rubric": [
+    "No mere individual exists; humans are inherently communal",
+    "Christianity serves all of history, not isolated souls",
+    "Therefore everything hangs on the one individual, Jesus"
+   ]
   },
   {
    "id": "p2a-2",
@@ -1191,7 +1639,23 @@ window.SITE = {
     "being a Christian today"
    ],
    "article": 1,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "Historical criticism dissolved the plain Jesus, so faith should rest on the preached kerygma alone; the historical Jesus is irrelevant.",
+    "right": "Both flights fail: bare history creates no present, bare kerygma an empty event; Jesus subsists only as Christ, Christ only as Jesus.",
+    "quote": "But is an empty event any easier to swallow than one filled with content?",
+    "page": 141
+   },
+   "argument": {
+    "tension": "Modern theology flees from Christ to a recoverable Jesus, then from Jesus to a bare kerygma, and now back again.",
+    "move": "The zig-zag is wasted motion yet proves the two cannot subsist apart; faith confesses their unity rather than reconstructing either.",
+    "payoff": "Reconstruction and reduction are both barred; one may simply hear what the living faith of centuries has always stated."
+   },
+   "rubric": [
+    "Both escape routes fail",
+    "Jesus and Christ mutually subsist",
+    "faith is living presence, not reconstruction"
+   ]
   },
   {
    "id": "p2b-2",
@@ -1232,7 +1696,23 @@ window.SITE = {
     "logos vs myth"
    ],
    "article": 2,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "The Virgin Birth grounds Christ's divinity: God is literally his father, making Jesus a half-divine being like pagan savior-children.",
+    "right": "Divine Sonship is ontological, in God's eternity—not biological; the virginal conception is the sign of salvation as God's new creation, sheer gift.",
+    "quote": "the Divine Sonship of which faith speaks is not a biological but an ontological fact",
+    "page": 193
+   },
+   "argument": {
+    "tension": "The birth narrative appears to ground Christ's divinity; yet the Church says his Sonship does not rest on it at all.",
+    "move": "He separates them: Sonship rests on the Abba-Son dialogue—ontological in God's eternity; the birth narrative is Israel's barren-mother theology of grace.",
+    "payoff": "The Virgin Birth becomes a sign that salvation is pure gift—new creation, not divine biology—and Mary fulfills Israel's hope of grace."
+   },
+   "rubric": [
+    "Sonship is ontological, not biological",
+    "Virginal conception signifies salvation as sheer gift",
+    "New creation: God's Word amid barren humanity"
+   ]
   },
   {
    "id": "p2a-3",
@@ -1272,7 +1752,23 @@ window.SITE = {
     "subjective faith"
    ],
    "article": 1,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "Once \"Christ\" hardened into a title and the Creed fixed it in dogma, the living person of Jesus disappeared behind formulas.",
+    "right": "The fused name-title safeguards the person: faith accepts this person who is his word, not a detachable system of teaching.",
+    "quote": "Such faith is not the acceptance of a system but the acceptance of this person who is his word",
+    "page": 145
+   },
+   "argument": {
+    "tension": "In \"Christ Jesus\" a title has fused with a name, just as \"Kaiser\" fused with \"Wilhelm\"—accident or insight?",
+    "move": "The fusion is no lapse of memory but faith's core: with Jesus, person and office, existence and mission, are one.",
+    "payoff": "Faith becomes personal: no private \"I\" lurks behind his work, so doctrine can never replace the person it names."
+   },
+   "rubric": [
+    "Title fused with name",
+    "person and office inseparable",
+    "faith accepts person, not system"
+   ]
   },
   {
    "id": "p2b-3",
@@ -1313,7 +1809,23 @@ window.SITE = {
     "Creed and dogma"
    ],
    "article": 3,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "The Cross appeases an angry God whose justice demands an infinite sacrifice: the Son's death pays the debt sinners owe.",
+    "right": "The Cross is movement from above: God reconciles the world to himself, giving himself—love's self-offering, not a price paid to appease wrath.",
+    "quote": "God does not wait until the guilty come to be reconciled; he goes to meet them and reconciles them.",
+    "page": 199
+   },
+   "argument": {
+    "tension": "Scripture holds both God's descent to reconcile and Christ's offering to the Father; the payment picture distorts both directions.",
+    "move": "He reads Hebrews: Christ's profane execution was the world's one cosmic liturgy, replacing all sacrificial offerings with the self-gift of love.",
+    "payoff": "Worship becomes thanksgiving and receptivity; the Cross reveals who God is—self-giving love—and who man is—needing grace."
+   },
+   "rubric": [
+    "Cross descends: God reconciles sinners first",
+    "Sacrifice is self-giving love, not destruction",
+    "Worship is Eucharist: receiving, not compensating God"
+   ]
   },
   {
    "id": "p2a-4",
@@ -1353,7 +1865,23 @@ window.SITE = {
     "Creed and dogma"
    ],
    "article": 1,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "Jesus' death is a moving example of fidelity unto death; the Cross shows how a good man faces suffering.",
+    "right": "The Cross is faith's birthplace: Pilate's execution notice became the first creed—the crucified criminal is the Christ, the King.",
+    "quote": "This execution notice, the death sentence of history, became with paradoxical unity the “profession of faith”",
+    "page": 145
+   },
+   "argument": {
+    "tension": "Jesus never called himself Messiah; yet faith in Jesus as Christ began somewhere—with his preaching or elsewhere?",
+    "move": "Pilate's death sentence naming the executed \"King of the Jews\" turns, paradoxically, into the first profession of faith.",
+    "payoff": "Seen from the Cross, person, word, and work are one; only then are his words reread and John's logos drawn."
+   },
+   "rubric": [
+    "Faith born at the Cross",
+    "death sentence becomes profession",
+    "identity visible in self-giving"
+   ]
   },
   {
    "id": "p2b-4",
@@ -1394,7 +1922,23 @@ window.SITE = {
     "Creed and dogma"
    ],
    "article": 4,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "The article describes a mythological underworld beneath the earth where souls are tortured—the hell of popular imagination, now obsolete.",
+    "right": "'Hell' translates sheol, the state of the dead: Christ entered death's final loneliness, so now love dwells in death; only self-enclosure is hell.",
+    "quote": "Death is absolute loneliness. But the loneliness into which love can no longer advance is—hell.",
+    "page": 211
+   },
+   "argument": {
+    "tension": "Death is the silent void where no voice reaches—God seems absent; the article looks like discardable cosmological myth.",
+    "move": "Reading it through Holy Saturday and Christ's death cry, he finds God present in God-forsakenness: solidarity with the dead at the bottom.",
+    "payoff": "Death is hell no longer—love dwells in it; only deliberate self-enclosure remains hell, the 'second death'."
+   },
+   "rubric": [
+    "Hell means final loneliness, not torture",
+    "Christ descends into death's abandonment with us",
+    "Only self-imposed enclosure remains hell"
+   ]
   },
   {
    "id": "p2a-5",
@@ -1434,7 +1978,23 @@ window.SITE = {
     "Creed and dogma"
    ],
    "article": 1,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "Firm dogmatic faith in Christ's divinity breeds exclusivism and lovelessness; love grows only where doctrine is loosened.",
+    "right": "The hyphen joining Jesus to Christ joins faith to love: believing means discovering Christ in the least of men and serving them.",
+    "quote": "faith that is not love is not a really Christian faith; it only seems to be such",
+    "page": 147
+   },
+   "argument": {
+    "tension": "Harnack's charge: does confessing Christ the Son divide people and bury the simple message of love under dogma?",
+    "move": "His \"I\" is pure relation—derived from the Father, lived for men—so logos and love coincide; faith must become love.",
+    "payoff": "Mt 25 follows from Christology's heart: service is no escape from dogma but the hyphen's logical consequence."
+   },
+   "rubric": [
+    "Hyphen joins faith and love",
+    "his I is pure relation",
+    "Mt 25 is dogma's consequence"
+   ]
   },
   {
    "id": "p2b-5",
@@ -1475,7 +2035,23 @@ window.SITE = {
     "Cross"
    ],
    "article": 5,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "The resurrection means Jesus' corpse was revived and returned to ordinary earthly life—a biological miracle that simply reverses death's process.",
+    "right": "He rose to definitive life—zoe beyond bios—a new mode of being, recognized only in appearances: the crucified one, touched yet untouchable.",
+    "quote": "it is zoe, new, different, definitive life; life that has stepped beyond the mortal realm of bios and history",
+    "page": 216
+   },
+   "argument": {
+    "tension": "Love demands indestructibility yet cannot grant it within mortal bios; the appearances describe one both recognized and unrecognizable.",
+    "move": "He reads the narratives' dialectic—touching and not touching, same yet transformed—as the very form of life beyond biological laws.",
+    "payoff": "Resurrection is love proven stronger than death; since his love embraces all, his rising is the ground of our immortality."
+   },
+   "rubric": [
+    "Risen life is zoe, a new mode",
+    "Not resuscitation: no return to bios",
+    "His love for all grounds our rising"
+   ]
   },
   {
    "id": "p2a-6",
@@ -1516,7 +2092,23 @@ window.SITE = {
     "logos vs myth"
    ],
    "article": 1,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "If Jesus is truly God, his humanity is a shell; high Christology necessarily makes the merely human second-rate.",
+    "right": "Dogma answers both questions Yes: an existence that is love is God's; the radical servant is the truest man—theology and anthropology coincide.",
+    "quote": "in the radicality of his service Jesus is the most human of men, the true man",
+    "page": 149
+   },
+   "argument": {
+    "tension": "Jesus' \"I\" is pure openness, all word, all son: is such an existence God's, or merely humanity's perfection?",
+    "move": "From the Creed itself the councils draw a triple Yes, holding radical Christship, Sonship, Godship, and true humanity together.",
+    "payoff": "Dogma is not Greek overkill but loyalty to the original confession—the safeguard of the whole, logos-like rather than myth."
+   },
+   "rubric": [
+    "Pure openness implies divine sonship",
+    "service proves truest humanity",
+    "dogma safeguards the whole confession"
+   ]
   },
   {
    "id": "p2b-6",
@@ -1557,7 +2149,23 @@ window.SITE = {
     "resurrection"
    ],
    "article": 6,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "The Ascension means Jesus flew up into the sky and left the world—a three-story cosmos with 'up' as a real direction.",
+    "right": "Ascension is Christ's being with God; heaven is the contact of man with God—so in him God has time and is near to all.",
+    "quote": "Heaven is to be defined as the contact of the being “man” with the being “God”",
+    "page": 221
+   },
+   "argument": {
+    "tension": "Modern physics cancels 'above' and 'below', making ascent mythical; yet prayer needs a God who is present and responsive in time.",
+    "move": "He recasts ascent as the upper dimension of human existence—contact with God—so eternity is contemporary with every present.",
+    "payoff": "In Jesus, God has time for the world; he is the throne of grace one may approach at any time."
+   },
+   "rubric": [
+    "Heaven is God-human contact, not location",
+    "Being with God makes Christ universally near",
+    "The Ascension grounds the possibility of prayer"
+   ]
   },
   {
    "id": "p2a-7",
@@ -1597,7 +2205,23 @@ window.SITE = {
     "logos vs myth"
    ],
    "article": 1,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "The standard account—failed prophet, resurrection rumor, Hellenistic myth, Chalcedon—is sober historical scholarship; faith simply refuses the evidence.",
+    "right": "The stock story is itself a conglomeration of hypotheses; as history it is absurd—harder to believe than God's becoming man.",
+    "quote": "To anyone accustomed to think historically, the whole theory is absurd, even if today hordes of people believe it",
+    "page": 151
+   },
+   "argument": {
+    "tension": "A vulgarized modern story claims historical pedigree: prophetic teacher, failed death, mythic overlay, then dogma ratified at Chalcedon.",
+    "move": "He turns historical scrutiny on the reconstruction itself and finds hypothesis stacked on hypothesis—less credible than the dogma it dissolves.",
+    "payoff": "Even apart from faith, acquaintance with history makes the Incarnation the more reasonable belief; the stock idea self-destructs."
+   },
+   "rubric": [
+    "Stock story is hypothesis conglomeration",
+    "linguistic check dissolves myth-genealogy",
+    "Incarnation more believable than reconstruction"
+   ]
   },
   {
    "id": "p2b-7",
@@ -1638,7 +2262,23 @@ window.SITE = {
     "being a Christian today"
    ],
    "article": 7,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "Final judgment is the opposite of love: a terrifying reckoning that cancels grace, reducing Christianity to fear and moral bookkeeping.",
+    "right": "Judgment preserves justice as love's excess—and the judge is our brother Jesus, so over judgment glows the dawn of hope.",
+    "quote": "True love is excess of justice, excess that goes farther than justice, but never destruction of justice",
+    "page": 229
+   },
+   "argument": {
+    "tension": "Grace promises pure gift; judgment demands account of works—the two cannot be dissolved into each other without loss.",
+    "move": "He holds them in paradox: freedom means responsibility before someone—and that someone is the crucified brother who has suffered.",
+    "payoff": "Judgment keeps life serious and preserves justice; because Jesus is judge, the article tinges judgment with hope, not terror."
+   },
+   "rubric": [
+    "Freedom grounds responsibility; judgment protects it",
+    "Love exceeds justice but never destroys it",
+    "Our judge is the brother Jesus—hope"
+   ]
   },
   {
    "id": "p2a-8",
@@ -1678,7 +2318,23 @@ window.SITE = {
     "logos vs myth"
    ],
    "article": 1,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "Kenosis means God empties out his power; self-emptying abolishes divine lordship and leaves only divine weakness.",
+    "right": "Self-emptying is pure relatedness: not clinging to himself, he coincides with the absolute; the servant is Lord in, not despite, surrender.",
+    "quote": "he who does not cling to himself but is pure relatedness coincides in this with the absolute",
+    "page": 156
+   },
+   "argument": {
+    "tension": "Phil 2 joins utter abasement with cosmic lordship; the slaughtered Lamb receives the universe's proskynesis—how can both hold?",
+    "move": "The demythologized title \"Son of God\" reaches its goal at the Cross: being that is pure service coincides with God.",
+    "payoff": "Kenosis is not power's cancellation but its true form; dogma names this identity of service and being."
+   },
+   "rubric": [
+    "Self-emptying is pure relation",
+    "servant coincides with lordship",
+    "dogma names service-being identity"
+   ]
   },
   {
    "id": "p2b-8",
@@ -1719,7 +2375,23 @@ window.SITE = {
     "eschatology"
    ],
    "article": 1,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "The Creed is a list of timeless truths about Christ—propositions to affirm—rather than the narration and interpretation of events.",
+    "right": "The articles narrate and interpret one event—God's path with us; faith hangs on the happening, and without the event the words are empty.",
+    "quote": "They are the interpretation of an event; if this event is removed, they become empty talk",
+    "page": 196
+   },
+   "argument": {
+    "tension": "Abstract doctrines look more modern than a story of descent, death, and glory; yet disembodied faith loses contact with reality.",
+    "move": "He shows the sequence—conception, Cross, descent, rising, glory, return—spans the total range of existence: divinity descending, humanity taken into God.",
+    "payoff": "History becomes revelation's medium; each article is one stage of God's single self-giving movement of love."
+   },
+   "rubric": [
+    "Each article interprets a real event",
+    "The sequence traces one movement of love",
+    "Faith confesses happenings, not abstractions"
+   ]
   },
   {
    "id": "p2a-9",
@@ -1759,7 +2431,23 @@ window.SITE = {
     "Cross"
    ],
    "article": 1,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "Christians must choose: Greek metaphysics of Incarnation or the Reformers' theology of the Cross; being and event contradict each other.",
+    "right": "No flattening synthesis: the polarities mutually correct, yet each fully thought passes into the other—Christ's being is act, his act being.",
+    "quote": "this “doing” is not just “doing” but “being”; it reaches down into the depths of being and coincides with it",
+    "page": 162
+   },
+   "argument": {
+    "tension": "Incarnation theology speaks of being, God-man unity; Cross theology speaks of event, God's act conquering death—irreconcilable centres?",
+    "move": "He keeps the polarities, then shows Christ's being is actualitas, exodus from self, so each theology must pass into the other.",
+    "payoff": "Two centres of one mystery correct each other and, complementing, point toward the whole; neither may absorb the other."
+   },
+   "rubric": [
+    "Being-versus-event polarity retained",
+    "each passes into the other",
+    "mutual correction, not synthesis"
+   ]
   },
   {
    "id": "p2a-10",
@@ -1799,7 +2487,23 @@ window.SITE = {
     "Incarnation"
    ],
    "article": 1,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "Redemption is a transaction: God demanded infinite payment and collected it from his tortured Son—divine child abuse dressed as justice.",
+    "right": "Anselm grasps the biblical \"for\" and election as call to live for others, yet his rigid legal system distorts perspectives and darkens God.",
+    "quote": "the perfectly logical divine-cum-human legal system erected by Anselm distorts the perspectives",
+    "page": 164
+   },
+   "argument": {
+    "tension": "Christology (who Jesus is) and soteriology (what he does) split into separate treatises—does either remain intelligible alone?",
+    "move": "Reuniting person and work, he reads redemption as being human, not having it—the last Adam taking humanity into God's future.",
+    "payoff": "The legal picture yields to the personal: not payment but humanity's healing and union with God in the \"last man\"."
+   },
+   "rubric": [
+    "Person and work inseparable",
+    "Anselm: right instinct, distorted frame",
+    "redemption is being human, divinized"
+   ]
   },
   {
    "id": "p2a-11",
@@ -1840,7 +2544,23 @@ window.SITE = {
     "being a Christian today"
    ],
    "article": 1,
-   "part": "two"
+   "part": "two",
+   "misreading": {
+    "wrong": "Christ the \"last man\" heralds cheerful progress: humanity is steadily evolving upward, and Christ is its inspiring symbol.",
+    "right": "No progress-romanticism: the man for others is sacrificed man; humanity's future hangs on the Cross, whose pierced openness gathers all.",
+    "quote": "how little it really has to do with the cheerful romanticism of progress",
+    "page": 170
+   },
+   "argument": {
+    "tension": "Man comes to himself only by moving beyond himself; can one man's existence really gather all humanity into its future?",
+    "move": "Christ the \"last Adam\" is the exemplary man whose open, pierced existence draws all into one body—true humanity's form.",
+    "payoff": "Humanity's fulfilment is \"being for\": the Cross, not progress, is man's future, and the last man appears in the last men."
+   },
+   "rubric": [
+    "Exemplary man oversteps individuality",
+    "future is being-for, not progress",
+    "Cross gathers humanity into one"
+   ]
   },
   {
    "id": "p3-1",
@@ -1881,7 +2601,23 @@ window.SITE = {
     "Church"
    ],
    "article": 11,
-   "part": "three"
+   "part": "three",
+   "misreading": {
+    "wrong": "The Creed's last articles—Church, communion, forgiveness, resurrection—are four separate beliefs loosely appended after the story of Christ.",
+    "right": "All are developments of one profession, 'I believe in Holy Spirit': God's saving power at work in history through baptism, Eucharist, transformation.",
+    "quote": "nothing more than developments of its basic profession, “I believe in Holy Spirit.”",
+    "page": 236
+   },
+   "argument": {
+    "tension": "The Spirit article seems third-Person doctrine; the following articles seem practical add-ons—as if belief and practice pulled apart.",
+    "move": "He recovers the Greek text's salvation-historical sense: the Spirit is God's gift to history, and each later article concretizes his working.",
+    "payoff": "Salvation history and the Trinity interlock again: the Church appears sacramentally, as the Spirit's activity—baptism, Eucharist, final transformation."
+   },
+   "rubric": [
+    "Last articles develop one belief: the Spirit",
+    "The Spirit is God's power in history",
+    "Each names his working: sacraments, transformation"
+   ]
   },
   {
    "id": "p3-2",
@@ -1922,7 +2658,23 @@ window.SITE = {
     "being a Christian today"
    ],
    "article": 9,
-   "part": "three"
+   "part": "three",
+   "misreading": {
+    "wrong": "The Church is the community of the perfect; her holiness rests on members' virtue, and her scandals disprove her claim to it.",
+    "right": "Holiness is God's sanctifying power at work despite sinners—grace's paradoxical shape; 'catholic' means visibly one around one Word and one bread.",
+    "quote": "that power of sanctification which God exerts in her in spite of human sinfulness",
+    "page": 241
+   },
+   "argument": {
+    "tension": "The Creed calls the Church holy and one; history shows failure and division—the formula seems to deny plain experience.",
+    "move": "He turns the objection: true holiness is union and redeeming love—God mixing with the dirt; holiness together with unholiness is grace's shape.",
+    "payoff": "The Church comforts rather than condemns—word heard, sacrament celebrated, forbearance shared—and catholicity demands visible oneness in a torn world."
+   },
+   "rubric": [
+    "Holiness is God's gift despite human sin",
+    "Catholicity: visible unity—one Word, one bread",
+    "True holiness unites and redeems, not separates"
+   ]
   },
   {
    "id": "p3-3",
@@ -1963,7 +2715,23 @@ window.SITE = {
     "Creed and dogma"
    ],
    "article": 11,
-   "part": "three"
+   "part": "three",
+   "misreading": {
+    "wrong": "The immortal soul is what really survives; 'resurrection of the body' is a crude mythological add-on about physical corpses being reassembled.",
+    "right": "Biblical resurrection affirms the whole embodied person—awakened by God's love, in fellowship—and matter's future: not Greek soul-survival, nor restored physical bodies.",
+    "quote": "not by virtue of their own power, but because they are known and loved by God",
+    "page": 250
+   },
+   "argument": {
+    "tension": "Greek deathless-soul fits modern minds but abandons the body; literal resurrection of flesh offends modern physics—both answers look impossible.",
+    "move": "He removes the Greek-biblical overlay: Paul teaches resurrection of persons in transformed form—dialogic immortality, awakening by God's love.",
+    "payoff": "The whole person and matter have a future; fellowship persists, and 'soul' is re-grounded as being God's partner in dialogue."
+   },
+   "rubric": [
+    "Whole person rises, not separable soul",
+    "Awakening: held in being by God's love",
+    "Transformed person, not restored physical body"
+   ]
   },
   {
    "id": "p3-4",
@@ -2004,7 +2772,23 @@ window.SITE = {
     "subjective faith"
    ],
    "article": 8,
-   "part": "three"
+   "part": "three",
+   "misreading": {
+    "wrong": "The Holy Spirit is a vague feeling of religious enthusiasm—a pious atmosphere—not a distinct divine power whose coming reshapes faith and Church.",
+    "right": "The Spirit is the risen Christ's living presence—love stronger than death—who personalizes faith through forgiveness and gathers believers into one body.",
+    "quote": "the Holy Spirit as the power through which the risen Lord remains present in the history of the world",
+    "page": 235
+   },
+   "argument": {
+    "tension": "Spirit-teaching drifts into vague edification; Church-teaching turns institutional—split apart, both lose their function in Christian consciousness.",
+    "move": "He holds them together: the Spirit is God's power in history; the Church is his sacramental activity—forgiveness creating communion.",
+    "payoff": "Faith becomes personal and ecclesial at once: one bread, one body; the Spirit is love that overleaps death, transforming world to resurrection."
+   },
+   "rubric": [
+    "The Spirit is Christ's living presence in history",
+    "He personalizes: forgiveness creates communion",
+    "Spirit and Church inseparable—word and sacrament"
+   ]
   },
   {
    "id": "p3-5",
@@ -2045,7 +2829,996 @@ window.SITE = {
     "faith and reason"
    ],
    "article": 11,
-   "part": "three"
+   "part": "three",
+   "misreading": {
+    "wrong": "Faith is a blind leap into the irrational—believing what contradicts reason, a private feeling set against knowledge and evidence.",
+    "right": "Faith is stand-understand: entrusting myself to the ground I did not make—the logos, truth itself—where believing, trusting, and loving become one.",
+    "quote": "its central formula is not “I believe in something”, but “I believe in you.”",
+    "page": 56
+   },
+   "argument": {
+    "tension": "Practical knowledge makes and proves; meaning cannot be made or proven—yet man cannot live without meaning.",
+    "move": "He distinguishes planes: belief stands on received ground; understanding grows only from belief—so faith fulfills reason instead of canceling it.",
+    "payoff": "The Creed's 'I believe' and 'Amen' converge in 'I believe in you'—the discovery of God in the face of Jesus."
+   },
+   "rubric": [
+    "Faith stands on ground not self-made",
+    "Believing, trusting, loving fuse in a You",
+    "Faith enables understanding; not irrational escape"
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "id": "credo-cordare",
+   "term": "cre-do / cor-dare",
+   "origin": "Latin",
+   "pronunciation": "KREH-do / kor-DAH-reh",
+   "definition": "Wordplay on credo (I believe) and cor-dare (to give one's heart): to believe is to hand over the heart, entrusting oneself, not merely assenting to facts.",
+   "nuance": "For Ratzinger believing is entrusting, not program: faith belongs to \"stand-understand\", not \"know-make\"; the heart is given to a ground one did not make.",
+   "page": 49,
+   "cards": [
+    "intro-6",
+    "intro-11",
+    "p3-5"
+   ]
+  },
+  {
+   "id": "fides-quae-qua",
+   "term": "fides quae / fides qua",
+   "origin": "Latin (scholastic)",
+   "pronunciation": "FEE-des KWAY / FEE-des KWAH",
+   "definition": "Distinguishes faith's content, fides quae (what is believed), from fides qua: the personal act of believing, the faith by which one believes.",
+   "nuance": "Ratzinger reverses the felt priority: by origin faith is \"not a recitation of doctrines\" but \"conversion, an about-turn, a shift of being\"; content lives in the act.",
+   "page": 62,
+   "cards": [
+    "intro-3",
+    "intro-11",
+    "intro-12"
+   ]
+  },
+  {
+   "id": "anonymous-belief",
+   "term": "“anonymous” belief",
+   "origin": "Modern usage",
+   "pronunciation": "—",
+   "definition": "Belief without the name faith: the unavoidable basic decision every person makes about meaning; no one stands outside some act of entrusting.",
+   "nuance": "Ratzinger rules out unbelief in principle: positivist and Marxist alike stake life on meaning, for man \"is bound to have some kind of “belief”\"; credo is conversion, not acquisition.",
+   "page": 51,
+   "cards": [
+    "intro-3",
+    "intro-5",
+    "intro-6"
+   ]
+  },
+  {
+   "id": "i-believe-in-you",
+   "term": "“I believe in you”",
+   "origin": "Baptismal dialogue (credo in te)",
+   "pronunciation": "—",
+   "definition": "Faith's central formula: not assent to something but trust in the You who upholds me, the personal character of Christian belief.",
+   "nuance": "The book's culmination: \"its central formula is not “I believe in something”\"; the meaning of the world is a person, and faith is \"the encounter with the man Jesus\".",
+   "page": 56,
+   "cards": [
+    "intro-8",
+    "intro-12",
+    "p3-5"
+   ]
+  },
+  {
+   "id": "amen",
+   "term": "‘mn / Amen",
+   "origin": "Hebrew root",
+   "pronunciation": "ah-MEN",
+   "definition": "The root shared by Amen and belief: truth, firm ground, loyalty, trust; faith as taking a stand on what upholds.",
+   "nuance": "Ratzinger rings the whole Creed with it: \"In the harmony of “Credo” and “Amen”\" the meaning becomes visible; believing is trustful standing toward logos, not blind surrender.",
+   "page": 53,
+   "cards": [
+    "intro-6",
+    "intro-7"
+   ]
+  },
+  {
+   "id": "etsi-deus",
+   "term": "etsi Deus non daretur",
+   "origin": "Latin",
+   "pronunciation": "ET-see DEH-oos non dah-TEH-toor",
+   "definition": "Even if God did not exist: conducting public life as though God were irrelevant, faith kept private, with nothing left for God to do.",
+   "nuance": "The 1989 preface's diagnosis: Christianity lived this way by default, and the bill arrives when \"God is dead\" is taken to heart and man becomes raw material.",
+   "page": 15,
+   "cards": [
+    "intro-1"
+   ]
+  },
+  {
+   "id": "ehyeh-asher-ehyeh",
+   "term": "Ehyeh asher Ehyeh",
+   "origin": "Hebrew (Exodus 3:14)",
+   "pronunciation": "EH-yeh AH-sher EH-yeh",
+   "definition": "God's answer to Moses at the burning bush: \"I AM WHO I AM\" (or: I am what I am), unfolded into the revealed name Yahweh.",
+   "nuance": "Ratzinger hears \"a refusal to give a name\" as much as a name: the answer cancels the name into mystery yet promises presence, identity as being-for.",
+   "page": 88,
+   "cards": [
+    "p1-3",
+    "p1-5"
+   ]
+  },
+  {
+   "id": "yahweh",
+   "term": "Yahweh",
+   "origin": "Hebrew",
+   "pronunciation": "YAH-weh",
+   "definition": "Israel's revealed name of God, explained by I am; Ratzinger reads its root as being: the one who simply is, enduring presence and promise.",
+   "nuance": "He weds the Name to philosophical Being yet transforms both: \"he is there for us\", \"he is our God\"; being turns out to be faithful presence.",
+   "page": 90,
+   "cards": [
+    "p1-3",
+    "p1-5",
+    "p1-7"
+   ]
+  },
+  {
+   "id": "el-elohim",
+   "term": "El / Elohim",
+   "origin": "Hebrew",
+   "pronunciation": "EL / el-oh-HEEM",
+   "definition": "The patriarchal names for God: El, the personal highest God met on the I-You plane; Elohim, a plural form used for Israel's one God.",
+   "nuance": "Ratzinger reads the strange plural as a pointer past our categories: God \"lies beyond them\"; even the number one cannot contain him, a hint of Trinity.",
+   "page": 87,
+   "cards": [
+    "p1-4",
+    "p1-13"
+   ]
+  },
+  {
+   "id": "god-of-the-fathers",
+   "term": "the “God of the fathers”",
+   "origin": "Biblical (Abraham, Isaac, Jacob)",
+   "pronunciation": "—",
+   "definition": "God as the patriarchs met him: personal, promise-bound, tied to no shrine, the numen personale over against the local numen.",
+   "nuance": "The inner assumption of Yahweh-faith: relation before place, hope before power, for \"He is not the god of a place but the god of men\".",
+   "page": 86,
+   "cards": [
+    "p1-4",
+    "p1-5"
+   ]
+  },
+  {
+   "id": "name-of-god",
+   "term": "the name of God",
+   "origin": "Biblical usage (Hebrew)",
+   "pronunciation": "—",
+   "definition": "Not a definition of God's essence but his self-giving: to name himself is to become invocable, entering relation and coexistence with us.",
+   "nuance": "Ratzinger contrasts name with concept: concepts grasp things in themselves, but God's self-naming is \"making himself nameable\", \"handing himself over to men\", fulfilled when the name becomes a person.",
+   "page": 93,
+   "cards": [
+    "p1-3",
+    "p1-5",
+    "p1-6"
+   ]
+  },
+  {
+   "id": "deus-absconditus",
+   "term": "Deus absconditus / Deus revelatus",
+   "origin": "Latin",
+   "pronunciation": "DEH-oos ab-SKON-di-tus / reh-veh-LAH-toos",
+   "definition": "The hidden God and the revealed God: biblical self-disclosure conceals as it reveals; the name withdraws into mystery while promising presence.",
+   "nuance": "In the burning bush both hold at once: \"concealment and revelation\" are simultaneous; the Name dissolves into mystery yet becomes invocable nearness.",
+   "page": 89,
+   "cards": [
+    "p1-5",
+    "p1-7",
+    "p2b-4"
+   ]
+  },
+  {
+   "id": "analogia-entis",
+   "term": "analogia entis",
+   "origin": "Latin (scholastic)",
+   "pronunciation": "ah-na-LO-gi-ah EN-tis",
+   "definition": "The analogy of being: creatures resemble God only under a still greater unlikeness; all God-talk is analogical, never literal or exhaustive.",
+   "nuance": "Ratzinger invokes the Lateran rule whenever God is named: what we say is always outstripped, the difference remaining \"greater than what they have in common\".",
+   "page": 19,
+   "cards": [
+    "intro-1",
+    "p1-7",
+    "p1-9"
+   ]
+  },
+  {
+   "id": "verum-quia-factum",
+   "term": "verum quia factum / faciendum",
+   "origin": "Latin (Vico; Marx)",
+   "pronunciation": "WEH-rum KEE-ah FAK-tum / fah-KI-en-dum",
+   "definition": "True because made: \"all that we can truly know is what we have made ourselves\" (Vico); modernity adds the faciendum, the makeable future we must produce.",
+   "nuance": "Ratzinger diagnoses modernity's makability and Marxism's faciendum politics: belief cannot be consigned to fact or project, for meaning is received, never manufactured.",
+   "page": 43,
+   "cards": [
+    "intro-5",
+    "intro-6"
+   ]
+  },
+  {
+   "id": "logos",
+   "term": "logos",
+   "origin": "Greek",
+   "pronunciation": "LOG-oss",
+   "definition": "Word, reason, meaning: the mind at the heart of being, and John's title for Christ, in whom meaning is personal and has a face.",
+   "nuance": "Ratzinger makes logos faith's ground: meaning is received, not made, and is truth; \"The indivisibility of meaning, ground, and truth\" unites Creed and philosophy.",
+   "page": 55,
+   "cards": [
+    "intro-6",
+    "intro-7",
+    "p1-8",
+    "p1-11",
+    "p2a-8"
+   ]
+  },
+  {
+   "id": "mythos",
+   "term": "mythos",
+   "origin": "Greek",
+   "pronunciation": "MY-thoss",
+   "definition": "Myth, sacred story: the religious worldview the early Church refused when it chose truth over custom and the philosophers' God over the gods.",
+   "nuance": "He names the choice \"opting for the logos as against any kind of myth\", a definitive demythologization, and warns that retreat into piety repeats antiquity's failure.",
+   "page": 97,
+   "cards": [
+    "p1-8",
+    "p2a-2",
+    "p2a-7"
+   ]
+  },
+  {
+   "id": "creatio-ex-nihilo",
+   "term": "creatio ex nihilo",
+   "origin": "Latin",
+   "pronunciation": "kreh-TI-o ex NEE-hi-lo",
+   "definition": "Creation out of nothing: the world is sheer gift, matter included, held in being by a freedom that owes it nothing.",
+   "nuance": "It is the grammar of grace: the Virgin Birth replays creation, the God \"who created being out of nothing\", so salvation is new creation, never achievement.",
+   "page": 196,
+   "cards": [
+    "p1-11",
+    "p2b-2"
+   ]
+  },
+  {
+   "id": "homoousios",
+   "term": "homoousios",
+   "origin": "Greek (Nicene)",
+   "pronunciation": "hom-oh-OO-see-oss",
+   "definition": "Greek: of one substance with the Father. Nicaea's formula that the Son shares the Father's very being, \"the standard of orthodoxy\" from the fourth century.",
+   "nuance": "Ratzinger reads the formula as \"a frontier notice\": it \"had been condemned in the third century\" itself, usable only as baffled speech guarding the mystery.",
+   "page": 121,
+   "cards": [
+    "p1-13",
+    "p1-14"
+   ]
+  },
+  {
+   "id": "ousia-hypostasis",
+   "term": "ousia / hypostasis",
+   "origin": "Greek",
+   "pronunciation": "oo-SEE-ah / hoo-POS-tah-sis",
+   "definition": "Being and person: the Creed's one being in three Persons, oneness on the level of substance, threeness as relation.",
+   "nuance": "He revolutionizes the pair with Augustine: \"accidents, only substance and relation\"; person is pure relatedness, so relation is as primordial as substance.",
+   "page": 129,
+   "cards": [
+    "p1-13",
+    "p1-14"
+   ]
+  },
+  {
+   "id": "kyrios",
+   "term": "kyrios",
+   "origin": "Greek",
+   "pronunciation": "KOO-ree-oss",
+   "definition": "Lord: the Greek Bible's substitute for the unspeakable divine Name, confessed of Jesus in the Creed as our Lord, the title the Cross redefines.",
+   "nuance": "Ratzinger redefines the title through the Cross: true lordship is pure self-giving; the cosmos bows before \"the slaughtered Lamb\", not before power.",
+   "page": 156,
+   "cards": [
+    "p1-5",
+    "p2a-8",
+    "p2a-11"
+   ]
+  },
+  {
+   "id": "kenosis",
+   "term": "kenosis",
+   "origin": "Greek (Philippians 2)",
+   "pronunciation": "keh-NO-sis",
+   "definition": "Self-emptying: Christ's surrender of existence for himself to become servant, the Latin exinanivit, \"he “emptied” himself\", the hinge of the Philippians hymn.",
+   "nuance": "Ratzinger makes kenosis the key to divinity: \"the pure movement of the “for”\" is precisely his glory; the emptied one becomes lord of the whole cosmos.",
+   "page": 155,
+   "cards": [
+    "p2a-8",
+    "p2a-9",
+    "p2a-11"
+   ]
+  },
+  {
+   "id": "pro-nobis",
+   "term": "pro nobis",
+   "origin": "Latin",
+   "pronunciation": "pro NO-bis",
+   "definition": "For us: Christ's being is wholly directed to others, \"the “for us”\" around which the Bible gathers election, representation, and redemption.",
+   "nuance": "With Barth, Ratzinger calls this functional Christology: \"the whole being of Jesus is a function\" of \"the “for us”\"; there is no private “I” behind his work.",
+   "page": 144,
+   "cards": [
+    "p2a-3",
+    "p2a-5",
+    "p2a-10"
+   ]
+  },
+  {
+   "id": "last-man",
+   "term": "the “last man”",
+   "origin": "Pauline (1 Cor 15:45)",
+   "pronunciation": "—",
+   "definition": "The last Adam: Christ as exemplary and final man who gathers humanity and carries it, with God, into its future.",
+   "nuance": "Ratzinger: \"the exemplary man\" oversteps humanity by pure openness, \"final man, who takes man into his future\"; his existence concerns all mankind, not one exception.",
+   "page": 165,
+   "cards": [
+    "p2a-10",
+    "p2a-11"
+   ]
+  },
+  {
+   "id": "ad-inferos",
+   "term": "“descended into hell” (ad inferos)",
+   "origin": "Latin (Creed article)",
+   "pronunciation": "ad in-FEH-ros",
+   "definition": "Christ's entry into death itself: the final loneliness and godforsakenness from which no voice returns, not a geography of torment beneath the earth.",
+   "nuance": "Ratzinger calls it the most modern article: solidarity, not scenery, for he passed \"gate of our final loneliness\" and \"the abyss of our abandonment\".",
+   "page": 212,
+   "cards": [
+    "p2b-4"
+   ]
+  },
+  {
+   "id": "eschaton",
+   "term": "eschaton / eschatology",
+   "origin": "Greek (eschatos)",
+   "pronunciation": "es-KAH-ton / es-kah-TOL-oh-jee",
+   "definition": "The last thing: history's end and goal, Christ's return, the world's omega and judgment, already breaking through in Jesus' Resurrection.",
+   "nuance": "Ratzinger collapses the distance: \"end-eschatology\" and Resurrection \"are in reality one and the same thing\"; the end has begun, \"the eschatological happening\".",
+   "page": 225,
+   "cards": [
+    "p2a-11",
+    "p2b-5",
+    "p2b-7"
+   ]
+  },
+  {
+   "id": "parousia",
+   "term": "parousia",
+   "origin": "Greek",
+   "pronunciation": "par-oo-SEE-ah",
+   "definition": "Presence, coming: Christ's return in glory and the world's consummation, cried for in the early Church's Maran atha, \"Our Lord, come\".",
+   "nuance": "Ratzinger sets Maran atha against Dies irae: the first Christians waited with hope, not dread; the Creed's bare judgment-line must be read back within mercy.",
+   "page": 229,
+   "cards": [
+    "p2b-6",
+    "p2b-7"
+   ]
+  },
+  {
+   "id": "judge",
+   "term": "the “judge”",
+   "origin": "Creed language",
+   "pronunciation": "—",
+   "definition": "The coming judge of living and dead: the last court of appeal that preserves justice in order to perfect love rather than destroy it.",
+   "nuance": "Ratzinger turns terror into hope: judgment is handed to our brother, \"It is not a stranger who judges us\"; the judge has suffered and knows us from within.",
+   "page": 230,
+   "cards": [
+    "p2b-7"
+   ]
+  },
+  {
+   "id": "sacrament",
+   "term": "sacrament",
+   "origin": "Latin (sacramentum)",
+   "pronunciation": "SAK-rah-ment",
+   "definition": "Effective sign of God's gift, baptism, Eucharist, penance, through which the Church is made one and grace becomes touchable.",
+   "nuance": "Constitutive, not ornamental: \"Church and sacrament stand or fall together\", and the Creed itself is baptismal, born in the sacrament of conversion.",
+   "page": 239,
+   "cards": [
+    "intro-9",
+    "p3-1",
+    "p3-2"
+   ]
+  },
+  {
+   "id": "catholic-katholou",
+   "term": "catholic / katholou",
+   "origin": "Greek (kath’ holou)",
+   "pronunciation": "KATH-ol-ik / kath-HOL-oo",
+   "definition": "According to the whole: the Church's wholeness, locally one around the bishop, universally one across all places and peoples.",
+   "nuance": "Not a boast but a demand: catholicity is \"visible unity\" of Word and sacrament, \"the necessity for the unity of all the bishops with one another\".",
+   "page": 244,
+   "cards": [
+    "p3-1",
+    "p3-2"
+   ]
+  },
+  {
+   "id": "communion-of-saints",
+   "term": "“communion of saints”",
+   "origin": "Latin (communio sanctorum)",
+   "pronunciation": "—",
+   "definition": "The fellowship formed by the holy gifts, Eucharist, baptism, forgiveness, binding the baptized across the earth and beyond death.",
+   "nuance": "Ratzinger recovers the sacramental root: sanctorum \"does not refer to persons but means the holy gifts\"; communion is made by worship, not mustered by holy people.",
+   "page": 236,
+   "cards": [
+    "p3-1",
+    "p3-2"
+   ]
+  },
+  {
+   "id": "resurrection-of-the-body",
+   "term": "“resurrection of the body”",
+   "origin": "Creed (Lat. resurrectio carnis)",
+   "pronunciation": "—",
+   "definition": "The promise that the whole embodied person, not a separated soul, lives on, awakened by God at the end, together with all mankind.",
+   "nuance": "Ratzinger defuses the scandal: the hope concerns \"the one, undivided man\", not reassembled bodies; \"man can no longer totally perish\" because God loves him into life.",
+   "page": 247,
+   "cards": [
+    "p2b-5",
+    "p3-1",
+    "p3-3"
+   ]
+  }
+ ],
+ "thinkers": [
+  {
+   "id": "balthasar",
+   "name": "Hans Urs von Balthasar",
+   "tradition": "Theologian of glory, drama, and time; Ratzinger's closest ally",
+   "claim": "In Jesus eternity enters time: the Son who has time for God is where God has time for the world.",
+   "counter": "Ratzinger: eternity is not timelessness but dominion over time, the creatively supporting power of the present in every age.",
+   "quote": "Son, who has time, in the world, for God, is the point at which God has time for the world.",
+   "page": 224,
+   "cards": [
+    "p2b-6"
+   ]
+  },
+  {
+   "id": "de-lubac",
+   "name": "Henri de Lubac",
+   "tradition": "Jesuit theologian; the Church's holiness and atheistic humanism's drama",
+   "claim": "The Church is holy not because her members are holy but because the Lord bestows holiness on her unmerited.",
+   "counter": "Ratzinger: holiness is not separation but union; Christ drew sin to himself, so the Church bears the lost within her.",
+   "quote": "a “holy Church” that is holy because the Lord bestows holiness on her as a quite unmerited gift",
+   "page": 243,
+   "cards": [
+    "p3-2"
+   ]
+  },
+  {
+   "id": "guardini",
+   "name": "Romano Guardini",
+   "tradition": "Catholic theologian of revelation; discernment of what is Christian",
+   "claim": "True humility lets God do what seems to us unfitting — to bow down in Christ — rather than contriving God for ourselves.",
+   "counter": "Ratzinger: bracketing Christ's divinity gains nothing; the fear that it alienates him hides distrust of God's astonishing nearness.",
+   "quote": "the higher form of humility consists in allowing God to do precisely what appears to us to be unfitting",
+   "page": 23,
+   "cards": [
+    "intro-1",
+    "p2a-6"
+   ]
+  },
+  {
+   "id": "augustine",
+   "name": "Augustine of Hippo",
+   "tradition": "Bishop of Hippo; Trinity as relation, faith seeking understanding",
+   "claim": "God is substance and relation: Father is relation to Son; person is pure relation, the exchange of word and love.",
+   "counter": "Ratzinger: relation is an equally valid primordial mode of reality; yet the early Augustine's “God and the soul” program is unchristian.",
+   "quote": "In God there are no accidents, only substance and relation.",
+   "page": 129,
+   "cards": [
+    "p1-13",
+    "p1-14"
+   ]
+  },
+  {
+   "id": "anselm",
+   "name": "Anselm of Canterbury",
+   "tradition": "Medieval theologian; satisfaction theory of atonement, Cur Deus homo",
+   "claim": "Sin infinitely offends God; only the God-man can make infinite satisfaction, restoring by necessary reasons the violated order of justice.",
+   "counter": "Ratzinger: Anselm's rigid legal logic distorts perspectives and darkens God; the Cross is Christ's self-giving, not a payment God demands.",
+   "quote": "the perfectly logical divine-cum-human legal system erected by Anselm distorts the perspectives",
+   "page": 164,
+   "cards": [
+    "p2a-10",
+    "p2b-3"
+   ]
+  },
+  {
+   "id": "irenaeus",
+   "name": "Irenaeus of Lyon",
+   "tradition": "Early Church Father; Christ recapitulates humanity, restoring fallen Adam",
+   "claim": "Christ recapitulates humanity's whole history, gathering the creature “Adam” in himself and restoring in himself what the first Adam lost.",
+   "counter": "Ratzinger: the gathering takes the form of the Cross; the “body of Christ” must draw to itself the whole of mankind.",
+   "quote": "So if Jesus is called “Adam”, this implies that he is intended to gather the whole creature “Adam” in himself.",
+   "page": 166,
+   "cards": [
+    "p2a-11"
+   ]
+  },
+  {
+   "id": "bultmann",
+   "name": "Rudolf Bultmann",
+   "tradition": "New Testament scholar; kerygma theology and demythologizing",
+   "claim": "Only Jesus' bare existence matters; faith rests not on uncertain historical hypotheses but on the preached word that opens closed existence.",
+   "counter": "Ratzinger: an empty event is no easier to swallow than one filled with content; who Jesus is cannot be bypassed.",
+   "quote": "But is an empty event any easier to swallow than one filled with content?",
+   "page": 141,
+   "cards": [
+    "p2a-2",
+    "p2b-6"
+   ]
+  },
+  {
+   "id": "rahner",
+   "name": "Karl Rahner",
+   "tradition": "Jesuit theologian; Ratzinger's great creditor, but he resists transcendental method",
+   "claim": "The transcendental method grounds faith in the subject's self-experience, where God is already encountered as the horizon within.",
+   "counter": "With Baader and Möhler, Ratzinger: knowledge of God, like love, is never deduced from self-awareness but always comes “from another”.",
+   "quote": "human knowledge is only reality when it is being known, being brought to knowledge, and thus again “from another”",
+   "page": 173,
+   "cards": [
+    "p2b-1"
+   ]
+  },
+  {
+   "id": "feuerbach",
+   "name": "Ludwig Feuerbach",
+   "tradition": "Philosopher of religion; God as man's projected essence",
+   "claim": "Religion is a wish-dream: man projects his own essence as God; maturity means shaking off the dream and facing reality.",
+   "counter": "Ratzinger: faith is no wish-fulfillment — Christianity's God comes so near that we can kill him and absents himself on Holy Saturday.",
+   "quote": "Have we not a duty to break with the dream and to face reality?",
+   "page": 40,
+   "cards": [
+    "intro-4",
+    "p2b-4"
+   ]
+  },
+  {
+   "id": "marx",
+   "name": "Karl Marx",
+   "tradition": "Philosopher of praxis; change the world rather than interpret it",
+   "claim": "Philosophy must stop interpreting the world and change it; truth lies in the makable future, not in received being.",
+   "counter": "Ratzinger: the Credo is not a program for changing the world; belief lives on neither the plane of fact nor makability.",
+   "quote": "So far philosophers have merely interpreted the world in various ways; it is necessary to change it.",
+   "page": 45,
+   "cards": [
+    "intro-5",
+    "p2b-1"
+   ]
+  },
+  {
+   "id": "nietzsche",
+   "name": "Friedrich Nietzsche",
+   "tradition": "Philosopher; death of God, the last man, revaluation of values",
+   "claim": "God is dead and we have killed him; the Christian God is overcome and man must become more than mere man.",
+   "counter": "Ratzinger: Nietzsche's cry is Holy Saturday, already confessed in the Creed; the image of God we formed had to die.",
+   "quote": "Holy Saturday is the day of the “death of God”, the day that expresses the unparalleled experience of our age",
+   "page": 207,
+   "cards": [
+    "p2b-4",
+    "p2a-11"
+   ]
+  },
+  {
+   "id": "hegel",
+   "name": "G. W. F. Hegel",
+   "tradition": "Idealist philosopher; God realized in the historical process",
+   "claim": "Read speculatively, the Trinity is the key to being: God comes to himself only in history's dialectical process.",
+   "counter": "Ratzinger: total logic dissolves into myth — a God born historically — and turns political: the apotheosis of the state.",
+   "quote": "The attempt at total logic ends in illogicality, in the self-dissolution of logic into myth.",
+   "page": 120,
+   "cards": [
+    "p1-13",
+    "intro-5"
+   ]
+  },
+  {
+   "id": "bloch",
+   "name": "Ernst Bloch",
+   "tradition": "Marxist philosopher of hope and utopia",
+   "claim": "Hope is praxis toward the future we make: the suffering proletariat redeems the world through class struggle, not grace.",
+   "counter": "Ratzinger: man comes to himself not through what he does but what he accepts; the Cross is a suffering-for, not struggle-against.",
+   "quote": "Here lies possibly the deepest division between the Christian principle of hope and its Marxist modification.",
+   "page": 187,
+   "cards": [
+    "p2b-1"
+   ]
+  },
+  {
+   "id": "heidegger",
+   "name": "Martin Heidegger",
+   "tradition": "Phenomenologist of thinking and being; calculative versus reflective thought",
+   "claim": "Calculating thought and reflective thought are both legitimate and irreducible; today calculation's triumphs threaten man with thoughtlessness.",
+   "counter": "Ratzinger completes the pair: reflective thought needs a ground to stand on — the logos; understanding grows only out of belief.",
+   "quote": "calculating thought, which is concerned with “makability”, and reflective thought, which is concerned with meaning",
+   "page": 51,
+   "cards": [
+    "intro-5",
+    "intro-6"
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "guardini-humility",
+   "year": 2000,
+   "title": "Guardini's higher humility",
+   "what": "The fear that Christ's divinity makes him distant is backwards: only as true God is Jesus our contemporary. The higher humility lets God do what seems unfitting — bow down to us.",
+   "quote": "the higher form of humility consists in allowing God to do precisely what appears to us to be unfitting",
+   "page": 23,
+   "cards": [
+    "p2a-2",
+    "p2a-6",
+    "p2a-8"
+   ]
+  },
+  {
+   "id": "divinization",
+   "year": 2000,
+   "title": "No divinizing of the world",
+   "what": "He heads off the pantheist misreading of the Trinity chapter: the world is created by the personal logos and is good — it shares the divine as gift, never as identity.",
+   "quote": "The world comes from reason, and this reason is a Person, is Love",
+   "page": 22,
+   "cards": [
+    "p1-11",
+    "p1-13",
+    "p1-14"
+   ]
+  },
+  {
+   "id": "privatized-god",
+   "year": 2000,
+   "title": "The God with nothing to do",
+   "what": "The deeper problem is not militant atheism but the privatized God of a faith lived etsi Deus non daretur: when faith went public it left God unemployed in the private sphere.",
+   "quote": "to leave God as a God with nothing to do",
+   "page": 15,
+   "cards": [
+    "intro-1"
+   ]
+  },
+  {
+   "id": "marxism-1989",
+   "year": 2000,
+   "title": "1968 and 1989 milestones",
+   "what": "1989 refutes Marxism's ethical promise — the guide to the future collapsed into ruined land and ruined souls — yet Christianity still failed to sound as the epoch-making alternative.",
+   "quote": "a sorry legacy of ruined land and ruined souls",
+   "page": 11,
+   "cards": [
+    "intro-1"
+   ]
+  },
+  {
+   "id": "reception-1969",
+   "year": 1969,
+   "title": "Reception and reprint policy",
+   "what": "The book found unexpected readers across the East-West boundary and denominations; technical criticisms were answered elsewhere, and the 1969 reprint keeps the text unaltered apart from minor errors.",
+   "quote": "The book itself is being reprinted with the text unaltered; just a few minor errors have been corrected.",
+   "page": 27,
+   "cards": [
+    "intro-1",
+    "p3-2"
+   ]
+  },
+  {
+   "id": "clever-hans",
+   "year": 1968,
+   "title": "Gold traded for a whetstone",
+   "what": "The book refuses both errors of its moment: theology's stepwise watering-down of faith (gold traded to a whetstone) and mere restoration, which leaves the old formulas a dead lump of metal.",
+   "quote": "merely sticking to the precious metal of the fixed formulas of days gone by",
+   "page": 25,
+   "cards": [
+    "intro-1",
+    "intro-11"
+   ]
+  },
+  {
+   "id": "what-would-change",
+   "year": 2000,
+   "title": "What he would rewrite",
+   "what": "Thirty years on he would widen the interreligious context, but not the architecture: God and Christ at the center, narrative Christology, faith's place in the Church — the basic approach stands.",
+   "quote": "I believe that I was not mistaken as to the fundamental approach",
+   "page": 24,
+   "cards": [
+    "p1-1",
+    "p2b-8",
+    "p3-2"
+   ]
+  }
+ ],
+ "scripture": [
+  {
+   "id": "ex3",
+   "ref": "Exodus 3:13-15",
+   "text": "Moses asks God's name; God answers \"I am who I am\" — the God of the fathers.",
+   "ratzinger": "Calls the burning bush the central Old Testament text on God: the revelation of the name to Moses lays the foundation for Israel's idea of God, the thread for all that follows.",
+   "page": 81,
+   "cards": [
+    "p1-3",
+    "p1-5"
+   ]
+  },
+  {
+   "id": "ex3-name",
+   "ref": "Exodus 3:14",
+   "text": "God's answer \"I am\" — a refusal of name that dissolves into mystery, yet promises \"I am here for you\".",
+   "ratzinger": "He reads the name both ways at once: gesture of repulse that \"dissolves the name into mystery\", and promise — \"I am\" means \"I am here for you\", God's being is Being-for.",
+   "page": 89,
+   "cards": [
+    "p1-5",
+    "p1-6"
+   ]
+  },
+  {
+   "id": "jn1",
+   "ref": "John 1:1-3, 14",
+   "text": "The eternal Word through whom all things were made became flesh — John's logos hymn.",
+   "ratzinger": "Ever since John's Prologue logos stands at Christianity's center: meaning that is Word, relationship, creative reason — guaranteeing the world's intelligibility and its goodness.",
+   "page": 22,
+   "cards": [
+    "p1-11",
+    "p1-14",
+    "p2a-6"
+   ]
+  },
+  {
+   "id": "gen1-26",
+   "ref": "Genesis 1:26",
+   "text": "\"Let us make man\" — the plural in which the Fathers found a \"We\" in God.",
+   "ratzinger": "Scripture's grammar supplies the Trinity: in God dialogue, an \"I\" and \"You\". This forces the concept person — relation gains a new dignity beside substance.",
+   "page": 128,
+   "cards": [
+    "p1-13",
+    "p1-14"
+   ]
+  },
+  {
+   "id": "jn17",
+   "ref": "John 17:6, 26",
+   "text": "\"I have manifested your name to the men whom you gave me out of the world\"",
+   "ratzinger": "John 17 is the New Testament counterpart to the burning bush: Christ is the burning bush from which God's name issues; made known, that name draws believers into the love of Father and Son.",
+   "page": 92,
+   "cards": [
+    "p1-6",
+    "p1-14"
+   ]
+  },
+  {
+   "id": "phil2",
+   "ref": "Philippians 2:5-11",
+   "text": "Christ empties himself, taking the form of a servant, obedient to death on a cross.",
+   "ratzinger": "The hymn's fullest statement of son-as-servant: exinanivit — he \"emptied\" himself, surrendering existence-for-self into pure \"for\"; there the servant becomes the true ruler, lord of the cosmos.",
+   "page": 155,
+   "cards": [
+    "p2a-8",
+    "p2b-3"
+   ]
+  },
+  {
+   "id": "ps2",
+   "ref": "Psalm 2:7-8",
+   "text": "\"You are my son, today I have begotten you. Ask of me, and I will make the nations your heritage.\"",
+   "ratzinger": "The coronation oracle explains Cross and Resurrection: Son of God is Israel's royal theology of election and hope — kingship as standing for others — never Hellenistic myth.",
+   "page": 154,
+   "cards": [
+    "p2a-8",
+    "p2b-5"
+   ]
+  },
+  {
+   "id": "jn10",
+   "ref": "John 10:9",
+   "text": "The Good Shepherd says he is the door: whoever enters through him is saved.",
+   "ratzinger": "From the Good Shepherd discourse: Christ is the door between God and man — in him the Eternal One has time for the world, so the ascended Lord is near.",
+   "page": 223,
+   "cards": [
+    "p2b-6"
+   ]
+  },
+  {
+   "id": "rev20",
+   "ref": "Revelation 20:14",
+   "text": "Death and Hades thrown into the lake of fire — the \"second death\".",
+   "ratzinger": "Since love now dwells in death, death itself is no longer hell; only deliberate self-enclosure — the second death — is. The descent redefines hell anthropologically.",
+   "page": 212,
+   "cards": [
+    "p2b-4"
+   ]
+  },
+  {
+   "id": "lk15",
+   "ref": "Luke 15:1-10",
+   "text": "The shepherd searches for the one lost sheep; heaven rejoices more over one sinner who repents.",
+   "ratzinger": "Uses the lost sheep and drachma to transform the philosophical God: the Bible's God seeks, loves, and rejoices — the question of who God is is asked and answered here.",
+   "page": 101,
+   "cards": [
+    "p1-9"
+   ]
+  }
+ ],
+ "creedWords": [
+  {
+   "word": "I believe",
+   "article": 0,
+   "means": "Believing is entrusting the whole self to a personal ground that knows and loves me, standing on it, not merely accepting claims.",
+   "excludes": "Faith as opinion without evidence, assent to doctrines one does not live, or a program for making the world better.",
+   "quote": "in the last analysis believing, trusting, and loving are one",
+   "page": 57,
+   "cards": [
+    "intro-6",
+    "intro-8",
+    "p3-5"
+   ]
+  },
+  {
+   "word": "the Father almighty",
+   "article": 0,
+   "means": "God is at once intimate Father and Pantokrator: family love and cosmic power held together; his might is revealed as crib and Cross.",
+   "excludes": "Almighty as arbitrary force crushing resistance, or Father as a distant first cause who cannot be addressed or loved.",
+   "quote": "calling God simultaneously “Father” and “Almighty”, the Creed has joined together a family concept and the concept of cosmic power",
+   "page": 104,
+   "cards": [
+    "p1-10",
+    "p1-12"
+   ]
+  },
+  {
+   "word": "creator of heaven and earth",
+   "article": 0,
+   "means": "Creation is thought and freedom: God gives what he thinks its own independent being, so reality rests on meaning and love, not blind necessity.",
+   "excludes": "God as craftsman shaping stubborn matter, the world as emanation or illusion, or a monistic ground that knows no freedom.",
+   "quote": "the model from which creation must be understood is not the craftsman but the creative mind",
+   "page": 110,
+   "cards": [
+    "p1-9",
+    "p1-11"
+   ]
+  },
+  {
+   "word": "his only Son",
+   "article": 1,
+   "means": "Sonship is ontological, not biological: Jesus is from God in his very being, the eternal Word whose life is the Abba dialogue.",
+   "excludes": "A good man adopted by God, or a physically begotten demigod of pagan myth; the virgin birth grounds no divinity.",
+   "quote": "the Divine Sonship of which faith speaks is not a biological but an ontological fact",
+   "page": 193,
+   "cards": [
+    "p2a-8",
+    "p2b-2"
+   ]
+  },
+  {
+   "word": "our Lord",
+   "article": 1,
+   "means": "Jesus is Lord precisely as servant-king: his rule is being-for-others to the Cross, a love that commands by giving itself.",
+   "excludes": "Lordship as domination, triumph, or the god-emperor's claim to absolute power over subjects.",
+   "quote": "As king he is a servant, and as the servant of God he is king.",
+   "page": 155,
+   "cards": [
+    "p2a-8",
+    "p2a-11"
+   ]
+  },
+  {
+   "word": "conceived by the power of the Holy Spirit, born of the Virgin Mary",
+   "article": 2,
+   "means": "His origin is new creation by the Spirit, not divine begetting: a sign of grace, of new birth given by God alone.",
+   "excludes": "God as biological father of a demigod, the pagan myth of the god-begotten hero, or Mary as a second Christology.",
+   "quote": "the conception of Jesus is new creation, not begetting by God",
+   "page": 193,
+   "cards": [
+    "p2b-2"
+   ]
+  },
+  {
+   "word": "suffered under Pontius Pilate",
+   "article": 3,
+   "means": "Faith is anchored in a datable event under a named governor: God saves in real history, not in timeless myths.",
+   "excludes": "Christianity as timeless truths or archetypal myths easily detached from the awkward particularity of one man's execution.",
+   "quote": "it simply accepts the fact that to save us God became man",
+   "page": 59,
+   "cards": [
+    "p2b-3",
+    "p2b-8"
+   ]
+  },
+  {
+   "word": "descended into hell",
+   "article": 4,
+   "means": "Christ entered sheol, the dead's limbo of final loneliness and godforsakenness, so no depth of dying is beyond his reach.",
+   "excludes": "A mythological underworld of the damned beneath the cosmos, or an embarrassing legend that demythologization should quietly delete.",
+   "quote": "the word “hell” is only a wrong translation of sheol (in Greek, Hades)",
+   "page": 209,
+   "cards": [
+    "p2b-4"
+   ]
+  },
+  {
+   "word": "rose again",
+   "article": 5,
+   "means": "God answered Jesus' self-giving love by holding him in life: love proved stronger than death, creating a new mode of life.",
+   "excludes": "Resuscitation to ordinary mortal life, the soul's natural survival, or a symbol of nature's returning spring.",
+   "quote": "It is the greater strength of love in face of death.",
+   "page": 212,
+   "cards": [
+    "p2b-5"
+   ]
+  },
+  {
+   "word": "ascended",
+   "article": 6,
+   "means": "Christ's humanity is taken into God's very being: heaven is communion with God, the upper reach of existence, not a place.",
+   "excludes": "A bodily flight upward into a three-story cosmos, as though God dwelt physically above the clouds.",
+   "quote": "so that human existence can find its geometrical place, so to speak, inside God’s own being",
+   "page": 220,
+   "cards": [
+    "p2b-6"
+   ]
+  },
+  {
+   "word": "judge the living and the dead",
+   "article": 7,
+   "means": "The judge is our crucified brother, whose test is love: whether we found him in the least of men.",
+   "excludes": "A terrifying day of reckoning before a strange, distant God before whom the Christian can only tremble.",
+   "quote": "the discovery of Christ in the least of men, in those who need my help",
+   "page": 147,
+   "cards": [
+    "p2a-5",
+    "p2b-7"
+   ]
+  },
+  {
+   "word": "the Holy Spirit",
+   "article": 8,
+   "means": "God's gift to history: the risen Lord's living presence, gathering believers into a new world, the Church's breath, not private fervor.",
+   "excludes": "The Spirit as only the third Person of abstruse speculation, or as vague feeling, interiority, and edification.",
+   "quote": "the power through which the risen Lord remains present in the history of the world",
+   "page": 235,
+   "cards": [
+    "p3-1",
+    "p3-4"
+   ]
+  },
+  {
+   "word": "the holy catholic Church",
+   "article": 9,
+   "means": "Catholic is wholeness: local churches stay Church only in visible unity, one in Word and Eucharist; holy is God's power sanctifying through sinful members.",
+   "excludes": "A spotless club of saints, or 'catholic' as one denomination's brand of bureaucratic uniformity over rival bodies.",
+   "quote": "they can only remain the Church by being open to one another",
+   "page": 244,
+   "cards": [
+    "p3-2"
+   ]
+  },
+  {
+   "word": "the communion of saints, the forgiveness of sins",
+   "article": 10,
+   "means": "Both are the Spirit's sacramental work: communion is the eucharistic bond of one table reaching beyond death; forgiveness is baptism and penance.",
+   "excludes": "Communion as a club of the holy dead, forgiveness as cheap reassurance without conversion and sacramental rebirth.",
+   "quote": "the word sanctorum (of the holy ones) does not refer to persons but means the holy gifts",
+   "page": 236,
+   "cards": [
+    "p3-1",
+    "p3-4"
+   ]
+  },
+  {
+   "word": "the resurrection of the body, life everlasting",
+   "article": 11,
+   "means": "Not the soul's escape from the body but God awakening the whole person into the dialogue of love that outlasts death.",
+   "excludes": "The Greek promise: an immortal soul naturally outliving the body it is glad to shed.",
+   "quote": "not really as a supplement to a preceding and independent immortality of the soul",
+   "page": 246,
+   "cards": [
+    "p3-3"
+   ]
   }
  ]
 };

@@ -1,0 +1,314 @@
+{
+  "terms": [
+    {
+      "id": "credo-cordare",
+      "term": "cre-do / cor-dare",
+      "origin": "Latin",
+      "pronunciation": "KREH-do / kor-DAH-reh",
+      "definition": "Wordplay on credo (I believe) and cor-dare (to give one's heart): to believe is to hand over the heart, entrusting oneself, not merely assenting to facts.",
+      "nuance": "For Ratzinger believing is entrusting, not program: faith belongs to \"stand-understand\", not \"know-make\"; the heart is given to a ground one did not make.",
+      "page": 49,
+      "cards": ["intro-6", "intro-11", "p3-5"]
+    },
+    {
+      "id": "fides-quae-qua",
+      "term": "fides quae / fides qua",
+      "origin": "Latin (scholastic)",
+      "pronunciation": "FEE-des KWAY / FEE-des KWAH",
+      "definition": "Distinguishes faith's content, fides quae (what is believed), from fides qua: the personal act of believing, the faith by which one believes.",
+      "nuance": "Ratzinger reverses the felt priority: by origin faith is \"not a recitation of doctrines\" but \"conversion, an about-turn, a shift of being\"; content lives in the act.",
+      "page": 62,
+      "cards": ["intro-3", "intro-11", "intro-12"]
+    },
+    {
+      "id": "anonymous-belief",
+      "term": "“anonymous” belief",
+      "origin": "Modern usage",
+      "pronunciation": "—",
+      "definition": "Belief without the name faith: the unavoidable basic decision every person makes about meaning; no one stands outside some act of entrusting.",
+      "nuance": "Ratzinger rules out unbelief in principle: positivist and Marxist alike stake life on meaning, for man \"is bound to have some kind of “belief”\"; credo is conversion, not acquisition.",
+      "page": 51,
+      "cards": ["intro-3", "intro-5", "intro-6"]
+    },
+    {
+      "id": "i-believe-in-you",
+      "term": "“I believe in you”",
+      "origin": "Baptismal dialogue (credo in te)",
+      "pronunciation": "—",
+      "definition": "Faith's central formula: not assent to something but trust in the You who upholds me, the personal character of Christian belief.",
+      "nuance": "The book's culmination: \"its central formula is not “I believe in something”\"; the meaning of the world is a person, and faith is \"the encounter with the man Jesus\".",
+      "page": 56,
+      "cards": ["intro-8", "intro-12", "p3-5"]
+    },
+    {
+      "id": "amen",
+      "term": "‘mn / Amen",
+      "origin": "Hebrew root",
+      "pronunciation": "ah-MEN",
+      "definition": "The root shared by Amen and belief: truth, firm ground, loyalty, trust; faith as taking a stand on what upholds.",
+      "nuance": "Ratzinger rings the whole Creed with it: \"In the harmony of “Credo” and “Amen”\" the meaning becomes visible; believing is trustful standing toward logos, not blind surrender.",
+      "page": 53,
+      "cards": ["intro-6", "intro-7"]
+    },
+    {
+      "id": "etsi-deus",
+      "term": "etsi Deus non daretur",
+      "origin": "Latin",
+      "pronunciation": "ET-see DEH-oos non dah-TEH-toor",
+      "definition": "Even if God did not exist: conducting public life as though God were irrelevant, faith kept private, with nothing left for God to do.",
+      "nuance": "The 1989 preface's diagnosis: Christianity lived this way by default, and the bill arrives when \"God is dead\" is taken to heart and man becomes raw material.",
+      "page": 15,
+      "cards": ["intro-1"]
+    },
+    {
+      "id": "ehyeh-asher-ehyeh",
+      "term": "Ehyeh asher Ehyeh",
+      "origin": "Hebrew (Exodus 3:14)",
+      "pronunciation": "EH-yeh AH-sher EH-yeh",
+      "definition": "God's answer to Moses at the burning bush: \"I AM WHO I AM\" (or: I am what I am), unfolded into the revealed name Yahweh.",
+      "nuance": "Ratzinger hears \"a refusal to give a name\" as much as a name: the answer cancels the name into mystery yet promises presence, identity as being-for.",
+      "page": 88,
+      "cards": ["p1-3", "p1-5"]
+    },
+    {
+      "id": "yahweh",
+      "term": "Yahweh",
+      "origin": "Hebrew",
+      "pronunciation": "YAH-weh",
+      "definition": "Israel's revealed name of God, explained by I am; Ratzinger reads its root as being: the one who simply is, enduring presence and promise.",
+      "nuance": "He weds the Name to philosophical Being yet transforms both: \"he is there for us\", \"he is our God\"; being turns out to be faithful presence.",
+      "page": 90,
+      "cards": ["p1-3", "p1-5", "p1-7"]
+    },
+    {
+      "id": "el-elohim",
+      "term": "El / Elohim",
+      "origin": "Hebrew",
+      "pronunciation": "EL / el-oh-HEEM",
+      "definition": "The patriarchal names for God: El, the personal highest God met on the I-You plane; Elohim, a plural form used for Israel's one God.",
+      "nuance": "Ratzinger reads the strange plural as a pointer past our categories: God \"lies beyond them\"; even the number one cannot contain him, a hint of Trinity.",
+      "page": 87,
+      "cards": ["p1-4", "p1-13"]
+    },
+    {
+      "id": "god-of-the-fathers",
+      "term": "the “God of the fathers”",
+      "origin": "Biblical (Abraham, Isaac, Jacob)",
+      "pronunciation": "—",
+      "definition": "God as the patriarchs met him: personal, promise-bound, tied to no shrine, the numen personale over against the local numen.",
+      "nuance": "The inner assumption of Yahweh-faith: relation before place, hope before power, for \"He is not the god of a place but the god of men\".",
+      "page": 86,
+      "cards": ["p1-4", "p1-5"]
+    },
+    {
+      "id": "name-of-god",
+      "term": "the name of God",
+      "origin": "Biblical usage (Hebrew)",
+      "pronunciation": "—",
+      "definition": "Not a definition of God's essence but his self-giving: to name himself is to become invocable, entering relation and coexistence with us.",
+      "nuance": "Ratzinger contrasts name with concept: concepts grasp things in themselves, but God's self-naming is \"making himself nameable\", \"handing himself over to men\", fulfilled when the name becomes a person.",
+      "page": 93,
+      "cards": ["p1-3", "p1-5", "p1-6"]
+    },
+    {
+      "id": "deus-absconditus",
+      "term": "Deus absconditus / Deus revelatus",
+      "origin": "Latin",
+      "pronunciation": "DEH-oos ab-SKON-di-tus / reh-veh-LAH-toos",
+      "definition": "The hidden God and the revealed God: biblical self-disclosure conceals as it reveals; the name withdraws into mystery while promising presence.",
+      "nuance": "In the burning bush both hold at once: \"concealment and revelation\" are simultaneous; the Name dissolves into mystery yet becomes invocable nearness.",
+      "page": 89,
+      "cards": ["p1-5", "p1-7", "p2b-4"]
+    },
+    {
+      "id": "analogia-entis",
+      "term": "analogia entis",
+      "origin": "Latin (scholastic)",
+      "pronunciation": "ah-na-LO-gi-ah EN-tis",
+      "definition": "The analogy of being: creatures resemble God only under a still greater unlikeness; all God-talk is analogical, never literal or exhaustive.",
+      "nuance": "Ratzinger invokes the Lateran rule whenever God is named: what we say is always outstripped, the difference remaining \"greater than what they have in common\".",
+      "page": 19,
+      "cards": ["intro-1", "p1-7", "p1-9"]
+    },
+    {
+      "id": "verum-quia-factum",
+      "term": "verum quia factum / faciendum",
+      "origin": "Latin (Vico; Marx)",
+      "pronunciation": "WEH-rum KEE-ah FAK-tum / fah-KI-en-dum",
+      "definition": "True because made: \"all that we can truly know is what we have made ourselves\" (Vico); modernity adds the faciendum, the makeable future we must produce.",
+      "nuance": "Ratzinger diagnoses modernity's makability and Marxism's faciendum politics: belief cannot be consigned to fact or project, for meaning is received, never manufactured.",
+      "page": 43,
+      "cards": ["intro-5", "intro-6"]
+    },
+    {
+      "id": "logos",
+      "term": "logos",
+      "origin": "Greek",
+      "pronunciation": "LOG-oss",
+      "definition": "Word, reason, meaning: the mind at the heart of being, and John's title for Christ, in whom meaning is personal and has a face.",
+      "nuance": "Ratzinger makes logos faith's ground: meaning is received, not made, and is truth; \"The indivisibility of meaning, ground, and truth\" unites Creed and philosophy.",
+      "page": 55,
+      "cards": ["intro-6", "intro-7", "p1-8", "p1-11", "p2a-8"]
+    },
+    {
+      "id": "mythos",
+      "term": "mythos",
+      "origin": "Greek",
+      "pronunciation": "MY-thoss",
+      "definition": "Myth, sacred story: the religious worldview the early Church refused when it chose truth over custom and the philosophers' God over the gods.",
+      "nuance": "He names the choice \"opting for the logos as against any kind of myth\", a definitive demythologization, and warns that retreat into piety repeats antiquity's failure.",
+      "page": 97,
+      "cards": ["p1-8", "p2a-2", "p2a-7"]
+    },
+    {
+      "id": "creatio-ex-nihilo",
+      "term": "creatio ex nihilo",
+      "origin": "Latin",
+      "pronunciation": "kreh-TI-o ex NEE-hi-lo",
+      "definition": "Creation out of nothing: the world is sheer gift, matter included, held in being by a freedom that owes it nothing.",
+      "nuance": "It is the grammar of grace: the Virgin Birth replays creation, the God \"who created being out of nothing\", so salvation is new creation, never achievement.",
+      "page": 196,
+      "cards": ["p1-11", "p2b-2"]
+    },
+    {
+      "id": "homoousios",
+      "term": "homoousios",
+      "origin": "Greek (Nicene)",
+      "pronunciation": "hom-oh-OO-see-oss",
+      "definition": "Greek: of one substance with the Father. Nicaea's formula that the Son shares the Father's very being, \"the standard of orthodoxy\" from the fourth century.",
+      "nuance": "Ratzinger reads the formula as \"a frontier notice\": it \"had been condemned in the third century\" itself, usable only as baffled speech guarding the mystery.",
+      "page": 121,
+      "cards": ["p1-13", "p1-14"]
+    },
+    {
+      "id": "ousia-hypostasis",
+      "term": "ousia / hypostasis",
+      "origin": "Greek",
+      "pronunciation": "oo-SEE-ah / hoo-POS-tah-sis",
+      "definition": "Being and person: the Creed's one being in three Persons, oneness on the level of substance, threeness as relation.",
+      "nuance": "He revolutionizes the pair with Augustine: \"accidents, only substance and relation\"; person is pure relatedness, so relation is as primordial as substance.",
+      "page": 129,
+      "cards": ["p1-13", "p1-14"]
+    },
+    {
+      "id": "kyrios",
+      "term": "kyrios",
+      "origin": "Greek",
+      "pronunciation": "KOO-ree-oss",
+      "definition": "Lord: the Greek Bible's substitute for the unspeakable divine Name, confessed of Jesus in the Creed as our Lord, the title the Cross redefines.",
+      "nuance": "Ratzinger redefines the title through the Cross: true lordship is pure self-giving; the cosmos bows before \"the slaughtered Lamb\", not before power.",
+      "page": 156,
+      "cards": ["p1-5", "p2a-8", "p2a-11"]
+    },
+    {
+      "id": "kenosis",
+      "term": "kenosis",
+      "origin": "Greek (Philippians 2)",
+      "pronunciation": "keh-NO-sis",
+      "definition": "Self-emptying: Christ's surrender of existence for himself to become servant, the Latin exinanivit, \"he “emptied” himself\", the hinge of the Philippians hymn.",
+      "nuance": "Ratzinger makes kenosis the key to divinity: \"the pure movement of the “for”\" is precisely his glory; the emptied one becomes lord of the whole cosmos.",
+      "page": 155,
+      "cards": ["p2a-8", "p2a-9", "p2a-11"]
+    },
+    {
+      "id": "pro-nobis",
+      "term": "pro nobis",
+      "origin": "Latin",
+      "pronunciation": "pro NO-bis",
+      "definition": "For us: Christ's being is wholly directed to others, \"the “for us”\" around which the Bible gathers election, representation, and redemption.",
+      "nuance": "With Barth, Ratzinger calls this functional Christology: \"the whole being of Jesus is a function\" of \"the “for us”\"; there is no private “I” behind his work.",
+      "page": 144,
+      "cards": ["p2a-3", "p2a-5", "p2a-10"]
+    },
+    {
+      "id": "last-man",
+      "term": "the “last man”",
+      "origin": "Pauline (1 Cor 15:45)",
+      "pronunciation": "—",
+      "definition": "The last Adam: Christ as exemplary and final man who gathers humanity and carries it, with God, into its future.",
+      "nuance": "Ratzinger: \"the exemplary man\" oversteps humanity by pure openness, \"final man, who takes man into his future\"; his existence concerns all mankind, not one exception.",
+      "page": 165,
+      "cards": ["p2a-10", "p2a-11"]
+    },
+    {
+      "id": "ad-inferos",
+      "term": "“descended into hell” (ad inferos)",
+      "origin": "Latin (Creed article)",
+      "pronunciation": "ad in-FEH-ros",
+      "definition": "Christ's entry into death itself: the final loneliness and godforsakenness from which no voice returns, not a geography of torment beneath the earth.",
+      "nuance": "Ratzinger calls it the most modern article: solidarity, not scenery, for he passed \"gate of our final loneliness\" and \"the abyss of our abandonment\".",
+      "page": 212,
+      "cards": ["p2b-4"]
+    },
+    {
+      "id": "eschaton",
+      "term": "eschaton / eschatology",
+      "origin": "Greek (eschatos)",
+      "pronunciation": "es-KAH-ton / es-kah-TOL-oh-jee",
+      "definition": "The last thing: history's end and goal, Christ's return, the world's omega and judgment, already breaking through in Jesus' Resurrection.",
+      "nuance": "Ratzinger collapses the distance: \"end-eschatology\" and Resurrection \"are in reality one and the same thing\"; the end has begun, \"the eschatological happening\".",
+      "page": 225,
+      "cards": ["p2a-11", "p2b-5", "p2b-7"]
+    },
+    {
+      "id": "parousia",
+      "term": "parousia",
+      "origin": "Greek",
+      "pronunciation": "par-oo-SEE-ah",
+      "definition": "Presence, coming: Christ's return in glory and the world's consummation, cried for in the early Church's Maran atha, \"Our Lord, come\".",
+      "nuance": "Ratzinger sets Maran atha against Dies irae: the first Christians waited with hope, not dread; the Creed's bare judgment-line must be read back within mercy.",
+      "page": 229,
+      "cards": ["p2b-6", "p2b-7"]
+    },
+    {
+      "id": "judge",
+      "term": "the “judge”",
+      "origin": "Creed language",
+      "pronunciation": "—",
+      "definition": "The coming judge of living and dead: the last court of appeal that preserves justice in order to perfect love rather than destroy it.",
+      "nuance": "Ratzinger turns terror into hope: judgment is handed to our brother, \"It is not a stranger who judges us\"; the judge has suffered and knows us from within.",
+      "page": 230,
+      "cards": ["p2b-7"]
+    },
+    {
+      "id": "sacrament",
+      "term": "sacrament",
+      "origin": "Latin (sacramentum)",
+      "pronunciation": "SAK-rah-ment",
+      "definition": "Effective sign of God's gift, baptism, Eucharist, penance, through which the Church is made one and grace becomes touchable.",
+      "nuance": "Constitutive, not ornamental: \"Church and sacrament stand or fall together\", and the Creed itself is baptismal, born in the sacrament of conversion.",
+      "page": 239,
+      "cards": ["intro-9", "p3-1", "p3-2"]
+    },
+    {
+      "id": "catholic-katholou",
+      "term": "catholic / katholou",
+      "origin": "Greek (kath’ holou)",
+      "pronunciation": "KATH-ol-ik / kath-HOL-oo",
+      "definition": "According to the whole: the Church's wholeness, locally one around the bishop, universally one across all places and peoples.",
+      "nuance": "Not a boast but a demand: catholicity is \"visible unity\" of Word and sacrament, \"the necessity for the unity of all the bishops with one another\".",
+      "page": 244,
+      "cards": ["p3-1", "p3-2"]
+    },
+    {
+      "id": "communion-of-saints",
+      "term": "“communion of saints”",
+      "origin": "Latin (communio sanctorum)",
+      "pronunciation": "—",
+      "definition": "The fellowship formed by the holy gifts, Eucharist, baptism, forgiveness, binding the baptized across the earth and beyond death.",
+      "nuance": "Ratzinger recovers the sacramental root: sanctorum \"does not refer to persons but means the holy gifts\"; communion is made by worship, not mustered by holy people.",
+      "page": 236,
+      "cards": ["p3-1", "p3-2"]
+    },
+    {
+      "id": "resurrection-of-the-body",
+      "term": "“resurrection of the body”",
+      "origin": "Creed (Lat. resurrectio carnis)",
+      "pronunciation": "—",
+      "definition": "The promise that the whole embodied person, not a separated soul, lives on, awakened by God at the end, together with all mankind.",
+      "nuance": "Ratzinger defuses the scandal: the hope concerns \"the one, undivided man\", not reassembled bodies; \"man can no longer totally perish\" because God loves him into life.",
+      "page": 247,
+      "cards": ["p2b-5", "p3-1", "p3-3"]
+    }
+  ]
+}

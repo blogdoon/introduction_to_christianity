@@ -28,6 +28,7 @@
     <a href="#thinkers">Thinkers</a>
     <a href="#sources">Sources</a>
     <a href="#plan">Plan</a>
+    <a href="#reader">Read</a>
     <a href="#search">Search</a>
   </nav>
   <div class="nav__progress" title="Ideas learned">
@@ -223,10 +224,32 @@
   <div class="plan" id="plan-list"></div>
 </section>
 
+<!-- ───────────────────────────── READER ───────────────────────────── -->
+<section class="section section--tinted" id="reader">
+  <header class="section__head">
+    <p class="eyebrow">11 — The book itself</p>
+    <h2>Read the whole book</h2>
+    <p class="lede">All 272 pages, reflowed for reading. Jump to a page, follow the chapter
+      list, and settle every question at the source.</p>
+  </header>
+  <div class="reader__bar">
+    <input type="number" id="reader-jump" min="1" max="272" placeholder="Page #" aria-label="Jump to page">
+    <button class="btn btn--ghost btn--small" id="reader-go">Go</button>
+    <button class="btn btn--ghost btn--small" id="reader-sm" aria-label="Smaller text">A−</button>
+    <button class="btn btn--ghost btn--small" id="reader-lg" aria-label="Larger text">A+</button>
+    <details class="toc"><summary class="btn btn--ghost btn--small">Contents</summary>
+      <div class="toc__list" id="reader-toc"></div>
+    </details>
+  </div>
+  <div class="reader-pages" id="reader-pages">
+    <p class="search__hint">The full text loads in your browser when you open this section — nothing is sent anywhere.</p>
+  </div>
+</section>
+
 <!-- ───────────────────────────── SEARCH ───────────────────────────── -->
 <section class="section section--tinted" id="search">
   <header class="section__head">
-    <p class="eyebrow">11 — The book itself</p>
+    <p class="eyebrow">12 — Ask the book</p>
     <h2>Search all 272 pages</h2>
     <p class="lede">Ask the book. Results come back with page numbers, so you can settle the
       question by going to the source.</p>
